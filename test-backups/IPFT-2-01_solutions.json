@@ -1,7 +1,297 @@
 {
   "testId": "IPFT-2-01",
   "testCode": "IPFT-2-01",
-  "backupTimestamp": "2026-01-19T06:21:07.140Z",
-  "solutions": [],
-  "error": "Failed to fetch solutions from database"
+  "backupTimestamp": "2026-01-19T06:23:47.399Z",
+  "solutions": [
+    {
+      "uuid": "01b50f620d32",
+      "solution_text": "Let PA = AQ = $\\lambda$\nOA . AB = AP . AQ\n$ \\Rightarrow $ 1.12 = $\\lambda$ . $\\lambda$\n$ \\Rightarrow $ $\\lambda$ = 2$\\sqrt 3 $\nArea $\\Delta$PQB = ${1 \\over 2}$ $\\times$ 2$\\lambda$ $\\times$ AB\n$\\Delta$ = ${1 \\over 2}$ . 4$\\sqrt 3 $ $\\times$ 12\n= 24$\\sqrt 3 $",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "0a87ede97fc4",
+      "solution_text": "Sigma bonds : 19\npi bonds : 3",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "140992f5b704",
+      "solution_text": "Given,\n$\\sum\\limits_{k = 1}^{31} {\\left( {{}^{31}{C_k}} \\right)\\left( {{}^{31}{C_{k - 1}}} \\right) - \\sum\\limits_{k = 1}^{30} {\\left( {{}^{30}{C_k}} \\right)\\left( {{}^{30}{C_{k - 1}}} \\right) = {{\\alpha (60!)} \\over {(30!)(31!)}}} } $\nNow,\n$\\sum\\limits_{k = 1}^{31} {\\left( {{}^{31}{C_k}} \\right)\\left( {{}^{31}{C_{k - 1}}} \\right)} $\n$ = \\left( {{}^{31}{C_1}\\,.\\,{}^{31}{C_0} + {}^{31}{C_2}\\,.\\,{}^{31}{C_1} + {}^{31}{C_3}\\,.\\,{}^{31}{C_2} + \\,\\,......\\,\\, + \\,\\,{}^{31}{C_{31}}\\,.\\,{}^{31}{C_{30}}} \\right)$\n$ = \\left( {{}^{31}{C_0}\\,.\\,{}^{31}{C_{31 - 1}} + {}^{31}{C_1}\\,.\\,{}^{31}{C_{31 - 2}} + \\,\\,.....\\,\\, + \\,\\,{}^{31}{C_{30}}\\,.\\,{}^{31}{C_{31 - 31}}} \\right)$\n[using ${}^n{C_r} = {}^n{C_{n - r}}$]\n$ = \\left( {{}^{31}{C_0}\\,.\\,{}^{31}{C_{30}} + {}^{31}{C_1}\\,.\\,{}^{31}{C_{29}} + \\,\\,.....\\,\\, + \\,\\,{}^{31}{C_{30}}\\,.\\,{}^{31}{C_0}} \\right)$\n$ = {}^{62}{C_{30}}$\nNow, $\\sum\\limits_{k = 1}^{30} {{}^{30}{C_k}\\,.\\,{}^{30}{C_{k - 1}}} $\n$ = \\left( {{}^{30}{C_1}\\,.\\,{}^{30}{C_0} + {}^{30}{C_2}\\,.\\,{}^{30}{C_1} + \\,\\,.....\\,\\, + \\,\\,{}^{30}{C_{30}}\\,.\\,{}^{30}{C_{29}}} \\right)$\n$ = \\left( {{}^{30}{C_0}\\,.\\,{}^{30}{C_{29}} + {}^{30}{C_1}\\,.\\,{}^{30}{C_{28}} + \\,\\,....\\,\\, + \\,\\,{}^{30}{C_{29}}\\,.\\,{}^{30}{C_0}} \\right)$\n$ = {}^{60}{C_{29}}$\n$\\therefore$ ${}^{60}{C_{30}} - {}^{60}{C_{29}} = {{\\alpha (60!)} \\over {30!\\,31!}}$\n$ \\Rightarrow {{62\\,.\\,61\\,.\\,60!} \\over {30!\\,32!}} - {{60!} \\over {29!\\,31!}} = {{\\alpha (60!)} \\over {30!\\,31!}}$\n$ \\Rightarrow {{62\\,.\\,61\\,.\\,60!} \\over {30!\\,32!}} - {{60!} \\over {{{30!} \\over {30}}\\,.\\,31!}} = {{\\alpha (60!)} \\over {30!\\,31!}}$\n$ \\Rightarrow {{60!} \\over {30!\\,31!}}\\left( {{{62\\,.\\,61} \\over {32}} - 30} \\right) = {{\\alpha (60!)} \\over {30!\\,31!}}$\n$ \\Rightarrow \\alpha = {{62\\,.\\,61} \\over {32}} - 30$\n$ \\Rightarrow 16\\alpha = {{62\\,.\\,61 - 30 \\times 32} \\over 2}$\n$ \\Rightarrow 16\\alpha = {{2822} \\over 2} = 1411$",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "14eac00db295",
+      "solution_text": "Feldspar, zeolites, mica and asbestos are silicates, the basic unit\nbeing $SiO_4^{4 - }$ in each of them.",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "1811a5722480",
+      "solution_text": "",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "1e602cd99843",
+      "solution_text": "The cell notation indicates that the left side (Ag|Ag+) is the anode (oxidation occurs), and the right side (Cu²⁺|Cu) is the cathode (reduction occurs). In a galvanic (voltaic) cell, electrons flow from anode to cathode.\nThe standard cell potential (E° cell) is the difference in potential between the cathode and anode. It's calculated as :\nE°$_{cell}$ = E°$_{cathode}$ - E°$_{anode}$\nAt LHS (oxidation) :\n$\n2 \\times\\left(\\mathrm{Ag} \\longrightarrow \\mathrm{Ag}^{+}+\\mathrm{e}^{-}\\right); \\quad E_{\\text {oxi }}^{\\circ}=-x\n$\nAt RHS (reduction) :\n$\n\\mathrm{Cu}^{2+}+2 e^{-} \\longrightarrow \\mathrm{Cu}; \\quad \\mathrm{E}_{\\text {red }}^{\\circ}=+y\n$\n____________________________________________________\n$\n2 \\mathrm{Ag}+\\mathrm{Cu}^{2+} \\longrightarrow \\mathrm{Cu}+2 \\mathrm{Ag}^{+}, E_{\\text {cell }}^{\\circ}=(y-x)\n$\n_____________________________________________________\n$ \\therefore $ E°$_{cell}$ = y - x\nTherefore, the correct answer is :\nOption C : y - x.",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "23a4f8126df5",
+      "solution_text": "Normal to the curve at point P(a, b) is parallel to the line x + 3y = $-$5.\nm_{normal} = $ - {1 \\over 3}$\n$ \\therefore $ m_{tangent} = 3 = ${{dy} \\over {dx}}$\nGiven y(x) = $\\int\\limits_0^x {(2{t^2} - 15t + 10)dt} $\n$ \\Rightarrow $ y'(x) = (2x^{2} $-$ 15x + 10)\nat point P(a, b)\n3 = (2a^{2} $-$ 15a + 10)\n$ \\Rightarrow $ 2a^{2} $-$ 15a + 7 = 0\n$ \\Rightarrow $ 2a^{2} $-$ 14a $-$ a + 7 = 0\n$ \\Rightarrow $ 2a(a $-$ 7) $-$ 1 (a $-$ 7) = 0\na = ${1 \\over 2}$ or 7,\ngiven a > 1 $ \\therefore $ a = 7\nAs P(a, b) lies on curve\n$ \\therefore $ $b = \\int_0^a {(2{t^2} - 15t + 10)dt} $\n$b = \\int_0^7 {(2{t^2} - 15t + 10)dt} $\n$6b = - 413$\n$ \\therefore $ $|a + 6b|\\, = 406$",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "26413f6a23c0",
+      "solution_text": "At equilibrium,\nrate of forward reaction = Rate of backward\nreaction",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "366cb4f1ea6d",
+      "solution_text": "Let $S = 1\\,.\\,{3^0} + 2\\,.\\,{3^1} + 3\\,.\\,{3^2} + \\,\\,......\\,\\, + \\,\\,10\\,.\\,{3^9}$\n$3S = 1\\,.\\,{3^1} + 2\\,.\\,{3^2} + \\,\\,..........\\,\\, + \\,\\,10\\,.\\,{3^{10}}$\n___________________________________________________________\n$ - 2S = (1\\,.\\,{3^0} + 1\\,.\\,{3^1} + 1\\,.\\,{3^2} + \\,\\,........\\,\\, + \\,\\,1\\,.\\,{3^9}) - 10\\,.\\,{3^{10}}$\n$ \\Rightarrow S = {1 \\over 2}\\left[ {10\\,.\\,{3^{10}} - {{{3^{10}} - 1} \\over { - 3 - 1}}} \\right]$\n$ \\Rightarrow S = {{19\\,.\\,{3^{10}} + 1} \\over 4}$",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "374cbfa64812",
+      "solution_text": "Given $\\sigma_s=2 \\lambda_e$\nAt point $P, E_S=\\frac{\\sigma_S}{2 \\varepsilon_0}$\n$\\begin{aligned}\n& E_I=\\frac{\\lambda_e}{2 \\pi r \\varepsilon_0} \\\\\n& \\frac{E_S}{E_I}=4 \\pi: 1=\\pi \\sqrt{n}: 1\n\\end{aligned}$\nFor value of $n=16$",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "3b0e558ca8f2",
+      "solution_text": "$\n\\therefore E_{x}=2 \\mathrm{~cm}=0\n$\n$\n\\begin{aligned}\n& \\frac{1}{4 \\pi \\varepsilon_{0}} \\frac{(10 \\mu \\mathrm{C})}{(2 \\mathrm{~cm})^{2}}=\\frac{1}{4 \\pi \\varepsilon_{0}} \\frac{(40 \\mu \\mathrm{C})}{[(\\mathrm{a}-2) \\mathrm{cm}]^{2}}\n\\end{aligned}\n$\n$\\Rightarrow\\left$($\\frac${a-2}{2}$\\right$)$^{2}$=4$\n$\\Rightarrow$ $\\frac${a-2}{2}=2$\n$\na=6 \\mathrm{~cm}\n$",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "43dea20dde08",
+      "solution_text": "$\\mathbf{C a F}_2$ does not evolve any gas with concentrated $\\mathrm{H}_2 \\mathrm{SO}_4$.\n$\\mathrm{NaBr} \\rightarrow$ evolve $\\mathrm{Br}_2$\n$\\mathrm{NaNO}_3 \\rightarrow$ evolve $\\mathrm{NO}_2$\n$\\mathrm{KI} \\rightarrow$ evolve $\\mathrm{I}_2$",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "4df309d51457",
+      "solution_text": "Given $S = \\left\\{ {\\left( {x,y} \\right):y = x + 1\\,\\,} \\right.\\,$\nand $\\,\\,\\,\\left. {0 < x < 2} \\right\\}$\nAs $\\,\\,\\,\\,x \\ne x + 1\\,\\,\\,$\nfor any $\\,\\,\\,x \\in \\left( {0,2} \\right) \\Rightarrow \\left( {x,x} \\right) \\notin S$\n$\\therefore$ $S$ is not reflexive.\nHence $S$ in not an equivalence relation.\nAlso $\\,\\,\\,T = \\left\\{ {x,\\left. y \\right)} \\right.:x - y$ is an integer $\\left. {} \\right\\}$\nas $x - x = 0$ is an integer $\\forall x \\in R$\n$\\therefore$ $T$ is reflexive.\nIf $x-y$ is an integer then $y-x$ is also an integer\n$\\therefore$ $T$ is symmetric\nIf $x-y$ is an integer and $y - z$ is an integer then\n$(x-y)+(y-z)=x-z$ is also an integer.\n$\\therefore$ $T$ is transitive\nHence $T$ is an equivalence relation",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "5c12cf2d948e",
+      "solution_text": "$ = \\int {{{{{\\sin x} \\over {{{\\cos }^3}x}}} \\over {1 + {{\\tan }^3}x}}dx = \\int {{{\\tan x.{{\\sec }^2}x} \\over {(\\tan x + 1)(1 + {{\\tan }^2}x - \\tan x)}}dx} } $\nLet $\\tan x = t \\Rightarrow {\\sec ^2}x.\\,dx = dt$\n$ = \\int {{t \\over {(t + 1)({t^2} - t + 1)}}dt} $\n$ = \\int {\\left( {{A \\over {t + 1}} + {{B(2t - 1)} \\over {{t^2} - t + 1}} + {C \\over {{t^2} - t + 1}}} \\right)dx} $\n$ \\Rightarrow A({t^2} - t + 1) + B(2t - 1)({t^2} - t + 1) + C(t + 1) = t$\n$ \\Rightarrow {t^2}(A + 2B) + t( - A + B + C) + A - B + C = 1$\n$\\therefore$ $A + 2B = 0$ ..... (1)\n$ - A + B + C = 1$ ... (2)\n$A - B + C = 0$ ... (3)\n$ \\Rightarrow C = {1 \\over 2} \\Rightarrow A - B = - {1 \\over 2}$ ... (4)\n$A + 2B = 0$\n$A - B = - {1 \\over 2}$\n$\\Rightarrow$ $3B = {1 \\over 2} \\Rightarrow B = {1 \\over 6}$\n$A = - {1 \\over 3}$\n$I = - {1 \\over 3}\\int {{{dt} \\over {1 + t}} + {1 \\over 6}\\int {{{2t - 1} \\over {{t^2} - t + 1}}dt + {1 \\over 2}\\int {{{dt} \\over {{t^2} - t + 1}}} } } $\n$ = - {1 \\over 3}\\ln |(1 + \\tan x)| + {1 \\over 6}\\ln |{\\tan ^2}x - \\tan x + 1| + {1 \\over 2}.{2 \\over {\\sqrt 3 }}{\\tan ^{ - 1}}\\left( {{{\\left( {\\tan x - {1 \\over 2}} \\right)} \\over {{{\\sqrt 3 } \\over 2}}}} \\right)$\n$ = - {1 \\over 3}\\ln |(1 + \\tan x)| + {1 \\over 6}\\ln |{\\tan ^2}x - \\tan x + 1| + {1 \\over {\\sqrt 3 }}{\\tan ^{ - 1}}\\left( {{{2\\tan x - 1} \\over {\\sqrt 3 }}} \\right) + C$\n$\\alpha = - {1 \\over 3},\\beta = {1 \\over 6},\\gamma = {1 \\over {\\sqrt 3 }}$\n$18(\\alpha + \\beta + {\\gamma ^2}) = 18\\left( { - {1 \\over 3} + {1 \\over 6} + {1 \\over 3}} \\right) = 3$",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "5cb19e48feef",
+      "solution_text": "Put, $\\cos \\alpha = {3 \\over 5},\\sin \\alpha = {4 \\over 5}$\n$ \\therefore {3 \\over 5}\\cos kx - {4 \\over 5}\\sin \\,kx$\n$ = \\cos \\alpha .\\cos kx - \\sin \\alpha .\\sin kx$\n$ = \\cos \\left( {\\alpha + kx} \\right)$\nSo, $y = \\sum\\limits_{k = 1}^6 {k{{\\cos }^{ - 1}}\\left( {\\cos \\left( {\\alpha + kx} \\right)} \\right)} $\n$ = \\sum\\limits_{k = 1}^6 {\\left( {{k^2}x + kx} \\right)} $\n$ \\Rightarrow {{dy} \\over {dx}} = \\sum\\limits_{k = 1}^6 {{k^2}} $\n$ = {{6 \\times 7 \\times 13} \\over 6} = 91$",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "60f0e2a24a17",
+      "solution_text": "Given $\\left( {1 + x} \\right){\\left( {1 - x} \\right)^n}$\n= ${\\left( {1 - x} \\right)^n}$ + $x{\\left( {1 - x} \\right)^n}$\nGeneral term of ${\\left( {1 - x} \\right)^n}$ = ${}^n{C_r}.{\\left( { - 1} \\right)^r}.{x^r}$\n$\\therefore$ Term containing ${x^n}$ in ${\\left( {1 - x} \\right)^n}$ = ${}^n{C_n}.{\\left( { - 1} \\right)^n}.{x^n}$\nSo coefficient of ${x^n}$ in ${\\left( {1 - x} \\right)^n}$ = ${}^n{C_n}.{\\left( { - 1} \\right)^n}$\nGeneral term of $x{\\left( {1 - x} \\right)^n}$ = ${}^n{C_r}.{\\left( { - 1} \\right)^r}.{x^{r + 1}}$\n$\\therefore$ Term containing ${x^n}$ in $x{\\left( {1 - x} \\right)^n}$ = ${}^n{C_{n - 1}}.{\\left( { - 1} \\right)^{n - 1}}.{x^n}$\nSo coefficient of ${x^n}$ in $x{\\left( {1 - x} \\right)^n}$ = ${}^n{C_{n - 1}}.{\\left( { - 1} \\right)^{n - 1}}$\n$\\therefore$ coefficient of ${x^n}$ in ${\\left( {1 - x} \\right)^n}$ + $x{\\left( {1 - x} \\right)^n}$\n= ${}^n{C_n}.{\\left( { - 1} \\right)^n}$ + ${}^n{C_{n - 1}}.{\\left( { - 1} \\right)^{n - 1}}$\n= ${\\left( { - 1} \\right)^{n - 1}}\\left[ {{}^n{C_{n - 1}} - {}^n{C_n}} \\right]$\n= ${\\left( { - 1} \\right)^{n - 1}}\\left[ {n - 1} \\right]$\n= ${\\left( { - 1} \\right)^n}\\left[ {1 - n} \\right]$",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "686227a864e1",
+      "solution_text": "Let 3$^{x}$ = t ; t $>$ 0\nt(t – 1) + 2 = |t – 1| + |t – 2|\nt^{2} – t + 2 = |t – 1| + |t – 2|\nCase-I : t $<$ 1\nt^{2} – t + 2 = 1 – t + 2 – t\n$ \\Rightarrow $ t^{2} + 2 = 3 – t\n$ \\Rightarrow $ t^{2} + t – 1 = 0\n$ \\Rightarrow $ t = ${{ - 1 \\pm \\sqrt 5 } \\over 2}$\n$ \\Rightarrow $ t = ${{\\sqrt 5 - 1} \\over 2}$ [ As t $>$ 0]\nCase-II : 1 $ \\le $ t $<$ 2\n$ \\Rightarrow $ t^{2} – t + 2 = t – 1 + 2 – t\n$ \\Rightarrow $ t^{2} – t + 1 = 0\nD $<$ 0 so no real solution.\nCase-III : t $ \\ge $ 2\n$ \\Rightarrow $ t^{2} – t + 2 = t – 1 + t – 2\n$ \\Rightarrow $ t^{2} – 3t - 5 = 0\n$ \\Rightarrow $ D $<$ 0 so no real solution.",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "6fb060f6547f",
+      "solution_text": "Given, ${\\alpha _A} > {\\alpha _B}$\n$ \\therefore $ $\\Delta {L_A} > \\Delta {L_B}$\nSo, A will contract more than B, so it will bend towards\nleft.",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "700fd62651c9",
+      "solution_text": "Work done = area of ABCEO\n= area of trapezium ABCD + area of rectangle ODCE\n= ${1 \\over 2}$ $ \\times $ 45 $ \\times $ 30 + 100 $ \\times $ 30 = 5250J",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "7301fc7ddc97",
+      "solution_text": "$\\mathop {\\lim }\\limits_{n \\to \\infty } {1 \\over n}\\sum\\limits_{j = 1}^n {{{\\left( {{{2j} \\over n} - {1 \\over n} + 8} \\right)} \\over {\\left( {{{2j} \\over n} - {1 \\over n} + 4} \\right)}}} $\n$\\int\\limits_0^1 {{{2x + 8} \\over {2x + 4}}dx = \\int\\limits_0^1 {dx + \\int\\limits_0^1 {{4 \\over {2x + 4}}} dx} } $\n$ = 1 + 4{1 \\over 2}(\\ln |2x + 4|)_0^1$\n$ = 1 + 2\\ln \\left( {{3 \\over 2}} \\right)$",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "74ae132dab3b",
+      "solution_text": "${m_{PQ}} = {{4 - 3} \\over {1 - k}} $\n$ \\therefore $ Slope of perpendicular bisector of PQ, $ {m_ \\bot } = k - 1$\nmid point of PQ = $\\left( {{{k + 1} \\over 2},{7 \\over 2}} \\right)$\nequation of perpendicular bisector\n$y - {7 \\over 2} = (k - 1)\\left( {x - {{k + 1} \\over 2}} \\right)$\nfor y intercept put x = 0\n$y = {7 \\over 2} - \\left( {{{{k^2} - 1} \\over 2}} \\right) = - 4$\n${{{k^2} - 1} \\over 2} = {{15} \\over 2} \\Rightarrow k = \\pm 4$",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "7fd81aabd027",
+      "solution_text": "$\\begin{aligned}\n& \\mathrm{f}: \\mathrm{N}-\\{1\\} \\rightarrow \\mathrm{N} \\\\\n& \\mathrm{f}(\\mathrm{n})=\\text { The highest prime factor of } \\mathrm{n} . \\\\\n& \\mathrm{f}(2)=2 \\\\\n& \\mathrm{f}(4)=2 \\\\\n& \\Rightarrow \\text { many one } \\\\\n& 4 \\text { is not image of any element } \\\\\n& \\Rightarrow \\text { into }\n\\end{aligned}$\nHence many one and into\nNeither one-one nor onto.",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "816c5c5066bf",
+      "solution_text": "Parabola y$^{2}$\n= 4x and circle x$^{2}$\n+ y$^{2}$\n= 5 intersect with each other.\nSo, x$^{2}$ + 4x = 5\n$ \\Rightarrow $ x^{2} + 5x – x – 5 = 0\n$ \\Rightarrow $ x(x + 5) –1(x + 5) = 0\nx = 1, –5\nIntersection point in 1^{st} quadrant is = (1, 2)\nEquation of tangent to y^{2} = 4x at (1, 2) is\ny(2) = 2 (x + 1)\n$ \\Rightarrow $ y = x + 1 .....(1)\nBy checking each options, you can see\npoint $\\left( { {3 \\over 4},{7 \\over 4}} \\right)$ lies on equation (1).",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "85b24b1a1437",
+      "solution_text": "Here Z of K = 15, Na = 11, H = 1, Li = 3.\nIn K, because of more number of protons (high atomic\nnumber) the 2s electron experiences a higher effective nuclear\ncharge and is closer to nucleus, thus having less energy",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "8bd8947b2e88",
+      "solution_text": "Steep rise in pH around the equivalence point for titration of strong acid with strong base.",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "8c028c655701",
+      "solution_text": "$|x-y| \\leq y \\leq 4 \\sqrt{x}$\n$\\begin{aligned}\n& \\text { Area }=\\int_0^{64}\\left(4 \\sqrt{x}-\\frac{x}{2}\\right) d x \\\\\n& \\left.=\\frac{4 x^{3 / 2}}{\\frac{3}{2}}-\\frac{x^2}{4}\\right]_0^{64}\n\\end{aligned}$",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "8c0b1665af07",
+      "solution_text": "$ \\therefore $ $\\Delta $H_{atomisation} = $\\Delta $H_{Vap} + Bond Energy\n$ \\Rightarrow $ x = $\\Delta $H_{Vap} + y\n$ \\Rightarrow $ x $>$ y",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "8c1e4d3f1a9d",
+      "solution_text": "In Kjeldahl’s method, ammonium ion or ammonia should generate from a compound.\nSo, those compounds which contain nitrogen in nitro and azo groups and nitrogen in the ring cannot generate ammonium ion or ammonia.\nAmong the given option only aniline can generate NH$_{3}$. So it is suitable far nitrogen estimation by Kjeldahl’s method.",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "8caefbc658d8",
+      "solution_text": "In the wet test for detection of Group 5 cations, including Ba²⁺, Ca²⁺, and Sr²⁺, ammonium carbonate ((NH₄)₂CO₃) is used as a group reagent. The reaction with barium ions (Ba²⁺) can be written as :\n$\\mathrm{Ba}^{2+} + \\left(\\mathrm{NH}_4\\right)_2\\mathrm{CO}_3 \\rightarrow \\underset{\\text{(white precipitate)}}{\\mathrm{BaCO}_3 \\downarrow} + 2\\mathrm{NH}_4^+$\nUpon adding ammonium carbonate to the solution containing Ba²⁺ ions, a white precipitate of barium carbonate (BaCO₃) is formed, which can be used to identify the presence of barium ions in the sample.",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "8f96f197a6c0",
+      "solution_text": "$\\begin{aligned} & \\mathrm{EMF}=\\frac{\\mathrm{d} \\phi}{\\mathrm{dt}}=\\frac{\\mathrm{BA}-0}{\\mathrm{t}} \\\\\\\\ & \\mathrm{A}=\\pi \\mathrm{r}^2=\\pi\\left(\\frac{0.1^2}{\\pi}\\right)=0.01 \\\\\\\\ & \\mathrm{~B}=0.5 \\\\\\\\ & \\mathrm{EMF}=\\frac{(0.5)(0.01)}{0.5}=0.01 \\mathrm{~V}=10~ \\mathrm{mV}\\end{aligned}$",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "942bac971c0f",
+      "solution_text": "$T = {{2\\pi m} \\over {Bq}}$\n$\\Rightarrow$ Frequency $f = {{Bq} \\over {2\\pi m}}$\n$ = {{{{10}^{ - 4}} \\times 1.6 \\times {{10}^{ - 19}}} \\over {2\\pi \\times 9 \\times {{10}^{ - 31}}}}$\n$ \\simeq 2.8 \\times {10^6}$ Hz",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "9731fc9ee427",
+      "solution_text": "Here,\nwe will use lens maker formula,\n${1 \\over f} = \\left( {\\mu - 1} \\right)\\left( {{1 \\over {{R_1}}} - {1 \\over {{R_2}}}} \\right)$\nSo, the focal length of L$_1$ remains the same as the original lens because the curvature of the surfaces does not change\nSo, ${\\left( f \\right)_{{L_1}}} = f$ .... (1)\nNow, for L$_3$, L$_3$ is plano-convex lens\n${R_1} = R,\\,{R_2} = \\infty $\nSo, ${1 \\over {{{\\left( f \\right)}_{{L_3}}}}} = \\left( {\\mu - 1} \\right)\\left( {{1 \\over R} - {1 \\over \\infty }} \\right)$\n$ \\Rightarrow {1 \\over {{{\\left( f \\right)}_{{L_3}}}}} = \\left( {\\mu - 1} \\right){1 \\over R}$ ..... (2)\nFor whole double convex lens,\n${1 \\over f} = \\left( {\\mu - 1} \\right)\\left( {{1 \\over R} - {1 \\over { - R}}} \\right)$ (As ${R_1} = R$, ${R_2} = - R$)\n$ \\Rightarrow {1 \\over f} = \\left( {\\mu - 1} \\right)\\left( {{1 \\over R} + {1 \\over R}} \\right)$\n$ \\Rightarrow {1 \\over f} = \\left( {\\mu - 1} \\right)\\left( {{2 \\over R}} \\right)$ .... (3)\nFrom (2) and (3),\n${1 \\over {{{\\left( f \\right)}_{{L_3}}}}} = {1 \\over {2f}} \\Rightarrow {\\left( f \\right)_{{L_3}}} = 2f$\nHence, ${{{{\\left( f \\right)}_{{L_1}}}} \\over {{{\\left( f \\right)}_{{L_3}}}}} = {f \\over {2f}} \\quad\\text{....(from (1)})\\quad= 1:2$",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "9be43ff6879b",
+      "solution_text": "(a) XeF$_{4}$ is sp$^{3}$d$^{2}$ hybridised with 4 bond pairs and 1 lone pair and structure is square planar. Here all the bond lengths are equal.\n(b) $\\,\\,\\,\\,$ BF$_4^ - $, 4 bond pair present so angle is 109$^{o}$ 28$^{'}$ and sp$^{3}$ hybridised. So structure is regular tetrahedral. Here all the bond lengths are equal.\n(c) SiF$_{4}$\nis sp$^{3}$\nhybridisation and regular tetrahedral geometry. Here all the bond lengths are equal.\n(d) SF$_{4}$ is sp$^{3}$d hybridised with 4 bond pairs and 1 lone pair and its expected trigonal\nbipyramidal geometry gets distorted due to presence of a lone\npair of electrons and it becomes distorted tetrahedral or\nsee-saw with the bond angles equal to < 120$^{o}$ and 179$^{o}$ instead of\nthe expected angles of 120$^{o}$ and 180$^{o}$ respectively. Here axial and equitorial both bonds are presents. And we know axial bonds are longer and weaker.",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "9f420583d1ef",
+      "solution_text": "${L_1}:bx + 10y - 8 = 0,\\,{L_2}:2x - 3y = 0$\nthen $L:(bx + 10y - 8) + \\lambda (2x - 3y) = 0$\n$\\because$ It passes through $(1,\\,1)$\n$\\therefore$ $b + 2 - \\lambda = 0 \\Rightarrow \\lambda = b + 2$\nand touches the circle ${x^2} + {y^2} = {{16} \\over {17}}$\n$\\left| {{{{8^2}} \\over {{{(2\\lambda + b)}^2} + {{(10 - 3\\lambda )}^2}}}} \\right| = {{16} \\over {17}}$\n$ \\Rightarrow 4{\\lambda ^2} + {b^2} + 4b\\lambda + 100 + 9{\\lambda ^2} - 60\\lambda = 68$\n$ \\Rightarrow 13{(b + 2)^2} + {b^2} + 4b(b + 2) - 60(b + 2) + 32 = 0$\n$ \\Rightarrow 18{b^2} = 36$\n$\\therefore$ ${b^2} = 2$\n$\\therefore$ Eccentricity of ellipse : ${{{x^2}} \\over 5} + {{{y^2}} \\over {{b^2}}} = 1$ is\n$\\therefore$ $e = \\sqrt {1 - {2 \\over 5}} = \\sqrt {{3 \\over 5}} $",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "a43e0d6b1348",
+      "solution_text": "Given, I = $\\int {{{\\sin }^{ - 1}}\\left( {\\sqrt {{x \\over {1 + x}}} } \\right)} dx$\nLet ${\\sin ^{ - 1}}\\left( {{{\\sqrt x } \\over {\\sqrt {1 + x} }}} \\right)$ = $\\theta $\n$ \\Rightarrow $ ${{{\\sqrt x } \\over {\\sqrt {1 + x} }} = \\sin \\theta }$\n$ \\Rightarrow $ tan $\\theta $ = ${{{\\sqrt x } \\over 1}}$\n$ \\Rightarrow $ $\\theta $ = ${\\tan ^{ - 1}}\\left( {\\sqrt x } \\right)$\n$ \\therefore $ I = $\\int {{{\\tan }^{ - 1}}\\left( {\\sqrt x } \\right)dx} $\n= $\\int {{{\\tan }^{ - 1}}\\left( {\\sqrt x } \\right).1dx} $\nApplying integration by parts,\n\nI = ${\\tan ^{ - 1}}\\left( {\\sqrt x } \\right).x - \\int {{1 \\over {1 + x}}{1 \\over {2\\sqrt x }}xdx} $\nLet ${\\sqrt x }$ = t\n$ \\Rightarrow $ x = t^{2}\n$ \\Rightarrow $ dx = 2tdt\n$ \\therefore $ I = ${\\tan ^{ - 1}}\\left( {\\sqrt x } \\right).x - \\int {{{{t^2}} \\over {\\left( {1 + {t^2}} \\right)\\left( {2t} \\right)}}2tdt} $\n= ${\\tan ^{ - 1}}\\left( {\\sqrt x } \\right).x - \\int {{{\\left( {{t^2} + 1} \\right) - 1} \\over {\\left( {1 + {t^2}} \\right)}}dt} $\n= ${\\tan ^{ - 1}}\\left( {\\sqrt x } \\right).x - t + {\\tan ^{-1}}t + c$\n= ${\\tan ^{ - 1}}\\left( {\\sqrt x } \\right).x - \\sqrt x + {\\tan ^{ - 1}}\\sqrt x + c$\n$ \\therefore $ A(x) = x + 1, B(x) = –${\\sqrt x }$",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "b33ed82deb58",
+      "solution_text": "${F_{thrust}} = \\left( {{{dm} \\over {dt}}.{V_{rel}}} \\right)$\n$\\left( {{{dm} \\over {dt}}{V_{rel}} - mg} \\right) = ma$\n$ \\Rightarrow \\left( {{{dm} \\over {dt}}} \\right) \\times 500 - {10^3} \\times 10 = {10^3} \\times 20$\n${{dm} \\over {dt}}$ = (60 kg /s)",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "ca3e5c13d5af",
+      "solution_text": "Potential energy is maximum at maximum distance from mean.",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "db6b5433c92e",
+      "solution_text": "This limit can be solved using L'Hopital's Rule, which states that for the limit of the form 0/0 or ±∞/±∞, the limit can be found by taking the derivative of the numerator and the derivative of the denominator separately.\n$\\mathop {\\lim }\\limits_{x \\to 2} {{{x^2}f(2) - 4f(x)} \\over {x - 2}}$ is in the indeterminate form, and we are given that f(2) = 4 and f'(2) = 1, so we can apply L'Hopital's rule.\nTaking the derivative of the numerator and the denominator, we get :\nNumerator: derivative of $x^2 f(2) - 4f(x)$ is $2x f(2) - 4f'(x)$.\nDenominator: derivative of $x - 2$ is $1$.\nSo, the limit becomes :\n$\\mathop {\\lim }\\limits_{x \\to 2} {{{2xf(2) - 4f'(x)}} \\over 1} = 2 \\times 2 \\times f(2) - 4 \\times f'(2) = 16 - 4 = 12.$\nTherefore, Option D, 12, is the correct answer.",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "e39d8540b321",
+      "solution_text": "Energy of EMR = IE of the metal (A)\n$ = hv = {{hc} \\over \\lambda }$ atom^{$-$1} $ = {{hc} \\over \\lambda } \\times {N_A}$ mol^{$-$1}\n$ = {{(6.63 \\times {{10}^{ - 34}}) \\times (3 \\times {{10}^8}) \\times (6.02 \\times {{10}^{23}})} \\over {(663 \\times {{10}^{ - 9}})}}$ J mol^{$-$1} [$\\because$ $\\lambda$ = 663 nm = 663 $\\times$ 10^{$-$9} m]\n= 180600 J mol^{$-$1} = 180.6 kJ mol^{$-$1} $ \\simeq $ 181 kJ mol^{$-$1}",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "e990aa5d7415",
+      "solution_text": "I $=$ ${{M{R^2}} \\over 2} + 2\\left( {{{M{R^2}} \\over 4} + M{R^2}} \\right)$\n$ = {{M{R^2}} \\over 2} + {{M{R^2}} \\over 2} + 2M{R^2}$\n$=$ $3M{R^2}$",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "f01b5f71eaee",
+      "solution_text": "${e_1} = \\sqrt {1 - {{16} \\over {25}}} = {3 \\over 5}$ foci ($ \\pm $ae, 0)\nFoci = ($ \\pm $3, 0)\nLet equation of hyperbola be ${{{x^2}} \\over {{A^2}}} - {{{y^2}} \\over {{B^2}}} = 1$\nPasses through ($ \\pm $3, 0)\nA^{2} = 9, A = 3, ${e_2} = {5 \\over 3}$\n${e_2}^2 = 1 + {{{B^2}} \\over {{A^2}}}$\n${{25} \\over 9} = 1 + {{{B^2}} \\over 9} \\Rightarrow {B^2} = 16$\nEquation of the hyperbola\n${{{x^2}} \\over 9} - {{{y^2}} \\over {16}} = 1$",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "f4d07995437e",
+      "solution_text": "$PC{l_5}(g)\\mathrel{\\mathop{\\kern0pt\\longrightarrow}\n\\limits_{300K}^{I\\,order}} PC{l_3}(g) + C{l_2}(g)$\nt = 0\n50M\nt = 120min\n10 M\n$ \\Rightarrow K = {{2.303} \\over t}\\log {{[{A_0}]} \\over {[{A_t}]}}$\n$ \\Rightarrow K = {{2.303} \\over {120}}\\log {{50} \\over {10}}$\n$ \\Rightarrow K = {{2.303} \\over {120}} \\times 0.6989 = 0.013413$ min^{$-$1}\n$ = 1.3413 \\times {10^{ - 2}}$ min^{$-$1}\n1.34 $\\Rightarrow$ Nearest integer = 1",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "fb061136c012",
+      "solution_text": "Force on each column = ${{mg} \\over 4}$\nStrain = ${{mg} \\over {4AY}}$\n$ = {{50 \\times {{10}^3} \\times 9.8} \\over {4 \\times \\pi (1 - 0.25) \\times 2 \\times {{10}^{11}}}}$\n= 2.6 $\\times$ 10^{$-$7}",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "37c5a1c38898",
+      "solution_text": "Since coefficient of x is negative, but is moving along +ve x-axis,\nso This is the form E$_{y}$ = E$_{0}$($$\\omega $$t – kx)\n$$\\omega $$ = $${2\\pi \\times {{10}^6}}$$\nf = $${\\omega \\over {2\\pi }}$$ = 10^{6} Hz\nk = $$\\pi \\times {10^{ - 2}}$$\nAlso, $$\\lambda = {{2\\pi } \\over k}$$ = $${{2\\pi } \\over {\\pi \\times {{10}^{ - 2}}}}$$ = 200 m",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "648c5602ea6d",
+      "solution_text": "Work done due to a charge W = QV",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "6c96f7f71ee8",
+      "solution_text": "In Young's double slit experiment, the angular separation of the fringes (θ) is given by :\n$$\\theta = \\frac{m\\lambda}{d}$$\nwhere m is the fringe order, λ is the wavelength of the light, and d is the distance between the slits.\nNow, let's analyze both statements:\nStatement I: If the screen is moved away from the plane of the slits, the angular separation of the fringes remains constant.\nThis statement is true because the angular separation of the fringes (θ) does not depend on the distance between the screen and the slits. It only depends on the fringe order (m), the wavelength of the light (λ), and the distance between the slits (d).\nStatement II: If the monochromatic source is replaced by another monochromatic source of larger wavelength, the angular separation of fringes decreases.\nThis statement is false because if the wavelength (λ) increases, the angular separation of the fringes (θ) also increases according to the formula :\n$$\\theta = \\frac{m\\lambda}{d}$$\nSo, the correct answer is :\nOption B: Statement I is true but Statement II is false.",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "815e921683e3",
+      "solution_text": "C$_{AB}$ = 2C",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "cb0714d597c3",
+      "solution_text": "For third ionization enthalpy electronic\nconfiguration of\nV$^{2+}$ (21) : [Ar]$_{18}$ 3d$^{3}$4s$^{0}$\nCr$^{2+}$ (22) : [Ar]$_{18}$ 3d$^{4}$4s$^{0}$\nMn$^{2+}$ (23) : [Ar]$_{18}$ 3d$^{5}$4s$^{0}$\nFe$^{2+}$ (24) : [Ar]$_{18}$ 3d$^{5}$4s$^{1}$\nMn has most stable configuration due to half\nfilled d-orbital. Hence 3rd ionization energy will\nbe highest for Mn.",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "f48a133fb029",
+      "solution_text": "$\\bullet$ Humidity is a solution of liquid in gas\n$\\bullet$ Alloy is a solution of solid in solid\n$\\bullet$ Amalgam is a solution of liquid in solid\n$\\bullet$ Smoke is a solution of solid in gas",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "61d45a1102ba",
+      "solution_text": "Given, $$\\cot ^{-1}(\\sqrt{\\cos \\alpha})-\\tan ^{-1} \\sqrt{\\cos \\alpha}=x$$ ... (i)\nWe know that $$\\cot ^{-1}(\\sqrt{\\cos } \\alpha)+\\tan ^{-1} \\sqrt{\\cos \\alpha}=\\frac{\\pi}{2}$$ .... (ii)\nOn adding Eqs. (i) and (ii), we get\n$$\\begin{aligned}\n& 2 \\cot ^{-1} \\sqrt{\\cos \\alpha}=\\frac{\\pi}{2}+x \\\\\n& \\Rightarrow \\sqrt{\\cos } \\alpha=\\cot \\left(\\frac{\\pi}{4}+\\frac{x}{2}\\right)=\\frac{\\cot \\frac{x}{2}-1}{1+\\cot \\frac{x}{2}}\n\\end{aligned}$$\n$$\\Rightarrow \\sqrt{\\cos \\alpha}=\\frac{\\cos \\frac{x}{2}-\\sin \\frac{x}{2}}{\\cos \\frac{x}{2}+\\sin \\frac{x}{2}}$$\nOn squaring both sides, we get\n$$\\cos \\alpha=\\frac{\\cos ^2 \\frac{x}{2}+\\sin ^2 \\frac{x}{2}-2 \\sin \\frac{x}{2} \\cos \\frac{x}{2}}{\\cos ^2 \\frac{x}{2}+\\sin ^2 \\frac{x}{2}+2 \\sin \\frac{x}{2} \\cos \\frac{x}{2}}$$\n$$\\begin{aligned}\n& \\Rightarrow \\cos \\alpha=\\frac{1-\\sin x}{1+\\sin x} \\\\\n& \\Rightarrow \\frac{1-\\tan ^2 \\frac{\\alpha}{2}}{1+\\tan ^2 \\frac{\\alpha}{2}}=\\frac{1-\\sin x}{1+\\sin x}\n\\end{aligned}$$\nOn applying componendo and dividendo rule, we get\n$$\\begin{aligned}\n& \\frac{1-\\tan ^2 \\frac{\\alpha}{2}-1-\\tan ^2 \\frac{\\alpha}{2}}{1-\\tan ^2 \\frac{\\alpha}{2}+1+\\tan ^2 \\frac{\\alpha}{2}}=\\frac{1-\\sin x-1-\\sin x}{1-\\sin x+1+\\sin x} \\\\\n\\Rightarrow \\quad & \\tan ^2 \\frac{\\alpha}{2}=\\sin x \\\\\n\\Rightarrow \\quad & \\sin x=\\tan ^2 \\frac{\\alpha}{2}\n\\end{aligned}$$",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "8491a036760a",
+      "solution_text": "$$\\text { Given, } A=\\left[\\begin{array}{cc}\n\\sin \\theta & -\\cos \\theta \\\\\n\\cos \\theta & \\sin \\theta\n\\end{array}\\right]$$\n$$\n\\begin{aligned}\n& \\Rightarrow \\quad \\operatorname{adj} A=\\left[\\begin{array}{cc}\n\\sin \\theta & -\\cos \\theta \\\\\n-(-\\cos \\theta) & \\sin \\theta\n\\end{array}\\right] \\\\\n& {\\left[\\because \\text { If } A=\\left[\\begin{array}{ll}\na & b \\\\\nc & d\n\\end{array}\\right] \\text {, then adj } A=\\left[\\begin{array}{cc}\nd & -c \\\\\n-b & a\n\\end{array}\\right]\\right] }\n\\end{aligned}\n$$\n$$\\begin{aligned}\n& \\Rightarrow \\operatorname{adj} A=A \\\\\n& \\begin{aligned}\n\\operatorname{Now,} A\\left(\\operatorname{adj}(A)^{-1}\\right) & =A(A)^{-1} \\\\\n= & I=\\left[\\begin{array}{ll}\n1 & 0 \\\\\n0 & 1\n\\end{array}\\right] \\quad\\left[\\because A A^{-1}=A^{-1} A=I\\right]\n\\end{aligned}\n\\end{aligned}$$",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "99bcb6033126",
+      "solution_text": "Statement (a) is incorrect. Because $$\\alpha$$-D-fructose and $$\\beta$$-D-fructose are anomers, diastereomers and geometrical isomers and not enantiomers.\nRest of the given statements are correct.",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "a16fde3d582e",
+      "solution_text": "Minimum wavelength for X-ray is given by\n$${\\lambda _{\\min }} = {{12375} \\over V}\\mathop A\\limits^o $$\nAs the accelerating voltage V is decreased, $$\\lambda$$_{min} increases. The intensity of emitted radiation is determined by the number of electrons bombarding the target.\n$$\\therefore$$ Accelerating voltage does not change the intensity of X-rays emitted.",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "cbc8118c5096",
+      "solution_text": "Using lens formula,\nGiven, $$u_2+v_2=2.4 \\mathrm{~m} \\quad \\text{.... (i)}$$\nAlso, magnification for lens $$(1)$$ is 2.\n$$2=\\frac{v_2+d}{u_2-d} \\quad \\text{... (ii)}$$\nFrom Eqs. (i) and (ii),\n$$u_2=0.8+d, v_2=1.6-d$$\nFrom lens formula,\n$$\\frac{1}{v_2+d}+\\frac{1}{u_2-d}=\\frac{1}{f}$$ (For lens (1))\n$$\\frac{1}{v_2}+\\frac{1}{u_2}=\\frac{1}{f}$$ (For lens (2))\n$$\\begin{aligned}\n& \\therefore \\quad \\frac{1}{v_2+d}+\\frac{1}{u_2-d}=\\frac{1}{v_2}+\\frac{1}{u_2} \\\\\n& \\Rightarrow \\quad \\frac{1}{1.6-d+d}+\\frac{1}{0.8+d-d}=\\frac{1}{1.6-d}+\\frac{1}{0.8+d} \\\\\n& \\Rightarrow \\quad \\frac{1}{1.6}+\\frac{1}{0.8}=\\frac{(0.8+d)+(1.6-d)}{(1.6-d)(0.8+d)}\n\\end{aligned}$$\n$$\\begin{aligned}\n\\Rightarrow \\quad \\frac{1+2}{1.6}=\\frac{24}{(1.6-\\mathrm{d})(0.8-d)} \\\\\n\\Rightarrow \\quad \\frac{3}{1.6}=\\frac{2.4}{(1.6-d)(0.8-d)} \\\\\n\\Rightarrow \\quad-d^2+0.8 d+1.28=1.28 \\\\\nd^2-0.8 d=0\n\\end{aligned}$$\n$$\\begin{aligned}\n& d(d-0.8)=0 \\\\\n\\therefore \\quad & d=0.8 \\mathrm{~m} \\\\\n\\therefore \\quad & \\frac{1}{1.6-0.8}+\\frac{1}{0.8+0.8}=\\frac{1}{f} \\\\\n\\Rightarrow \\quad & \\frac{1}{0.53} \\text { or } f=0.53 \\mathrm{~m}\n\\end{aligned}$$",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "05839bda-31a9-4d32-9a17-38a7acd8d483",
+      "solution_text": "Given Data: \\n\n Initial velocity at A (going up): $v_0$, \\n\n Final velocity at A (coming down): $nv_0$, \\n\n Distance traveled up the plane: $L$, \\n\n Angle of incline: $\\\\theta$, \\n\n Coefficient of friction: $\\\\mu$ (same for upward and downward motion). \\n\n Step 1 - Analyze forces during upward motion: \\n\n During upward motion, \\n\n component of weight along plane (downward): $mg\\\\sin\\\\theta$, \\n\n friction force (downward, opposes motion): $f = \\\\mu mg\\\\cos\\\\theta$, \\n\n net deceleration: $a_{\\\\text{up}} = g\\\\sin\\\\theta + \\\\mu g\\\\cos\\\\theta$. \\n\n Using $v^2 = u^2 + 2as$ for upward journey ($v = 0$, $u = v_0$, $s = L$): \\n\n $0 = v_0^2 - 2(g\\\\sin\\\\theta + \\\\mu g\\\\cos\\\\theta)L$. \\n\n This gives $v_0^2 = 2gL(\\\\sin\\\\theta + \\\\mu\\\\cos\\\\theta)$ (equation 1). \\n\n Step 2 - Analyze forces during downward motion: \\n\n During downward motion, \\n\n component of weight along plane (downward): $mg\\\\sin\\\\theta$, \\n\n friction force (upward, opposes motion): $f = \\\\mu mg\\\\cos\\\\theta$, \\n\n net acceleration: $a_{\\\\text{down}} = g\\\\sin\\\\theta - \\\\mu g\\\\cos\\\\theta$. \\n\n Using $v^2 = u^2 + 2as$ for downward journey ($u = 0$, $v = nv_0$, $s = L$): \\n\n $(nv_0)^2 = 2(g\\\\sin\\\\theta - \\\\mu g\\\\cos\\\\theta)L$. \\n\n This gives $n^2v_0^2 = 2gL(\\\\sin\\\\theta - \\\\mu\\\\cos\\\\theta)$ (equation 2). \\n\n Step 3 - Solve for coefficient of friction: \\n\n Dividing equation 1 by equation 2: \\n\n $\\\\frac{v_0^2}{n^2v_0^2} = \\\\frac{\\\\sin\\\\theta + \\\\mu\\\\cos\\\\theta}{\\\\sin\\\\theta - \\\\mu\\\\cos\\\\theta}$. \\n\n Therefore: \\n\n $\\\\frac{1}{n^2} = \\\\frac{\\\\sin\\\\theta + \\\\mu\\\\cos\\\\theta}{\\\\sin\\\\theta - \\\\mu\\\\cos\\\\theta}$. \\n\n Cross-multiplying: \\n\n $\\\\sin\\\\theta - \\\\mu\\\\cos\\\\theta = n^2(\\\\sin\\\\theta + \\\\mu\\\\cos\\\\theta)$. \\n\n Expanding: \\n\n $\\\\sin\\\\theta - \\\\mu\\\\cos\\\\theta = n^2\\\\sin\\\\theta + n^2\\\\mu\\\\cos\\\\theta$. \\n\n Rearranging: \\n\n $\\\\sin\\\\theta - n^2\\\\sin\\\\theta = \\\\mu\\\\cos\\\\theta + n^2\\\\mu\\\\cos\\\\theta$. \\n\n Factoring: \\n\n $\\\\sin\\\\theta(1 - n^2) = \\\\mu\\\\cos\\\\theta(1 + n^2)$. \\n\n Therefore: \\n\n $\\\\mu = \\\\frac{1 - n^2}{1 + n^2} \\\\cdot \\\\frac{\\\\sin\\\\theta}{\\\\cos\\\\theta} = \\\\frac{1 - n^2}{1 + n^2}\\\\tan\\\\theta$. \\n\n Step 4 - Find value of k: \\n\n Comparing with $\\\\mu = k\\\\tan\\\\theta$: \\n\n $k = \\\\frac{1 - n^2}{1 + n^2}$. \\n\n Verification: \\n\n For $n = \\\\frac{1}{2}$: \\n\n $k = \\\\frac{1 - \\\\frac{1}{4}}{1 + \\\\frac{1}{4}} = \\\\frac{3/4}{5/4} = \\\\frac{3}{5} = 0.6$. \\n\n Physical interpretation: \\n\n When $n \\\\to 0$ (very low return speed): $k \\\\to 1$ (high friction). \\n\n When $n \\\\to 1$ (nearly same return speed): $k \\\\to 0$ (low friction).",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "63ed02ef-df0b-4af8-94fc-ea53ff98f482",
+      "solution_text": "Explanation for the answer...",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "6831f9a0-8e21-4f7c-9d6b-313786d3feae",
+      "solution_text": "$\\textbf{Given data:}$\n\nLength of wire: $L = 2 \\, \\mathrm{m}$\n\nMass of wire: $M = 4 \\, \\mathrm{kg}$\n\nPoint mass: $m = 0.5 \\, \\mathrm{kg}$\n\nGravitational constant: $G = 6.67 \\times 10^{-11} \\, \\mathrm{N \\cdot m^2/kg^2}$\n\n$\\textbf{Gravitational field at center of semicircular arc:}$\n\nFor a semicircular arc, the gravitational field intensity at its center is:\n\n$$I = \\frac{2GM\\pi}{L^2}$$\n\n$\\textbf{Gravitational force on point mass:}$\n\nThe gravitational force on mass $m$ is:\n\n$$F = m \\times I = m \\times \\frac{2GM\\pi}{L^2} = \\frac{2GMm\\pi}{L^2}$$\n\n$\\textbf{Substituting values:}$\n\n$$F = \\frac{2 \\times 6.67 \\times 10^{-11} \\times 4 \\times 0.5 \\times \\pi}{(2)^2}$$\n\n$$F = \\frac{2 \\times 6.67 \\times 10^{-11} \\times 4 \\times 0.5 \\times 3.14159}{4}$$\n\n$$F = \\frac{2 \\times 6.67 \\times 10^{-11} \\times 2 \\times 3.14159}{4}$$\n\n$$F = \\frac{6.67 \\times 10^{-11} \\times 2 \\times 3.14159}{2}$$\n\n$$F = 6.67 \\times 10^{-11} \\times 3.14159$$\n\n$$F = 2.095 \\times 10^{-10} \\times 2$$\n\n$$F \\approx 4.19 \\times 10^{-10} \\, \\mathrm{N}$$\n\n$\\textbf{Conclusion:}$\n\nThe gravitational force experienced by the point mass is approximately $4.19 \\times 10^{-10} \\, \\mathrm{N}$.\n\nTherefore, the correct answer is: $4.19 \\times 10^{-10} \\, \\mathrm{N}$",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "cfa5a2f3-88fe-4eec-9d5b-37e07cbb1b48",
+      "solution_text": "$\\pmb{\\text{Step 1: Convert solution volume to mass}}$\n\n$$\\text{Mass} = 1000 \\text{ mL} \\times 1.03 \\text{ g/mL} = 1030 \\text{ g} = 1.03 \\text{ kg}$$\n\n$\\pmb{\\text{Step 2: Calculate ppm concentration}}$\n\n$$\\begin{array}{rcl} \\text{ppm} & = & \\frac{\\text{mass of solute (mg)}}{\\text{mass of solution (kg)}} \\\\ & = & \\frac{20.6}{1.03} = 20 \\end{array}$$\n\n$\\textbf{Final Answer: } \\boxed{20}$",
+      "solution_image_url": ""
+    }
+  ]
 }
