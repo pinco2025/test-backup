@@ -1,0 +1,887 @@
+{
+  "testCode": "IPFT-2-01",
+  "backupTimestamp": "2026-01-19T06:05:31.181Z",
+  "status": "completed",
+  "completionPercentage": 100,
+  "currentStep": "test-review",
+  "sections": [
+    {
+      "name": "Physics",
+      "status": "completed",
+      "questionsCompleted": 20,
+      "questionsTarget": 20,
+      "questions": [
+        {
+          "uuid": "cfa5a2f3-88fe-4eec-9d5b-37e07cbb1b48",
+          "question": "Determine the concentration in ppm of a solution where $20.6 \\text{ mg}$ of $\\text{O}_2$ is dissolved in $1 \\text{ L}$ of sea water having a density of $1.03 \\text{ g/mL}$.",
+          "question_image_url": null,
+          "answer": "C",
+          "division": 1,
+          "status": "pending",
+          "chapter": "MPN",
+          "topic": "JEE Main 2025 (Online) 29th January Morning Shift",
+          "examSource": "IPQ"
+        },
+        {
+          "uuid": "05839bda-31a9-4d32-9a17-38a7acd8d483",
+          "question": "A particle is projected up from the bottom (point A) of a rough inclined plane with initial velocity $v_0$. \\n\n The inclined plane makes an angle $\\\\theta$ with the horizontal and has a coefficient of friction $\\\\mu$. \\n\n The particle travels up a distance $L$ along the plane before coming to rest momentarily at point B, and then slides back down. \\n\n When it returns to point A, its speed is $nv_0$ (where $0 < n < 1$).",
+          "question_image_url": "",
+          "answer": "B",
+          "division": 1,
+          "status": "accepted",
+          "chapter": "WEP",
+          "topic": "PH",
+          "examSource": "IPQ"
+        },
+        {
+          "uuid": "700fd62651c9",
+          "question": "A person pushes a box on a rough horizontal plateform surface. He applies a force of 200 N over a\ndistance of 15 m. Thereafter, he gets progressively tired and his applied force reduces linearly with\ndistance to 100 N. The total distance through which the box has been moved is 30 m. What is the\nwork done by the person during the total movement of the box?",
+          "question_image_url": "",
+          "answer": "B",
+          "division": 1,
+          "status": "pending",
+          "chapter": "WEP",
+          "topic": "JEE Main 2020 (Online) 4th September Evening Slot",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "b33ed82deb58",
+          "question": "The initial mass of a rocket is 1000 kg. Calculate at what rate the fuel should be burnt so that the rocket is given an acceleration of 20 ms$^{-2}$. The gases come out at a relative speed of 500 ms^{$-$1} with respect to the rocket : [Use g = 10 m/s$^{2}$]",
+          "question_image_url": "",
+          "answer": "D",
+          "division": 1,
+          "status": "pending",
+          "chapter": "COM",
+          "topic": "JEE Main 2021 (Online) 26th August Morning Shift",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "9cf8fbd3fa3d",
+          "question": "M.I. of a thin uniform rod about the axis passing through its centre and perpendicular to its length is $ML^2/12$. The rod is cut transversely into two halves, which are then riveted end to end. M.I. of the composite rod about the axis passing through its centre and perpendicular to its length will be :",
+          "question_image_url": "",
+          "answer": "C",
+          "division": 1,
+          "status": "pending",
+          "chapter": "ROT",
+          "topic": "Q11",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "e990aa5d7415",
+          "question": "A circular disc D$_{1}$ of mass M and radius R has two identical discs D$_{2}$ and D$_{3}$ of the same mass M and radius R attached rigidly at its opposite ends (see figure). The moment of inertia of the system about the axis OO' ,passing through the centre of D$_{1}$ as shown in the figure, will be :",
+          "question_image_url": "",
+          "answer": "A",
+          "division": 1,
+          "status": "pending",
+          "chapter": "ROT",
+          "topic": "JEE Main 2019 (Online) 11th January Evening Slot",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "fb061136c012",
+          "question": "Four identical hollow cylindrical columns of mild steel support a big structure of mass 50 $\\times$ 10^{3} kg. The inner and outer radii of each column are 50 cm and 100 cm respectively. Assuming uniform local distribution, calculate the compression strain of each column. [Use Y = 2.0 $\\times$ 10$^{11}$ Pa, g = 9.8 m/s$^{2}$]",
+          "question_image_url": "",
+          "answer": "B",
+          "division": 1,
+          "status": "pending",
+          "chapter": "MPS",
+          "topic": "JEE Main 2021 (Online) 31st August Evening Shift",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "6fb060f6547f",
+          "question": "A bimetallic strip consists of metals A and B. It is mounted rigidly as shown. The metal A has higher coefficient of expansion compared to that of metal B. When the bimetallic strip is placed in a cold bath, it will :",
+          "question_image_url": "",
+          "answer": "B",
+          "division": 1,
+          "status": "pending",
+          "chapter": "TPM",
+          "topic": "JEE Main 2021 (Online) 16th March Evening Shift",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "63ed02ef-df0b-4af8-94fc-ea53ff98f482",
+          "question": "LINK LINK LINKhere...",
+          "question_image_url": null,
+          "answer": "A",
+          "division": 1,
+          "status": "pending",
+          "chapter": "THD",
+          "topic": "JEE Main 2019 (Online) 9th April Morning Slot"
+        },
+        {
+          "uuid": "ca3e5c13d5af",
+          "question": "The variation of displacement with time of a particle executing free simple harmonic motion is shown in the figure.\nThe potential energy U(x) versus time (t) plot of the particle is correctly shown in figure :",
+          "question_image_url": "",
+          "answer": "D",
+          "division": 1,
+          "status": "pending",
+          "chapter": "OSC",
+          "topic": "JEE Main 2021 (Online) 27th August Morning Shift",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "3b0e558ca8f2",
+          "question": "A point charge of 10 $\\mu$C is placed at the origin. At what location on the X-axis should a point charge of 40 $\\mu$C be placed so that the net electric field is zero at $x=2$cm on the X-axis?",
+          "question_image_url": "",
+          "answer": "A",
+          "division": 1,
+          "status": "pending",
+          "chapter": "ECF",
+          "topic": "JEE Main 2023 (Online) 25th January Evening Shift",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "815e921683e3",
+          "question": "The equivalent capacitance of the combination shown in the figure is :",
+          "question_image_url": "",
+          "answer": "C",
+          "division": 1,
+          "status": "pending",
+          "chapter": "EPC",
+          "topic": "NEET 2021",
+          "examSource": "NEET"
+        },
+        {
+          "uuid": "942bac971c0f",
+          "question": "An electron with energy 0.1 keV moves at right angle to the earth's magnetic field of 1 $\\times$ 10^{$-$4} Wbm^{$-$2}. The frequency of revolution of the electron will be :\n(Take mass of electron = 9.0 $\\times$ 10^{$-$31} kg)",
+          "question_image_url": "",
+          "answer": "C",
+          "division": 1,
+          "status": "pending",
+          "chapter": "MAM",
+          "topic": "JEE Main 2022 (Online) 25th July Evening Shift",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "648c5602ea6d",
+          "question": "As a result of change in the magnetic flux linked to the closed loop as shown in the figure, an e.m.f. $$V$$ volt is induced in the loop. The work done (joule) in taking a charge Q coulomb once along the loop is",
+          "question_image_url": "",
+          "answer": "A",
+          "division": 1,
+          "status": "pending",
+          "chapter": "EMI",
+          "topic": "",
+          "examSource": "NEET"
+        },
+        {
+          "uuid": "8f96f197a6c0",
+          "question": "A conducting circular loop of radius $\\frac{10}{\\sqrt\\pi}$ cm is placed perpendicular to a uniform magnetic field of 0.5 T. The magnetic field is decreased to zero in 0.5 s at a steady rate. The induced emf in the circular loop at 0.25 s is :",
+          "question_image_url": "",
+          "answer": "A",
+          "division": 1,
+          "status": "pending",
+          "chapter": "EMI",
+          "topic": "JEE Main 2023 (Online) 24th January Morning Shift",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "37c5a1c38898",
+          "question": "The electric field part of an electromagnetic wave in a medium is represented by E$_{x}$ = 0;\n$${E_y} = 2.5{N \\over C}\\cos \\left[ {\\left( {2\\pi \\times {{10}^6}{{rad} \\over m}} \\right)t - \\left( {\\pi \\times {{10}^{ - 2}}{{rad} \\over s}} \\right)x} \\right];$$\nE$_{z}$ = 0.",
+          "question_image_url": "",
+          "answer": "B",
+          "division": 1,
+          "status": "pending",
+          "chapter": "EMW",
+          "topic": "",
+          "examSource": "NEET"
+        },
+        {
+          "uuid": "cbc8118c5096",
+          "question": "A thin plano-convex lens of focal length $$f$$ is split into two halves one of the halves is shifted along the optical axis. The separation between object and image formed by one of the half-lenses is 2.4 and the magnification of same lens is 2. If $$f$$ and $$d$$ be the focal length of the lens and separation between the two halves respectively then",
+          "question_image_url": "",
+          "answer": "A",
+          "division": 1,
+          "status": "pending",
+          "chapter": "ROI",
+          "topic": "BITSAT 2023",
+          "examSource": "BITS"
+        },
+        {
+          "uuid": "9731fc9ee427",
+          "question": "Two identical symmetric double convex lenses of focal length f are cut into two equal parts L$_{1}$, L$_{2}$ by AB plane and L$_{3}$, L$_{4}$ by XY plane as shown in figure respectively. The ratio of focal lengths of lenses L$_{1}$ and L$_{3}$ is",
+          "question_image_url": "",
+          "answer": "A",
+          "division": 1,
+          "status": "pending",
+          "chapter": "ROI",
+          "topic": "JEE Main 2025 (Online) 29th January Evening Shift",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "6c96f7f71ee8",
+          "question": "For Young's double slit experiment, two statements are given below :\nStatement I : If screen is moved away from the plane of slits, angular separation of the fringes remains constant.\nStatement II : If the monochromatic source is replaced by another monochromatic source of larger wavelength, the angular separation of fringes decreases.\nIn the light of the above statements, choose the correct answer from the options given below :",
+          "question_image_url": "",
+          "answer": "B",
+          "division": 1,
+          "status": "pending",
+          "chapter": "WOP",
+          "topic": "NEET 2023",
+          "examSource": "NEET"
+        },
+        {
+          "uuid": "a16fde3d582e",
+          "question": "The potential difference applied to an X-ray tube is decreased. As a result, in the emitted radiation,",
+          "question_image_url": "",
+          "answer": "C",
+          "division": 1,
+          "status": "pending",
+          "chapter": "DNR",
+          "topic": "BITSAT 2021",
+          "examSource": "BITS"
+        }
+      ]
+    },
+    {
+      "name": "Physics",
+      "status": "completed",
+      "questionsCompleted": 5,
+      "questionsTarget": 5,
+      "questions": [
+        {
+          "uuid": "6831f9a0-8e21-4f7c-9d6b-313786d3feae",
+          "question": "A uniform wire with total length $L = 2 \\, \\mathrm{m}$ and total mass $M = 4 \\, \\mathrm{kg}$ is shaped into a semicircular configuration. A point mass $m = 0.5 \\, \\mathrm{kg}$ is positioned at the geometric center of this semicircular arc. Calculate the magnitude of the gravitational force experienced by the point mass due to the wire.\n\n(Take $G = 6.67 \\times 10^{-11} \\, \\mathrm{N \\cdot m^2/kg^2}$)",
+          "question_image_url": null,
+          "answer": "4.19\\times10^{-10}\\\\mathrm{N}",
+          "division": 2,
+          "status": "pending",
+          "chapter": "GRV",
+          "topic": "JEE Main 2024 (Online) 4th April Morning Shift",
+          "examSource": "IPQ"
+        },
+        {
+          "uuid": "830f1147321b",
+          "question": "If graph between velocity and displacement of a particle performing SHM is shown. Find the magnitude of acceleration (in $cm/sec^2$) of the particle when it is at half of maximum displacement from mean position.",
+          "question_image_url": "",
+          "answer": "20",
+          "division": 2,
+          "status": "pending",
+          "chapter": "OSC",
+          "topic": "Q25",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "374cbfa64812",
+          "question": "An infinite plane sheet of charge having uniform surface charge density $+\\sigma_{\\mathrm{s}} \\mathrm{C} / \\mathrm{m}^2$ is placed on $x$-$y$ plane. Another infinitely long line charge having uniform linear charge density $+\\lambda_e \\mathrm{C} / \\mathrm{m}$ is placed at $z=4 \\mathrm{~m}$ plane and parallel to $y$-axis. If the magnitude values $\\left|\\sigma_{\\mathrm{s}}\\right|=2\\left|\\lambda_{\\mathrm{e}}\\right|$ then at point $(0,0,2)$, the ratio of magnitudes of electric field values due to sheet charge to that of line charge is $\\pi \\sqrt{n}: 1$. The value of $n$ is _________.",
+          "question_image_url": "",
+          "answer": "16",
+          "division": 2,
+          "status": "pending",
+          "chapter": "ECF",
+          "topic": "JEE Main 2024 (Online) 4th April Morning Shift",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "1811a5722480",
+          "question": "i Six identical parallel metallic large plates are located in air at equal distance $d$ to neighbouring plates. The area of each plate is $A$. Some of the plates are connected by conducting wires to each other. If the capacitance of the system of plates between points P and Q in pF is $x$. Find $x/5$. (Take $A = 0.05$ m$^2$, $d = 17.7$ mm, $\\\\epsilon_0 = 8.85 \\\\times 10^{-12}$ F/m)",
+          "question_image_url": "",
+          "answer": "5",
+          "division": 2,
+          "status": "pending",
+          "chapter": "EPC",
+          "topic": "Q21",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "fa178a749ad4",
+          "question": "A proton is fired from very far away towards a nucleus with charge Q = 120e, where e is the electronic charge. It makes a closest approach of 10fm to the nucleus. The de Broglie wavelength (in units of fm) of the proton at its start is: (take the proton mass, $m_p = (5/3) \\\\times 10^{-27}$ kg; h/e = $4.2 \\\\times 10^{-15}$ J.s/C; $\\\\frac{1}{4\\\\pi\\\\epsilon_0} = 9 \\\\times 10^9$ m/F; 1fm = $10^{-15}$ m)",
+          "question_image_url": "",
+          "answer": "7",
+          "division": 2,
+          "status": "pending",
+          "chapter": "NUC",
+          "topic": "Q23",
+          "examSource": "JEE"
+        }
+      ]
+    },
+    {
+      "name": "Chemistry",
+      "status": "completed",
+      "questionsCompleted": 20,
+      "questionsTarget": 20,
+      "questions": [
+        {
+          "uuid": "85b24b1a1437",
+          "question": "Among the following, the energy of 2s orbital is lowest in :",
+          "question_image_url": "",
+          "answer": "D",
+          "division": 1,
+          "status": "pending",
+          "chapter": "CEP",
+          "topic": "JEE Main 2019 (Online) 12th April Evening Slot",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "758d1c80ab89",
+          "question": "The pair that contains two P – H bonds in each of the oxoacids is",
+          "question_image_url": "",
+          "answer": "A",
+          "division": 1,
+          "status": "pending",
+          "chapter": "CBM",
+          "topic": "JEE Main 2019 (Online) 10th January Evening Slot",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "9be43ff6879b",
+          "question": "Which among the following species has unequal bond lengths?",
+          "question_image_url": "",
+          "answer": "D",
+          "division": 1,
+          "status": "pending",
+          "chapter": "CBM",
+          "topic": "JEE Main 2021 (Online) 25th February Evening Shift",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "8c0b1665af07",
+          "question": "If enthalpy of atomisation for Br$_{2(1)}$ is x kJ/mol\nand bond enthalpy for Br$_{2}$ is y kJ/mol, the\nrelation between them :",
+          "question_image_url": "",
+          "answer": "C",
+          "division": 1,
+          "status": "pending",
+          "chapter": "CTD",
+          "topic": "JEE Main 2020 (Online) 9th January Morning Slot",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "93ae9c7b8176",
+          "question": "The vapour density of undecomposed $N_2O_4$ is 46. When heated, vapour density decreases to 24.5 due to its dissociation to $NO_2$. The percentage dissociation of $N_2O_4$ at the final temperature is:",
+          "question_image_url": "",
+          "answer": "A",
+          "division": 1,
+          "status": "pending",
+          "chapter": "CQL",
+          "topic": "Q39",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "26413f6a23c0",
+          "question": "For the equilibrium A ⇌ B , the variation of the\nrate of the forward (a) and reverse (b) reaction\nwith time is given by :",
+          "question_image_url": "",
+          "answer": "C",
+          "division": 1,
+          "status": "pending",
+          "chapter": "CQL",
+          "topic": "JEE Main 2020 (Online) 4th September Morning Slot",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "8c4af6fa6cd8",
+          "question": "For the equilibrium\\n\n$2H_2O\\\\rightleftharpoons H_3O^+ + OH^-$, the value of $\\\\Delta G^{\\\\circ}$ at 298 K is approximately",
+          "question_image_url": "",
+          "answer": "C",
+          "division": 1,
+          "status": "pending",
+          "chapter": "IQL",
+          "topic": "Q44",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "8bd8947b2e88",
+          "question": "100 mL of 0.1 M HCl is taken in a beaker and\nto it 100 mL of 0.1 M NaOH is added in steps\nof 2 mL and the pH is continuously measured.\nWhich of the following graphs correctly depicts\nthe change in pH?",
+          "question_image_url": "",
+          "answer": "C",
+          "division": 1,
+          "status": "pending",
+          "chapter": "IQL",
+          "topic": "JEE Main 2020 (Online) 3rd September Evening Slot",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "5ef229f69a62",
+          "question": "Which of the following reactions is an example of a redox reaction?",
+          "question_image_url": "",
+          "answer": "C",
+          "division": 1,
+          "status": "pending",
+          "chapter": "RDX",
+          "topic": "JEE Main 2017 (Offline)",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "14eac00db295",
+          "question": "The basic structural unit of feldspar, zeolites, mica, and asbestos is :",
+          "question_image_url": "",
+          "answer": "B",
+          "division": 1,
+          "status": "pending",
+          "chapter": "PBE",
+          "topic": "JEE Main 2019 (Online) 12th April Morning Slot",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "aeb9fcba9945",
+          "question": "i The following two compounds are :",
+          "question_image_url": "",
+          "answer": "C",
+          "division": 1,
+          "status": "pending",
+          "chapter": "OCP",
+          "topic": "Q42",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "8c1e4d3f1a9d",
+          "question": "Which of the following compounds will be suitable for Kjeldahl’s method for nitrogen estimation?",
+          "question_image_url": "",
+          "answer": "C",
+          "division": 1,
+          "status": "pending",
+          "chapter": "POC",
+          "topic": "JEE Main 2018 (Offline)",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "2ec54ebe96df",
+          "question": "In preparation of alkene from alcohol using Al$_{2}$O$_{3}$ which is the effective factor ?",
+          "question_image_url": "",
+          "answer": "B",
+          "division": 1,
+          "status": "pending",
+          "chapter": "HCB",
+          "topic": "",
+          "examSource": "NEET"
+        },
+        {
+          "uuid": "f48a133fb029",
+          "question": "Match List-I with List-II\nList - I\n(Exsample)\nList - II\n(Type of Solution)\nA\nHumidity\nI\nSolid in solid\nB\nAlloys\nII\nLiquid in gas\nC\nAmalgams\nIII\nSolid in gas\nD\nSmoke\nIV\nLiquid in solid\nChoose the correct answer from the options given below:",
+          "question_image_url": "",
+          "answer": "D",
+          "division": 1,
+          "status": "pending",
+          "chapter": "SOL",
+          "topic": "NEET 2025",
+          "examSource": "NEET"
+        },
+        {
+          "uuid": "1e602cd99843",
+          "question": "For a cell given below\n$\n\\begin{aligned}\n\\mathrm{Ag}^{+}+\\mathrm{e}^{-} & \\longrightarrow \\mathrm{Ag}; E^{\\circ}=x \\\\\\\\\n\\mathrm{Cu}^{2+}+2 e^{-} & \\longrightarrow \\mathrm{Cu}{;} E^{\\circ}=y\n\\end{aligned}\n$\n$\nE^{\\circ} \\text { cell is }\n$ :",
+          "question_image_url": "",
+          "answer": "C",
+          "division": 1,
+          "status": "pending",
+          "chapter": "ELC",
+          "topic": "",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "cb0714d597c3",
+          "question": "Four successive members of the first row transition elements are listed below with their atomic numbers. Which one of them is expected to have the highest third ionisation enthalpy?",
+          "question_image_url": "",
+          "answer": "C",
+          "division": 1,
+          "status": "pending",
+          "chapter": "DBF",
+          "topic": "",
+          "examSource": "NEET"
+        },
+        {
+          "uuid": "bfedc712df83",
+          "question": "A compound 'X' is acidic and it is soluble in NaOH solution, but insoluble in NaHCO$_{3}$ solution. Compound 'X' also gives violet colour with neutral FeCl$_{3}$ solution. The compound 'X' is :",
+          "question_image_url": "",
+          "answer": "B",
+          "division": 1,
+          "status": "pending",
+          "chapter": "APE",
+          "topic": "JEE Main 2022 (Online) 29th July Morning Shift",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "eaa41dab0ef7",
+          "question": "Compound A, C$_{8}$H$_{10}$O, is found to react with\nNaOI (produced by reacting Y with NaOH) and\nyields a yellow precipitate with characteristic\nsmell. A and Y are respectively",
+          "question_image_url": "",
+          "answer": "C",
+          "division": 1,
+          "status": "pending",
+          "chapter": "APE",
+          "topic": "NEET 2018",
+          "examSource": "NEET"
+        },
+        {
+          "uuid": "99bcb6033126",
+          "question": "Which of the following statement is incorrect?",
+          "question_image_url": "",
+          "answer": "A",
+          "division": 1,
+          "status": "pending",
+          "chapter": "BIO",
+          "topic": "BITSAT 2020",
+          "examSource": "BITS"
+        },
+        {
+          "uuid": "8caefbc658d8",
+          "question": "In the wet tests for detection of various cations by precipitation, $\\mathrm{Ba}^{2+}$ cations are detected by obtaining precipitate of",
+          "question_image_url": "",
+          "answer": "C",
+          "division": 1,
+          "status": "pending",
+          "chapter": "QEL",
+          "topic": "JEE Main 2023 (Online) 13th April Evening Shift",
+          "examSource": "JEE"
+        }
+      ]
+    },
+    {
+      "name": "Chemistry",
+      "status": "completed",
+      "questionsCompleted": 5,
+      "questionsTarget": 5,
+      "questions": [
+        {
+          "uuid": "43dea20dde08",
+          "question": "Molar mass of the salt from $\\mathrm{NaBr}, \\mathrm{NaNO}_3, \\mathrm{KI}$ and $\\mathrm{CaF}_2$ which does not evolve coloured vapours on heating with concentrated $\\mathrm{H}_2 \\mathrm{SO}_4$ is ________ $\\mathrm{g} \\mathrm{~mol}{ }^{-1}$.\n(Molar mass in $\\mathrm{g} \\mathrm{~mol}^{-1}: \\mathrm{Na}: 23, \\mathrm{~N}: 14, \\mathrm{~K}: 39, \\mathrm{O}: 16, \\mathrm{Br}: 80, \\mathrm{I}: 127, \\mathrm{~F}: 19, \\mathrm{Ca}: 40)$",
+          "question_image_url": "",
+          "answer": "78",
+          "division": 2,
+          "status": "pending",
+          "chapter": "SBC",
+          "topic": "JEE Main 2024 (Online) 31st January Morning Shift",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "e39d8540b321",
+          "question": "Electromagnetic radiation of wavelength 663 nm is just sufficient to ionise the atom of metal A. The ionization enegy of metal A in kJ mol^{$-$1} is __________. (Rounded off to the nearest integer)\n[h = 6.63 $\\times$ 10^{$-$34} Js, c = 3.00 $\\times$ 10^{8} ms^{$-$1}, N_{A} = 6.02 $\\times$ 10^{23} mol^{$-$1}]",
+          "question_image_url": "",
+          "answer": "181",
+          "division": 2,
+          "status": "pending",
+          "chapter": "SOA",
+          "topic": "JEE Main 2021 (Online) 25th February Evening Shift",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "f4d07995437e",
+          "question": "$PC{l_5}(g) \\to PC{l_3}(g) + C{l_2}(g)$\nIn the above first order reaction the concentration of PCl_{5} reduces from initial concentration 50 mol L^{$-$1} to 10 mol L^{$-$1} in 120 minutes at 300 K. The rate constant for the reaction at 300 K is x $\\times$ 10^{$-$2} min^{$-$1}. The value of x is __________. [Given log5 = 0.6989]",
+          "question_image_url": "",
+          "answer": "1",
+          "division": 2,
+          "status": "pending",
+          "chapter": "CHK",
+          "topic": "JEE Main 2021 (Online) 20th July Evening Shift",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "0a87ede97fc4",
+          "question": "The total number of 'Sigma' and 'Pi' bonds in 2-formylhex-4-enoic acid is _________.",
+          "question_image_url": "",
+          "answer": "22",
+          "division": 2,
+          "status": "pending",
+          "chapter": "AKC",
+          "topic": "JEE Main 2024 (Online) 29th January Evening Shift",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "388c90e20826",
+          "question": "In an experiment, 46 g of benzyl trimethyl ammonium bromide are produced from the reaction of benzylamine with bromomethane. If the number of moles of bromomethane consumed are a × 10$^{-2}$ then the value of a is______. [Given: Atomic masses: C: 12.0 u, H: 1.0u, N: 14.0u, Br: 80.0u]",
+          "question_image_url": "",
+          "answer": "60",
+          "division": 2,
+          "status": "pending",
+          "chapter": "AMN",
+          "topic": "Q48",
+          "examSource": "JEE"
+        }
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "status": "completed",
+      "questionsCompleted": 20,
+      "questionsTarget": 20,
+      "questions": [
+        {
+          "uuid": "4df309d51457",
+          "question": "Let R be the real line. Consider the following subsets of the plane $R \\times R$ :\n$S = \\left\\{ {(x,y):y = x + 1\\,\\,and\\,\\,0 < x < 2} \\right\\}$\n$T = \\left\\{ {(x,y): x - y\\,\\,\\,is\\,\\,an\\,\\,{\\mathop{\\rm int}} eger\\,} \\right\\}$,\nWhich one of the following is true ?",
+          "question_image_url": "",
+          "answer": "D",
+          "division": 1,
+          "status": "pending",
+          "chapter": "SET",
+          "topic": "",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "7fd81aabd027",
+          "question": "The function $f: \\mathbf{N}-\\{1\\} \\rightarrow \\mathbf{N}$; defined by $f(\\mathrm{n})=$ the highest prime factor of $\\mathrm{n}$, is :",
+          "question_image_url": "",
+          "answer": "B",
+          "division": 1,
+          "status": "pending",
+          "chapter": "RAF",
+          "topic": "JEE Main 2024 (Online) 27th January Morning Shift",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "e49729547a92",
+          "question": "The value of 2 sin (12°) – sin (72°) is:",
+          "question_image_url": "",
+          "answer": "D",
+          "division": 1,
+          "status": "pending",
+          "chapter": "TRF",
+          "topic": "Q70",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "0d7a287445b4",
+          "question": "Let arg(z) represent the principal argument of the complex number z. Then arg(z – 1) – arg(z + 1) = $\\\\frac{\\\\pi}{4}$ is represented by the equation of circle/circular arc having center at",
+          "question_image_url": "",
+          "answer": "C",
+          "division": 1,
+          "status": "pending",
+          "chapter": "CMX",
+          "topic": "Q54",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "686227a864e1",
+          "question": "Let S be the set of all real roots of the equation,\n3$^{x}$(3$^{x}$ – 1) + 2 = |3$^{x}$ – 1| + |3$^{x}$ – 2|. Then S :",
+          "question_image_url": "",
+          "answer": "C",
+          "division": 1,
+          "status": "pending",
+          "chapter": "QEN1",
+          "topic": "JEE Main 2020 (Online) 8th January Evening Slot",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "60f0e2a24a17",
+          "question": "The coefficient of ${x^n}$ in expansion of $\\left( {1 + x} \\right){\\left( {1 - x} \\right)^n}$ is",
+          "question_image_url": "",
+          "answer": "B",
+          "division": 1,
+          "status": "pending",
+          "chapter": "BNT",
+          "topic": "",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "140992f5b704",
+          "question": "If\n$\\sum\\limits_{k = 1}^{31} {\\left( {{}^{31}{C_k}} \\right)\\left( {{}^{31}{C_{k - 1}}} \\right) - \\sum\\limits_{k = 1}^{30} {\\left( {{}^{30}{C_k}} \\right)\\left( {{}^{30}{C_{k - 1}}} \\right) = {{\\alpha (60!)} \\over {(30!)(31!)}}} } $,\nwhere $\\alpha$ $\\in$ R, then the value of 16$\\alpha$ is equal to",
+          "question_image_url": "",
+          "answer": "A",
+          "division": 1,
+          "status": "pending",
+          "chapter": "BNT",
+          "topic": "JEE Main 2022 (Online) 28th June Morning Shift",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "366cb4f1ea6d",
+          "question": "The sum 1 + 2 . 3 + 3 . 3$^{2}$ + ......... + 10 . 3$^{9}$ is equal to :",
+          "question_image_url": "",
+          "answer": "B",
+          "division": 1,
+          "status": "pending",
+          "chapter": "SQS",
+          "topic": "JEE Main 2022 (Online) 25th June Evening Shift",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "74ae132dab3b",
+          "question": "If the perpendicular bisector of the line segment joining the points P(1 ,4) and Q(k, 3) has y-intercept equal to –4, then a value of k is :",
+          "question_image_url": "",
+          "answer": "B",
+          "division": 1,
+          "status": "pending",
+          "chapter": "STL",
+          "topic": "JEE Main 2020 (Online) 4th September Evening Slot",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "01b50f620d32",
+          "question": "In the circle given below, let OA = 1 unit, OB = 13 unit and PQ $ \\bot $ OB. Then, the area of the triangle PQB (in square units) is :",
+          "question_image_url": "",
+          "answer": "B",
+          "division": 1,
+          "status": "pending",
+          "chapter": "CIR1",
+          "topic": "JEE Main 2021 (Online) 26th February Morning Shift",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "816c5c5066bf",
+          "question": "The tangent to the parabola y$^{2}$\n= 4x at the point\nwhere it intersects the circle x$^{2}$\n+ y$^{2}$\n= 5 in the\nfirst quadrant, passes through the point :",
+          "question_image_url": "",
+          "answer": "C",
+          "division": 1,
+          "status": "pending",
+          "chapter": "PAR1",
+          "topic": "JEE Main 2019 (Online) 8th April Evening Slot",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "9f420583d1ef",
+          "question": "Let a line L pass through the point of intersection of the lines $b x+10 y-8=0$ and $2 x-3 y=0, \\mathrm{~b} \\in \\mathbf{R}-\\left\\{\\frac{4}{3}\\right\\}$. If the line $\\mathrm{L}$ also passes through the point $(1,1)$ and touches the circle $17\\left(x^{2}+y^{2}\\right)=16$, then the eccentricity of the ellipse $\\frac{x^{2}}{5}+\\frac{y^{2}}{\\mathrm{~b}^{2}}=1$ is :",
+          "question_image_url": "",
+          "answer": "B",
+          "division": 1,
+          "status": "pending",
+          "chapter": "ELL1",
+          "topic": "JEE Main 2022 (Online) 29th July Morning Shift",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "f01b5f71eaee",
+          "question": "A hyperbola passes through the foci of the ellipse ${{{x^2}} \\over {25}} + {{{y^2}} \\over {16}} = 1$ and its transverse and conjugate axes coincide with major and minor axes of the ellipse, respectively. If the product of their eccentricities is one, then the equation of the hyperbola is :",
+          "question_image_url": "",
+          "answer": "B",
+          "division": 1,
+          "status": "pending",
+          "chapter": "HYB1",
+          "topic": "JEE Main 2021 (Online) 25th February Evening Shift",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "1d1ce714f355",
+          "question": "Statement (A): $\\\\log 6 = \\\\log 1 + \\\\log 2 + \\\\log 3$. Statement (B): $\\\\log(a + b + c) = \\\\log a + \\\\log b + \\\\log c$",
+          "question_image_url": "",
+          "answer": "C",
+          "division": 1,
+          "status": "pending",
+          "chapter": "LMD",
+          "topic": "Q73",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "61d45a1102ba",
+          "question": "If $$\\cot ^{-1} \\sqrt{\\cos \\alpha}-\\tan ^{-1} \\sqrt{\\cos \\alpha}=x$$, then $$\\sin x$$ is equal to",
+          "question_image_url": "",
+          "answer": "B",
+          "division": 1,
+          "status": "pending",
+          "chapter": "ITF",
+          "topic": "BITSAT 2023",
+          "examSource": "BITS"
+        },
+        {
+          "uuid": "8491a036760a",
+          "question": "$$\n\\text { If } A=\\left[\\begin{array}{cc}\n\\sin \\theta & -\\cos \\theta \\\\\n\\cos \\theta & \\sin \\theta\n\\end{array}\\right] \\text {, then } A(\\operatorname{adj} A)^{-1} \\text { equals to }\n$$",
+          "question_image_url": "",
+          "answer": "B",
+          "division": 1,
+          "status": "pending",
+          "chapter": "MTX",
+          "topic": "BITSAT 2023",
+          "examSource": "BITS"
+        },
+        {
+          "uuid": "db6b5433c92e",
+          "question": "Let f : R $\\to$ R be a function such that f(2) = 4 and f'(2) = 1. Then, the value of $\\mathop {\\lim }\\limits_{x \\to 2} {{{x^2}f(2) - 4f(x)} \\over {x - 2}}$ is equal to :",
+          "question_image_url": "",
+          "answer": "D",
+          "division": 1,
+          "status": "pending",
+          "chapter": "CAD",
+          "topic": "JEE Main 2021 (Online) 27th July Morning Shift",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "a43e0d6b1348",
+          "question": "If $\\int {{{\\sin }^{ - 1}}\\left( {\\sqrt {{x \\over {1 + x}}} } \\right)} dx$ = A(x)${\\tan ^{ - 1}}\\left( {\\sqrt x } \\right)$ + B(x) + C,\nwhere C is a constant of integration, then the\nordered pair (A(x), B(x)) can be :",
+          "question_image_url": "",
+          "answer": "A",
+          "division": 1,
+          "status": "pending",
+          "chapter": "INT1",
+          "topic": "JEE Main 2020 (Online) 3rd September Evening Slot",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "7301fc7ddc97",
+          "question": "The value of $\\mathop {\\lim }\\limits_{n \\to \\infty } {1 \\over n}\\sum\\limits_{j = 1}^n {{{(2j - 1) + 8n} \\over {(2j - 1) + 4n}}} $ is equal to :",
+          "question_image_url": "",
+          "answer": "D",
+          "division": 1,
+          "status": "pending",
+          "chapter": "INT2",
+          "topic": "JEE Main 2021 (Online) 27th July Morning Shift",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "8c028c655701",
+          "question": "The area of the region $\\{(x, y):|x-y| \\leq y \\leq 4 \\sqrt{x}\\}$ is",
+          "question_image_url": "",
+          "answer": "D",
+          "division": 1,
+          "status": "pending",
+          "chapter": "AOI",
+          "topic": "JEE Main 2025 (Online) 3rd April Evening Shift",
+          "examSource": "JEE"
+        }
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "status": "completed",
+      "questionsCompleted": 5,
+      "questionsTarget": 5,
+      "questions": [
+        {
+          "uuid": "37cb3efe914f",
+          "question": "The number of divisors of the form 2n + 1 (n $\\\\geq$ 1) of the integer 120 is",
+          "question_image_url": "",
+          "answer": "3",
+          "division": 2,
+          "status": "pending",
+          "chapter": "PRC",
+          "topic": "Q73",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "5cb19e48feef",
+          "question": "If y = $\\sum\\limits_{k = 1}^6 {k{{\\cos }^{ - 1}}\\left\\{ {{3 \\over 5}\\cos kx - {4 \\over 5}\\sin kx} \\right\\}} $,\nthen ${{dy} \\over {dx}}$ at x = 0 is _______.",
+          "question_image_url": "",
+          "answer": "91",
+          "division": 2,
+          "status": "pending",
+          "chapter": "DIF",
+          "topic": "JEE Main 2020 (Online) 2nd September Evening Slot",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "d27913220801",
+          "question": "The number of solutions of $\\\\sin^{-1} x + \\\\sin^{-1}(1 + x) = \\\\cos^{-1} x$ is",
+          "question_image_url": "",
+          "answer": "1",
+          "division": 2,
+          "status": "pending",
+          "chapter": "ITF",
+          "topic": "Q75",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "5c12cf2d948e",
+          "question": "If $\\int {{{\\sin x} \\over {{{\\sin }^3}x + {{\\cos }^3}x}}dx = } $\n$\\alpha {\\log _e}|1 + \\tan x| + \\beta {\\log _e}|1 - \\tan x + {\\tan ^2}x| + \\gamma {\\tan ^{ - 1}}\\left( {{{2\\tan x - 1} \\over {\\sqrt 3 }}} \\right) + C$, when C is constant of integration, then the value of $18(\\alpha + \\beta + {\\gamma ^2})$ is ______________.",
+          "question_image_url": "",
+          "answer": "3",
+          "division": 2,
+          "status": "pending",
+          "chapter": "INT1",
+          "topic": "JEE Main 2021 (Online) 31st August Evening Shift",
+          "examSource": "JEE"
+        },
+        {
+          "uuid": "23a4f8126df5",
+          "question": "If the normal to the curve y(x) = $\\int\\limits_0^x {(2{t^2} - 15t + 10)dt} $ at a point (a, b) is parallel to the line x + 3y = $-$5, a > 1, then the value of | a + 6b | is equal to ___________.",
+          "question_image_url": "",
+          "answer": "406",
+          "division": 2,
+          "status": "pending",
+          "chapter": "INT2",
+          "topic": "JEE Main 2021 (Online) 16th March Morning Shift",
+          "examSource": "JEE"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "testType": "Full",
+    "description": "Full Syllabus Test 1",
+    "createdAt": "2026-01-13T10:56:15.942Z",
+    "lastModified": "2026-01-19T06:05:31.181Z"
+  }
+}
