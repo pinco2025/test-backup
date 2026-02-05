@@ -1,8 +1,8 @@
 {
   "testCode": "Smart Selection",
-  "backupTimestamp": "2026-02-05T08:32:14.788Z",
+  "backupTimestamp": "2026-02-05T10:05:32.789Z",
   "status": "in_progress",
-  "completionPercentage": 636,
+  "completionPercentage": 635,
   "currentStep": "smart-selection-editor",
   "sections": [
     {
@@ -2736,7 +2736,7 @@
     {
       "name": "Chemistry",
       "status": "completed",
-      "questionsCompleted": 177,
+      "questionsCompleted": 176,
       "questionsTarget": 25,
       "questions": [
         {
@@ -5632,35 +5632,18 @@
         {
           "uuid": "beb0b03c354b",
           "question": "The major product(P) in the following reaction is",
-          "question_image_url": "",
+          "question_image_url": "https://lh3.googleusercontent.com/d/1YelITr66K9U1_DeyzBxmKEM1uZlKyNAa=w1141",
           "option_a": "",
-          "option_a_image_url": "",
+          "option_a_image_url": "https://lh3.googleusercontent.com/d/1D-7032YWyQzgYrhOIOqKXHY4ReXrMzs8=w1140",
           "option_b": "",
-          "option_b_image_url": "",
+          "option_b_image_url": "https://lh3.googleusercontent.com/d/10k0xczBkmzS8am7X2RKh0_btDYbV5lh5=w1119",
           "option_c": "",
-          "option_c_image_url": "",
+          "option_c_image_url": "https://lh3.googleusercontent.com/d/1vhJZbL9Qjf4IhX6GyN3KZgnoQMJ5hkEf=w1089",
           "option_d": "",
-          "option_d_image_url": "",
+          "option_d_image_url": "https://lh3.googleusercontent.com/d/155qXH6PLNsqHxzBK6Ucr_lDsCDV47GiG=w1052",
           "answer": "C",
           "chapter": "APE",
           "topic": "JEE Main 2024 (Online) 29th January Morning Shift",
-          "examSource": "JEE"
-        },
-        {
-          "uuid": "d62bd00f2b65",
-          "question": "Consider the following reaction :\nThe product 'P' gives positive ceric ammonium nitrate test. This is because of the presence of\nwhich of these –OH group(s)?",
-          "question_image_url": "",
-          "option_a": "(b) only",
-          "option_a_image_url": "",
-          "option_b": "(b) and (d)",
-          "option_b_image_url": "",
-          "option_c": "(c) and (d)",
-          "option_c_image_url": "",
-          "option_d": "(d) only",
-          "option_d_image_url": "",
-          "answer": "A",
-          "chapter": "APE",
-          "topic": "JEE Main 2020 (Online) 3rd September Evening Slot",
           "examSource": "JEE"
         },
         {
@@ -5699,15 +5682,15 @@
         },
         {
           "uuid": "95ac5c66aec0",
-          "question": "$$2$$-chloro-$$2$$-methylpentane on reaction with sodium methoxide in methanol yields:",
-          "question_image_url": "",
+          "question": "2-chloro-2-methylpentane on reaction with sodium methoxide in methanol yields:",
+          "question_image_url": "https://lh3.googleusercontent.com/d/1Aj3EbH6V43TUyBVCgPdoFn94_dhyiSKc=w1100",
           "option_a": "All of these",
           "option_a_image_url": "",
-          "option_b": "$$(a)$$ and $$(c)$$",
+          "option_b": "(a) and (c)",
           "option_b_image_url": "",
-          "option_c": "$$(c)$$ only",
+          "option_c": "(c) only",
           "option_c_image_url": "",
-          "option_d": "$$(a)$$ and $$(b)$$",
+          "option_d": "(a) and (b)",
           "option_d_image_url": "",
           "answer": "C",
           "chapter": "APE",
@@ -5733,16 +5716,16 @@
         },
         {
           "uuid": "68e15e8c5627",
-          "question": "The graph which represents the following reaction is :",
+          "question": "The graph which represents the following reaction is :\n\n$$(C_{6}H_{5})_{3}C - Cl \\xrightarrow[Pyridine]{OH^-} (C_{6}H_{5})_{3}C - OH$$",
           "question_image_url": "",
           "option_a": "",
-          "option_a_image_url": "",
+          "option_a_image_url": "https://lh3.googleusercontent.com/d/1xzI1Lc9_1y7mBgezw91z02_zTYjQQPjm=w1061",
           "option_b": "",
-          "option_b_image_url": "",
+          "option_b_image_url": "https://lh3.googleusercontent.com/d/1EGrrqtae3u5VvZHH8ceEb3UY_2KSWv76=w979",
           "option_c": "",
-          "option_c_image_url": "",
+          "option_c_image_url": "https://lh3.googleusercontent.com/d/1f1Q1n95Mw25b8DDdEpR1yQvz5Vaj7Azw=w1102",
           "option_d": "",
-          "option_d_image_url": "",
+          "option_d_image_url": "https://lh3.googleusercontent.com/d/1llWeOKsccBrxu4uoQtbq_xC0wvb5h0pc=w1108",
           "answer": "A",
           "chapter": "APE",
           "topic": "JEE Main 2023 (Online) 1st February Evening Shift",
@@ -8143,6 +8126,6 @@
     "testType": "SmartSelection",
     "description": "Automated Question Selection",
     "createdAt": "2026-02-02T17:45:48.175Z",
-    "lastModified": "2026-02-05T08:32:14.788Z"
+    "lastModified": "2026-02-05T10:05:32.789Z"
   }
 }
