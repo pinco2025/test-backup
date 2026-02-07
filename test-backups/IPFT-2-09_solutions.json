@@ -1,7 +1,7 @@
 {
   "testId": "IPFT-2-09",
   "testCode": "IPFT-2-09",
-  "backupTimestamp": "2026-02-01T21:00:29.115Z",
+  "backupTimestamp": "2026-02-07T14:27:47.784Z",
   "solutions": [
     {
       "uuid": "19cd0ff4e3ce",
@@ -19,24 +19,14 @@
       "solution_image_url": ""
     },
     {
-      "uuid": "4f1187838577",
-      "solution_text": "Given, v$_{A}$ = v$_{B}$ = 7.2 kmh^{$-$1}\n$ = {{72} \\over {10}} \\times {5 \\over {18}}$ = 2 ms^{$-$1}\nFrequency of source, f_{s} = 676 Hz\nSpeed of sound in air, v = 340 ms^{$-$1}\nLet f_{0} be the frequency heard by each driver.\nBy using Doppler effect for A,\n$(v - {v_A}){f_s} = (v + {v_B}){f_0}$\n$ \\Rightarrow {f_0} = \\left( {{{v + {v_A}} \\over {v - {v_B}}}} \\right){f_s} = \\left( {{{340 + 2} \\over {340 - 2}}} \\right)676 = {{342} \\over {338}} \\times 676 = 684$ Hz\nNow, beat frequency $ = {f_0} - {f_s} = 684 - 676 = 8$ Hz",
-      "solution_image_url": ""
-    },
-    {
-      "uuid": "7bd0d3698952",
-      "solution_text": "Using Bragg's equation $2d$ $\\sin \\theta = n\\lambda $\nHere $n=1,$ $\\theta = 90 - i = 90 - 30 = {60^ \\circ }$\n$\\therefore$ $2d$ $\\sin \\,\\theta \\, = \\lambda \\,\\,\\,\\,\\,\\,\\,\\,\\,\\,....\\left( i \\right)$\nAlso, $\\lambda = {{12.27} \\over {\\sqrt V }} \\times {10^{ - 10}}m\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,...\\left( {ii} \\right)$\nFrom $(i)$ & $(ii)$ $2 \\times {10^{ - 10}} \\times \\sin {60^ \\circ } = {{12.27} \\over {\\sqrt V }} \\times {10^{ - 10}}$\n$V = {{{{\\left( {12.27} \\right)}^2}} \\over 3} = 50V$",
-      "solution_image_url": ""
-    },
-    {
       "uuid": "a7db10fe2edb",
       "solution_text": "",
       "solution_image_url": ""
     },
     {
       "uuid": "c4ed8f909367",
-      "solution_text": "Total time of flight $=\\mathrm{T}$\n$T=\\sqrt{\\frac{2 h}{g}}+\\sqrt{\\frac{2(H-h)}{g}}$\nFor max. time $=\\frac{\\mathrm{dT}}{\\mathrm{dh}}=0$\n$\\begin{aligned}\n& \\sqrt{\\frac{2}{\\mathrm{~g}}}\\left(\\frac{-1}{2 \\sqrt{\\mathrm{H}-\\mathrm{h}}}+\\frac{1}{2 \\sqrt{\\mathrm{h}}}\\right)=0 \\\\\n& \\sqrt{\\mathrm{H}-\\mathrm{h}}=\\sqrt{\\mathrm{h}} \\\\\n& \\mathrm{h}=\\frac{\\mathrm{H}}{2} \\Rightarrow \\frac{\\mathrm{H}}{\\mathrm{h}}=2\n\\end{aligned}$",
-      "solution_image_url": ""
+      "solution_text": "$\\pmb{\\text{1. Analysis of Motion:}}$\n\n$\\bullet$ $\\pmb{\\text{Phase 1: Free fall from } H \\text{ to } h.}$ The distance covered is $H-h$. The time taken ($t_1$) is:\n$$t_1 = \\sqrt{\\frac{2(H-h)}{g}}$$\n\n$\\bullet$ $\\pmb{\\text{Phase 2: After impact at height } h.}$ The velocity becomes horizontal. Since vertical velocity becomes zero immediately after the impact, the body now performs a horizontal projectile motion from height $h$. The time taken ($t_2$) to reach the ground depends only on the vertical height:\n$$t_2 = \\sqrt{\\frac{2h}{g}}$$\n\n$\\pmb{\\text{2. Total Time of Flight (T):}}$\n\n$$T = t_1 + t_2 = \\sqrt{\\frac{2(H-h)}{g}} + \\sqrt{\\frac{2h}{g}}$$\n\n$\\pmb{\\text{3. Maximizing T with respect to } h:}$\n\nTo find the maximum time, we set $\\frac{dT}{dh} = 0$:\n$$\\frac{d}{dh} \\left[ \\sqrt{\\frac{2}{g}} (H-h)^{1/2} + \\sqrt{\\frac{2}{g}} (h)^{1/2} \\right] = 0$$\n$$\\sqrt{\\frac{2}{g}} \\left[ \\frac{1}{2}(H-h)^{-1/2}(-1) + \\frac{1}{2}(h)^{-1/2} \\right] = 0$$\n$$\\frac{-1}{\\sqrt{H-h}} + \\frac{1}{\\sqrt{h}} = 0$$\n$$\\sqrt{H-h} = \\sqrt{h}$$\n$$H - h = h \\implies H = 2h$$\n\n$\\pmb{\\text{Conclusion:}}$\n$$\\frac{H}{h} = 2$$\n\nTherefore, the value of $\\frac{H}{h}$ for which the body takes maximum time is $\\pmb{2}$.",
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1nzfLpw90WrLD5-scBPhjskD3vvZZ89Yx=w976"
     },
     {
       "uuid": "d7df8dac6307",
@@ -329,6 +319,11 @@
       "solution_image_url": ""
     },
     {
+      "uuid": "d905b2a5-da65-4ded-90ae-f3dae2da6862",
+      "solution_text": "$\\pmb{\\text{1. Velocity Conversion:}}$\n\nThe speed of both particles (source and observer) is converted from $\\text{km/h}$ to $\\text{m/s}$:\n$$v_s = v_o = 36 \\times \\frac{5}{18} \\text{ m/s} = 10 \\text{ m/s}$$\n\n$\\pmb{\\text{2. Frequency observed by either particle (f'):}}$\n\nUsing the Doppler effect formula for two objects moving toward each other:\n$$f' = f_s \\left( \\frac{v + v_o}{v - v_s} \\right)$$\nWhere:\n$\\bullet$ $v = 340 \\text{ m/s}$ (speed of sound)\n$\\bullet$ $v_o = 10 \\text{ m/s}$ (speed of observer)\n$\\bullet$ $v_s = 10 \\text{ m/s}$ (speed of source)\n$\\bullet$ $f_s = 400 \\text{ Hz}$ (emitted frequency)\n\nSubstituting the exact values:\n$$f' = 400 \\left( \\frac{340 + 10}{340 - 10} \\right) = 400 \\left( \\frac{350}{330} \\right)$$\n$$f' = 400 \\times \\frac{35}{33} = \\frac{14000}{33} \\text{ Hz}$$\n\n$\\pmb{\\text{3. Beat Frequency (} f_b \\text{):}}$\n\nThe beat frequency heard is the absolute difference between the observer's own source frequency and the frequency received from the other source:\n$$f_b = |f' - f_s|$$\n$$f_b = \\frac{14000}{33} - 400$$\n$$f_b = \\frac{14000 - 13200}{33} = \\frac{800}{33} \\text{ Hz}$$\nCalculating the numerical value:\n$$f_b \\approx 24.2424... \\text{ Hz}$$\n\n$\\pmb{\\text{Conclusion:}}$\n\nRounding to the nearest integer, the beat frequency is $\\pmb{24}$ $\\pmb{\\text{Hz}}$.",
+      "solution_image_url": ""
+    },
+    {
       "uuid": "da19a7c6-06a3-45ea-b4b4-5da1a8928819",
       "solution_text": "$\\textbf{Given Condition:}$\n\nThree digits $p, q, r$ are in arithmetic progression, meaning:\n\n$$2q = p + r$$\n\n$\\textbf{Step 1: Total Nine-Digit Numbers}$\n\nWe need to form nine-digit numbers using each of $p, q, r$ exactly three times.\n\nTotal arrangements without any restriction:\n\n$$\\frac{9!}{3! \\cdot 3! \\cdot 3!} = \\frac{362880}{6 \\cdot 6 \\cdot 6} = \\frac{362880}{216} = 1680$$\n\n$\\textbf{Step 2: Complementary Counting}$\n\nWe use complementary counting: find numbers where NO three consecutive digits form an A.P., then subtract from total.\n\n$\\textbf{Step 3: Numbers Without A.P. Property}$\n\nFor three consecutive digits $d_1, d_2, d_3$ to be in A.P.: $2d_2 = d_1 + d_3$\n\nSince $p, q, r$ are in A.P., we must avoid patterns like:\n- $p, q, r$\n- $r, q, p$\n- Any arrangement where $q$ is the middle digit between $p$ and $r$\n\nUsing systematic enumeration or recursion, we can determine that:\n\n- Starting with $p$: 11 valid sequences\n- Starting with $r$: 11 valid sequences\n- Starting with $q$: 0 valid sequences (immediately creates A.P.)\n\nTotal numbers without the A.P. property:\n\n$$11 + 11 + 0 = 22$$\n\n$\\textbf{Step 4: Computing the Answer}$\n\nNumbers with at least one A.P. triple:\n\n$$1680 - 22 = 1658$$\n\n$\\textbf{Conclusion:}$\n\nThe number of such nine-digit numbers is $\\textbf{1658}$.",
       "solution_image_url": ""
@@ -336,6 +331,11 @@
     {
       "uuid": "e12dad75-0e20-4056-a566-dcdd0b4ac286",
       "solution_text": "$\\textbf{Step 1: Understand the non-additive nature of } E^\\circ$\n\nStandard electrode potentials are intensive properties and cannot be added or subtracted directly. To find the potential of a new half-reaction, we must use the change in Gibbs free energy ($\\Delta G^\\circ$), which is an extensive property and is additive. The relationship is given by:\n$$\\Delta G^\\circ = -nFE^\\circ$$\n\n$\\textbf{Step 2: Calculate } \\Delta G^\\circ \\textbf{ for the known reactions}$\n\nFor Reaction (i):\n$\\bullet$ $n = 3$\n$\\bullet$ $E_1^\\circ = -0.036 \\text{ V}$\n$\\bullet$ $\\Delta G_1^\\circ = -3F(-0.036) = +0.108F$\n\nFor Reaction (ii):\n$\\bullet$ $n = 2$\n$\\bullet$ $E_2^\\circ = -0.439 \\text{ V}$\n$\\bullet$ $\\Delta G_2^\\circ = -2F(-0.439) = +0.878F$\n\n\n\n$\\textbf{Step 3: Derive the target reaction and its potential}$\n\nThe target reaction is $\\text{X}^{3+} + e^- \\rightarrow \\text{X}^{2+}$. We can obtain this by subtracting Reaction (ii) from Reaction (i):\n$$\\text{Target Reaction} = \\text{Reaction (i)} - \\text{Reaction (ii)}$$\n$$\\Delta G_3^\\circ = \\Delta G_1^\\circ - \\Delta G_2^\\circ$$\n\nSubstituting the values:\n$$-1F(E_3^\\circ) = 0.108F - 0.878F$$\n$$-E_3^\\circ = -0.770 \\text{ V}$$\n$$E_3^\\circ = +0.770 \\text{ V}$$\n\nTherefore, the standard electrode potential for the change is $\\boxed{+0.770 \\text{ V}}$.",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "e36a4b19-e273-4d6c-b4d3-c08d3ac9aa43",
+      "solution_text": "$\\pmb{\\text{1. Velocity after elastic collision:}}$\n\nFor a head-on elastic collision where the target particle is initially at rest ($u_2 = 0$), the final velocity $v_1$ of the striking particle is:\n$$v_1 = \\left( \\frac{m_1 - m_2}{m_1 + m_2} \\right)u_1$$\n\nGiven $m_1 = 2m$, $m_2 = m$, and $u_1 = v_0$:\n$$v_A = \\left( \\frac{2m - m}{2m + m} \\right)v_0 = \\frac{m}{3m}v_0 = \\frac{v_0}{3}$$\n\n$\\pmb{\\text{2. Relation for de-Broglie wavelength:}}$\n\nThe de-Broglie wavelength is given by $\\lambda = \\frac{h}{p} = \\frac{h}{mv}$.\n\n$\\bullet$ $\\pmb{\\text{Initial wavelength:}}$\n$$\\lambda_0 = \\frac{h}{m_A v_0} = \\frac{h}{2mv_0}$$\n\n$\\bullet$ $\\pmb{\\text{Final wavelength:}}$\n$$\\lambda_f = \\frac{h}{m_A v_A} = \\frac{h}{2m (v_0/3)} = 3 \\left( \\frac{h}{2mv_0} \\right) = 3\\lambda_0$$\n\n$\\pmb{\\text{3. Calculating the change:}}$\n\n$$\\Delta\\lambda = \\lambda_f - \\lambda_0 = 3\\lambda_0 - \\lambda_0 = 2\\lambda_0$$\n\n$\\pmb{\\text{Conclusion:}}$\nThe change in de-Broglie wavelength is $\\pmb{2\\lambda_0}$.",
       "solution_image_url": ""
     },
     {
