@@ -1,13 +1,8 @@
 {
   "testId": "IPFT-2-11",
   "testCode": "IPFT-2-11",
-  "backupTimestamp": "2026-02-05T18:25:46.820Z",
+  "backupTimestamp": "2026-02-07T14:27:57.753Z",
   "solutions": [
-    {
-      "uuid": "1246207c4430",
-      "solution_text": "Let the force be $F$ so acceleration $a=\\frac{F}{m}$\nSo displacement $S=\\frac{1}{2} a t^{2}=\\frac{F t^{2}}{2 m}$\nSo work done $W=F . S=\\frac{F^{2} t^{2}}{2 m}$\nFrom work energy Theorem\n$\\Delta K E=W$\n$W=\\frac{F^{2} t^{2}}{2 m}=10000$\n$F=\\sqrt{\\frac{10000 \\times 2 \\times 2}{5^{2}}}$\n$F=40 \\mathrm{~N}$",
-      "solution_image_url": ""
-    },
     {
       "uuid": "152f3180433b",
       "solution_text": "For m$_{1}$ mass :\nm$_{1}$g - T = m$_{1}$a .........(1)\nFor m$_{2}$ mass :\nT - m$_{2}$g = m$_{2}$a ....... (2)\nBy solving (1) and (2) we get,\nAcceleration a = $\\left( {{{{m_1} - {m_2}} \\over {{m_1} + {m_2}}}} \\right)g$\n$ = {{\\left( {5 - 4.8} \\right) \\times 9.8} \\over {\\left( {5 + 4.8} \\right)}}m/{s^2}$ = 0.2 m/s$^{2}$",
@@ -15,22 +10,12 @@
     },
     {
       "uuid": "3390c6663846",
-      "solution_text": "$\\pmb{\\text{Step 1: Recall the Formula for RMS Velocity}}$ \n\n • The root mean square (rms) velocity ($v_{rms}$) of an ideal gas molecule is given by the Kinetic Theory of Gases as: $$v_{rms} = \\sqrt{\\frac{3RT}{M}}$$ where $R$ is the gas constant, $T$ is the absolute temperature (in Kelvin), and $M$ is the molar mass of the gas.\n\n\n\n$\\pmb{\\text{Step 2: Determine Mean Squared Velocity (}v_{ms}\\pmb{\\text{)}}}$ \n\n • The mean squared velocity ($v_{ms}$) is simply the square of the rms velocity: $$v_{ms} = (v_{rms})^2$$.\n • Squaring the formula gives: $$v_{ms} = \\frac{3RT}{M}$$.\n\n$\\pmb{\\text{Step 3: Analyze the Mathematical Relationship}}$ \n\n • For a particular gas, $R$, $3$, and $M$ are constants. \n • Therefore, $v_{ms} \\propto T$. \n • This takes the form of the linear equation $y = mx$, where $y = v_{ms}$ and $x = T$. \n\n\n\n$\\pmb{\\text{Step 4: Identify the Correct Graph}}$ \n\n • A direct proportionality between two variables results in a **straight line passing through the origin** $(0,0)$. \n\n$\\pmb{\\text{Summary of Velocity Relations:}}$ \n\n$$\\begin{array}{|l|l|l|}\n\\hline\n\\pmb{\\text{Parameter}} & \\pmb{\\text{Formula}} & \\pmb{\\text{Graph vs T}} \\\\\n\\hline\n\\text{RMS Velocity (v}_{rms}\\text{)} & \\sqrt{3RT/M} & \\text{Parabolic (y}^2 \\propto x\\text{)} \\\\\n\\hline\n\\text{Mean Squared Velocity (v}_{ms}\\text{)} & 3RT/M & \\text{Straight Line (y} \\propto x\\text{)} \\\\\n\\hline\n\\text{Most Probable Velocity (v}_p\\text{)} & \\sqrt{2RT/M} & \\text{Parabolic} \\\\\n\\hline\n\\end{array}$$\n\n Therefore, the correct option is $\\boxed{\\text{C}}$.",
-      "solution_image_url": ""
-    },
-    {
-      "uuid": "5419b0eb2167",
-      "solution_text": "$\\begin{aligned}\n\\mathrm{q} & =4 \\mu \\mathrm{C}, \\overrightarrow{\\mathrm{v}}=4 \\times 10^6 \\hat{\\mathrm{j}} \\mathrm{m} / \\mathrm{s} \\\\\n\\overrightarrow{\\mathrm{B}} & =2 \\hat{\\mathrm{k} T} \\\\\n\\overrightarrow{\\mathrm{F}} & =\\mathrm{q}(\\overrightarrow{\\mathrm{v}} \\times \\overrightarrow{\\mathrm{B}}) \\\\\n& =4 \\times 10^{-6}\\left(4 \\times 10^6 \\hat{\\mathrm{j}} \\times 2 \\hat{\\mathrm{k}}\\right) \\\\\n& =4 \\times 10^{-6} \\times 8 \\times 10^6 \\hat{\\mathrm{i}} \\\\\n\\overrightarrow{\\mathrm{F}} & =32 \\hat{\\mathrm{i}} \\mathrm{N} \\\\\n\\mathrm{x} & =32\n\\end{aligned}$",
+      "solution_text": "$\\pmb{\\text{Step 1: Recall the Formula for RMS Velocity}}$ \n\n • The root mean square (rms) velocity ($v_{rms}$) of an ideal gas molecule is given by the Kinetic Theory of Gases as: $$v_{rms} = \\sqrt{\\frac{3RT}{M}}$$ where $R$ is the gas constant, $T$ is the absolute temperature (in Kelvin), and $M$ is the molar mass of the gas.\n\n$\\pmb{\\text{Step 2: Determine Mean Squared Velocity (}v_{ms}\\pmb{\\text{)}}}$ \n\n • The mean squared velocity ($v_{ms}$) is simply the square of the rms velocity: $$v_{ms} = (v_{rms})^2$$.\n • Squaring the formula gives: $$v_{ms} = \\frac{3RT}{M}$$.\n\n$\\pmb{\\text{Step 3: Analyze the Mathematical Relationship}}$ \n\n • For a particular gas, $R$, $3$, and $M$ are constants. \n • Therefore, $v_{ms} \\propto T$. \n • This takes the form of the linear equation $y = mx$, where $y = v_{ms}$ and $x = T$. \n\n$\\pmb{\\text{Step 4: Identify the Correct Graph}}$ \n\n • A direct proportionality between two variables results in a $\\textbf{Straight line passing through the origin}$ $(0,0)$. \n\n$\\pmb{\\text{Summary of Velocity Relations:}}$ \n\n$$\\begin{array}{|l|l|l|}\n\\hline\n\\pmb{\\text{Parameter}} & \\pmb{\\text{Formula}} & \\pmb{\\text{Graph vs T}} \\\\\n\\hline\n\\text{RMS Velocity (v}_{rms}\\text{)} & \\sqrt{3RT/M} & \\text{Parabolic (y}^2 \\propto x\\text{)} \\\\\n\\hline\n\\text{Mean Squared Velocity (v}_{ms}\\text{)} & 3RT/M & \\text{Straight Line (y} \\propto x\\text{)} \\\\\n\\hline\n\\text{Most Probable Velocity (v}_p\\text{)} & \\sqrt{2RT/M} & \\text{Parabolic} \\\\\n\\hline\n\\end{array}$$\n\n Therefore, the correct option is $\\boxed{\\text{C}}$.",
       "solution_image_url": ""
     },
     {
       "uuid": "81eec772771a",
       "solution_text": "$r = \\left| {{{0 + 0 - 3} \\over {\\sqrt 2 }}} \\right| = {3 \\over {\\sqrt 2 }}$\n$\\sin 30^\\circ = {r \\over R} = {1 \\over 2}$\nR = 2r\nSo, $r + R = 3r = 3 \\times \\left( {{3 \\over {\\sqrt 2 }}} \\right) = {9 \\over {\\sqrt 2 }}$",
-      "solution_image_url": ""
-    },
-    {
-      "uuid": "a007823f60a4",
-      "solution_text": "The change in length of the rod when it is heated is given by the equation:\n$\\Delta L = L_0 \\cdot \\alpha \\cdot \\Delta T$\nwhere\n$\\Delta L$ is the change in length,\n$L_0$ is the original length,\n$\\alpha$ is the coefficient of linear expansion, and\n$\\Delta T$ is the change in temperature.\nSubstituting the given values:\n$\\Delta L = 1 \\, \\text{m} \\cdot 10^{-5} \\, \\text{K}^{-1} \\cdot 200 \\, \\text{K} = 0.002 \\, \\text{m}$\nThe rod is not allowed to extend or bend, so a stress is created in the rod. This stress can be calculated using Young's modulus (Y), which is the ratio of the stress (force per unit area, F/A) to the strain (change in length per unit length, $\\Delta L / L_0$):\n$Y = \\frac{F/A}{\\Delta L / L_0}$\nRearranging for F gives:\n$F = Y \\cdot A \\cdot \\frac{\\Delta L}{L_0}$\nSubstituting the given values:\n$F = 2 \\times 10^{11} \\, \\text{N/m}^2 \\cdot 10^{-4} \\, \\text{m}^2 \\cdot \\frac{0.002 \\, \\text{m}}{1 \\, \\text{m}} = 4 \\times 10^{4} \\, \\text{N}$\nSo the compressive tension produced in the rod is $4 \\times 10^{4} \\, \\text{N}$.",
       "solution_image_url": ""
     },
     {
@@ -41,11 +26,6 @@
     {
       "uuid": "c49355b5dbe3",
       "solution_text": "According to Newton's law of cooling, the temperature goes on decreasing with time non-linearly.",
-      "solution_image_url": ""
-    },
-    {
-      "uuid": "ccffa3af06cb",
-      "solution_text": "$U = {1 \\over 2}L{I^2}$\n$ = {1 \\over 2}2 \\times {2^2} = 4$ J",
       "solution_image_url": ""
     },
     {
@@ -71,6 +51,11 @@
     {
       "uuid": "85b1c284ec24",
       "solution_text": "Aldehydes which contain $ \\alpha $-hydrogen on a saturated carbon, i.e. $ \\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{CHO} $ will undergo aldol condensation.\nAlthough $ \\mathrm{CH}_{2}=\\stackrel{\\alpha}{\\mathrm{C}} \\mathrm{H}-\\mathrm{CHO} $ also contain a $ \\alpha $-hydrogen atom but cannot be easily abstracted by a base to form a carbanion and hence does not undergo aldol condensation.",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "00f90516-091c-49a9-843f-63f6f274877d",
+      "solution_text": "$\\pmb{\\text{Given Data:}}$\nCharge ($q$) $= 8.0 \\mu\\text{C} = 8.0 \\times 10^{-6}\\text{ C}$\nVelocity ($\\vec{v}$) $= 8.0 \\times 10^6 \\hat{j}\\text{ ms}^{-1}$\nMagnetic field ($\\vec{B}$) $= 2 \\hat{k}\\text{ T}$\n\n$\\pmb{\\text{Formula:}}$\nThe magnetic Lorentz force acting on a moving charge is given by:\n$$\\vec{F} = q(\\vec{v} \\times \\vec{B})$$\n\n$\\pmb{\\text{Calculation:}}$\nSubstitute the given vectors into the cross product:\n$$\\vec{F} = (8.0 \\times 10^{-6}) \\left[ (8.0 \\times 10^6 \\hat{j}) \\times (2 \\hat{k}) \\right]$$\n\nUsing the unit vector cross product rule $\\hat{j} \\times \\hat{k} = \\hat{i}$:\n$$\\vec{F} = (8.0 \\times 10^{-6}) \\left[ 16.0 \\times 10^6 (\\hat{j} \\times \\hat{k}) \\right]$$\n$$\\vec{F} = (8.0 \\times 10^{-6}) (16.0 \\times 10^6 \\hat{i})$$\n$$\\vec{F} = 8.0 \\times 16.0 \\hat{i}$$\n$$\\vec{F} = 128 \\hat{i}\\text{ N}$$\n\nComparing this with $\\vec{F} = x \\hat{i}\\text{ N}$:\n$$x = 128$$\n\nTherefore, the value of $x$ is $\\boxed{128}$.",
       "solution_image_url": ""
     },
     {
@@ -106,6 +91,11 @@
     {
       "uuid": "1c9ebabf-4601-4677-8414-327379c04636",
       "solution_text": "$\\pmb{\\text{Given Data:}}$\n\n  $\\text{Mass of the sphere, } m = 100\\text{ g} = 0.1\\text{ kg}$\n  $\\text{Length of the rod (radius), } r = 2\\text{ m}$\n  $\\text{Angular speed, } f = \\frac{600}{\\pi}\\text{ rev./min}$\n\n$\\pmb{\\text{Step 1: Convert angular speed to rad/s}}$\n\nTo convert revolutions per minute to radians per second:\n$$\\omega = 2\\pi \\times f \\times \\frac{1}{60}$$\n$$\\omega = 2\\pi \\times \\left( \\frac{600}{\\pi} \\right) \\times \\frac{1}{60}$$\n$$\\omega = 2 \\times 10 = 20\\text{ rad/s}$$\n\n$\\pmb{\\text{Step 2: Calculate Tension (T)}}$\n\nThe tension in the rod provides the necessary centripetal force for the circular motion:\n$$T = m\\omega^2r$$\n\nSubstituting the values:\n$$T = 0.1 \\times (20)^2 \\times 2$$\n$$T = 0.1 \\times 400 \\times 2$$\n$$T = 40 \\times 2$$\n$$T = 80\\text{ N}$$\n\n$\\text{Therefore, the tension acting on the rod is } \\boxed{80\\text{ N}}.$",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "1d592c2c-1a88-46bd-bcc4-35d766d293a0",
+      "solution_text": "$\\pmb{\\text{Given Data:}}$\nSelf-inductance ($L$) $= 2.0\\text{ H}$\nCurrent function: $I = 2 \\sin(t^2)\\text{ A}$\nInitial current ($I_i$) $= 0\\text{ A}$\nFinal current ($I_f$) $= 2\\text{ A}$\n\n$\\pmb{\\text{Concept:}}$\nThe energy stored ($U$) in an inductor depends solely on the instantaneous value of the current flowing through it and its self-inductance. It is independent of the time-dependency of the current or how the current reached 그 value. \n\n$\\pmb{\\text{Formula:}}$\n$$U = \\frac{1}{2} L I^2$$\n\n$\\pmb{\\text{Calculation:}}$\nAt the start of the period ($I = 0$):\n$$U_i = \\frac{1}{2} L (0)^2 = 0\\text{ J}$$\n\nAt the end of the period ($I = 2\\text{ A}$):\n$$U_f = \\frac{1}{2} L (2)^2$$\n$$U_f = \\frac{1}{2} \\times 2.0 \\times 4$$\n$$U_f = 4\\text{ J}$$\n\n$\\pmb{\\text{Energy Spent/Stored:}}$\nThe amount of energy spent by the source to establish the current is equal to the change in stored energy:\n$$\\Delta U = U_f - U_i = 4 - 0 = 4\\text{ J}$$\n\nTherefore, the energy spent is $\\boxed{4}$.",
       "solution_image_url": ""
     },
     {
@@ -181,6 +171,11 @@
     {
       "uuid": "5890e15c-b4ec-4e83-98b0-f77261900e7a",
       "solution_text": "$\\text{Step-by-Step IUPAC Nomenclature Analysis:}$\n\n$\\textbf{1. Structure A (A } \\rightarrow \\textbf{ 2):}$\nThe longest carbon chain containing the substituents has seven carbons (heptane). Numbering from the end closest to the first substituent gives ethyl at position 3 and methyl at position 5. Following alphabetical order (ethyl before methyl), the name is $\\textbf{3-ethyl-5-methylheptane}$.\n\n$\\textbf{2. Structure B (B } \\rightarrow \\textbf{ 3):}$\nExpanding $\\text{(CH}_3\\text{)}_2\\text{C(C}_3\\text{H}_7\\text{)}_2$ reveals a quaternary carbon attached to two methyl groups and two propyl groups. The longest chain is seven carbons long. The two methyl groups are both on the 4th carbon. Thus, the name is $\\textbf{4,4-dimethylheptane}$.\n\n$\\textbf{3. Structure C (C } \\rightarrow \\textbf{ 4):}$\nThis is a diene. The longest chain has five carbons (penta). Numbering starts from the end that gives the double bonds the lowest locants (1 and 3). A methyl group is located at position 2. The name is $\\textbf{2-methyl-1,3-pentadiene}$.\n\n\n\n$\\textbf{4. Structure D (D } \\rightarrow \\textbf{ 1):}$\nIn this alkene, the double bond takes priority over the alkyl group for numbering. Numbering from the right gives the double bond position 1 and the methyl group position 4. With a five-carbon parent chain, the name is $\\textbf{4-methylpent-1-ene}$.\n\n$\\text{Conclusion: The correct matching is (A)-(2), (B)-(3), (C)-(4), (D)-(1).}$\n\n$\\text{Therefore, the correct option is } \\boxed{\\text{C}}$",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "5ab421b8-259d-4f2d-a321-1cd9b332bb72",
+      "solution_text": "$\\pmb{\\text{Given Data:}}$\nLength ($L_0$) $= 1\\text{ m}$\nArea ($A$) $= 10^{-4}\\text{ m}^2$\nChange in temperature ($\\Delta T$) $= 200 - 0 = 200\\text{ K}$\nCompressive force ($F$) $= 4 \\times 10^4\\text{ N}$\nYoung's modulus ($Y$) $= 2 \\times 10^{11}\\text{ Nm}^{-2}$\n\n$\\pmb{\\text{Formula:}}$\nWhen a rod is prevented from expanding, the thermal stress is given by:\n$$\\text{Stress} = \\frac{F}{A} = Y \\times \\text{Strain}$$\n\nThermal strain is defined as:\n$$\\text{Strain} = \\frac{\\Delta L}{L_0} = \\alpha \\Delta T$$\n\nSubstituting the strain into the stress formula:\n$$\\frac{F}{A} = Y \\alpha \\Delta T$$\n\n$\\pmb{\\text{Calculation:}}$\nRearrange the formula to solve for the coefficient of linear expansion ($\\alpha$):\n$$\\alpha = \\frac{F}{A \\cdot Y \\cdot \\Delta T}$$\n\n$$\\alpha = \\frac{4 \\times 10^4}{10^{-4} \\cdot (2 \\times 10^{11}) \\cdot 200}$$\n\n$$\\alpha = \\frac{4 \\times 10^4}{2 \\times 10^7 \\cdot 200}$$\n\n$$\\alpha = \\frac{4 \\times 10^4}{4 \\times 10^9} = 1 \\times 10^{-5}\\text{ K}^{-1}$$\n\nComparing this with the given form $\\beta \\times 10^{-5}\\text{ K}^{-1}$:\n$$\\beta = 1$$\n\nTherefore, the value of $\\beta$ is $\\boxed{1}$.",
       "solution_image_url": ""
     },
     {
@@ -279,6 +274,11 @@
       "solution_image_url": ""
     },
     {
+      "uuid": "c32694fc-72c5-41de-b334-3c8604b24e18",
+      "solution_text": "$\\pmb{\\text{Given:}}$\nMass ($m$) $= 2\\text{ kg}$\nForce ($F$) $= 40\\text{ N}$\nTime ($t$) $= 5\\text{ s}$\nInitial velocity ($u$) $= 0$\n\n$\\pmb{\\text{Calculation:}}$\n\nAcceleration ($a$) of the body:\n$$a = \\frac{F}{m} = \\frac{40}{2} = 20\\text{ m/s}^2$$\n\nDisplacement ($S$) in $5\\text{ s}$:\n$$S = ut + \\frac{1}{2}at^2 = 0 + \\frac{1}{2}(20)(5)^2 = 10 \\times 25 = 250\\text{ m}$$\n\nUsing the Work-Energy Theorem, the work done ($W$) by the force is equal to the kinetic energy ($K.E.$) acquired:\n$$K.E. = W = F \\cdot S$$\n$$K.E. = 40 \\times 250 = 10000\\text{ J}$$\n\n$\\pmb{\\text{Verification using velocity:}}$\nFinal velocity ($v$) $= u + at = 0 + 20(5) = 100\\text{ m/s}$\n$$K.E. = \\frac{1}{2}mv^2 = \\frac{1}{2}(2)(100)^2 = 10000\\text{ J}$$\n\nTherefore, the correct answer is $\\boxed{10000}$",
+      "solution_image_url": ""
+    },
+    {
       "uuid": "c5944bd3-f0a6-4e0f-b20e-b26e9e2b2a3b",
       "solution_text": "$\\pmb{\\text{Step 1: Simplify the relation to find the general form of } y}$\n\nThe relation is given by the logarithmic equation:\n$$\\ln y = x \\ln \\left( \\frac{2}{5} \\right)$$\nUsing the power property of logarithms, $n \\ln a = \\ln(a^n)$:\n$$\\ln y = \\ln \\left( \\frac{2}{5} \\right)^x$$\nTaking the exponential of both sides, we obtain the functional form of the range elements:\n$$y = \\left( \\frac{2}{5} \\right)^x$$\n\n$\\pmb{\\text{Step 2: Identify the elements in the range of } R}$\n\nSince $x \\in S = \\{0, 1, 2, 3, \\dots\\}$, the range of the relation consists of the values of $y$ for each $x$:\n$\\bullet$ For $x = 0, y = (2/5)^0 = 1$\n$\\bullet$ For $x = 1, y = (2/5)^1 = 2/5$\n$\\bullet$ For $x = 2, y = (2/5)^2 = 4/25$\n$\\bullet$ For $x = 3, y = (2/5)^3 = 8/125$\n\n$\\pmb{\\text{Step 3: Calculate the sum } k \\text{ of the range elements}}$\n\nThe sum $k$ is an infinite geometric series:\n$$k = 1 + \\frac{2}{5} + \\left( \\frac{2}{5} \\right)^2 + \\left( \\frac{2}{5} \\right)^3 + \\dots \\infty$$\nThis is a geometric progression with first term $a = 1$ and common ratio $r = 2/5$. Since $|r| < 1$, the sum is:\n$$k = \\frac{a}{1 - r} = \\frac{1}{1 - \\frac{2}{5}}$$\n$$k = \\frac{1}{3/5} = \\frac{5}{3}$$\n\n$\\pmb{\\text{Step 4: Determine the final required value}}$\n\nWe need to find the value of $3k$:\n$$3k = 3 \\left( \\frac{5}{3} \\right) = 5$$\n\nTherefore, the value of $3k$ is $\\pmb{5}$.",
       "solution_image_url": ""
@@ -306,6 +306,11 @@
     {
       "uuid": "d1eef250-5e03-4b05-8acb-bf78f08a2552",
       "solution_text": "$\\pmb{\\text{1. Dimensional Analysis:}}$\nThe formula for rotational kinetic energy ($K$) is dimensionally equivalent to work or energy. Its dimensional formula is:\n$$[K] = [M^1 L^2 T^{-2}]$$\nThis means the quantity depends on mass ($M$) to the power of $1$, length ($L$) to the power of $2$, and time ($T$) to the power of $-2$.\n\n$\\pmb{\\text{2. Error Propagation Formula:}}$\nFor a physical quantity $X = M^a L^b T^c$, the maximum fractional error is given by:\n$$\\frac{\\Delta X}{X} = |a|\\frac{\\Delta M}{M} + |b|\\frac{\\Delta L}{L} + |c|\\frac{\\Delta T}{T}$$\nSubstituting the powers from the dimensional formula of energy:\n$$\\frac{\\Delta K}{K} = 1\\left(\\frac{\\Delta M}{M}\\right) + 2\\left(\\frac{\\Delta L}{L}\\right) + 2\\left(\\frac{\\Delta T}{T}\\right)$$\n\n$\\pmb{\\text{3. Calculation:}}$\nGiven the percentage accuracies (errors):\n- $\\frac{\\Delta M}{M} \\times 100 = 3\\%$\n- $\\frac{\\Delta L}{L} \\times 100 = 4\\%$\n- $\\frac{\\Delta T}{T} \\times 100 = 2\\%$\n\nMaximum percentage error in $K$:\n$$\\% \\text{ error} = [1 \\times 3\\%] + [2 \\times 4\\%] + [2 \\times 2\\%]$$\n$$\\% \\text{ error} = 3\\% + 8\\% + 4\\% = 15\\%$$\n\n$\\pmb{\\text{Summary of Parameters:}}$\n$$\\begin{array}{|l|c|c|} \n\\hline \n\\textbf{Quantity} & \\textbf{Power (n)} & \\textbf{Individual Error} \\\\ \\hline \n\\text{Mass (M)} & 1 & 3\\% \\\\ \\hline \n\\text{Length (L)} & 2 & 4\\% \\\\ \\hline \n\\text{Time (T)} & 2 & 2\\% \\\\ \\hline \n\\textbf{Total Error} & \\sum |n| \\cdot \\text{error} & \\mathbf{15\\%} \\\\ \\hline \n\\end{array}$$\n\nTherefore, the correct option is $\\boxed{C}$.",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "d7f67e57-d0de-4b06-8fbd-6a3d3e8de140",
+      "solution_text": "$\\pmb{\\text{Given Data:}}$\nPlate Area ($A$) $= 7\\text{ m}^2$\nPlate Separation ($d$) $= 8\\text{ mm} = 8 \\times 10^{-3}\\text{ m}$\nThickness of dielectric ($t$) $= 5\\text{ mm} = 5 \\times 10^{-3}\\text{ m}$\nDielectric constant ($K$) $= 10$\nPermittivity of free space ($\\epsilon_0$) $= 8.85 \\times 10^{-12}\\text{ F m}^{-1}$\n\n$\\pmb{\\text{Formula:}}$\nThe capacitance ($C$) of a parallel plate capacitor partially filled with a dielectric slab is given by:\n$$C = \\frac{\\epsilon_0 A}{d - t + \\frac{t}{K}}$$\n\n$\\pmb{\\text{Calculation:}}$\nSubstitute the given values into the formula:\n$$C = \\frac{8.85 \\times 10^{-12} \\times 7}{(8 \\times 10^{-3} - 5 \\times 10^{-3}) + \\frac{5 \\times 10^{-3}}{10}}$$\n\n$$C = \\frac{61.95 \\times 10^{-12}}{3 \\times 10^{-3} + 0.5 \\times 10^{-3}}$$\n\n$$C = \\frac{61.95 \\times 10^{-12}}{3.5 \\times 10^{-3}}$$\n\n$$C = 17.7 \\times 10^{-9}\\text{ F}$$\n\nSince $1\\text{ nF} = 10^{-9}\\text{ F}$:\n$$C = 17.7\\text{ nF}$$\n\nRounding to the nearest integer:\n$$x \\approx 18$$\n\nTherefore, the value of $x$ is $\\boxed{18}$.",
       "solution_image_url": ""
     },
     {
