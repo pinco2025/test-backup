@@ -1,9 +1,9 @@
 {
   "testCode": "IPFT-2-08",
-  "backupTimestamp": "2026-02-07T14:27:51.615Z",
+  "backupTimestamp": "2026-02-09T22:05:18.174Z",
   "status": "completed",
   "completionPercentage": 100,
-  "currentStep": "test-review",
+  "currentStep": "edit-question",
   "sections": [
     {
       "name": "Physics",
@@ -106,7 +106,7 @@
         {
           "uuid": "3e1da762-32fe-4cf9-a5bc-cc95fc026435",
           "question": "The figure shows two solid discs with radius $R$ and $r$ respectively. If mass per unit area ($\\sigma$) is the same for both, what is the ratio of the moment of inertia (MI) of the bigger disc around axis $AB$ (which is $\\perp$ to the plane of the disc and passing through its centre) to the MI of the smaller disc around one of its diameters lying on its plane? Given '$M$' is the mass of the larger disc.",
-          "question_image_url": "https://lh3.googleusercontent.com/d/1a_9vSlyiwA2UQIOGmLc5Qcjv5cdNCMFj=w684",
+          "question_image_url": "https://lh3.googleusercontent.com/d/1a_9vSlyiwA2UQIOGmLc5Qcjv5cdNCMFj=w1180",
           "option_a": "$\\frac{R^4}{r^4}$",
           "option_a_image_url": null,
           "option_b": "$\\frac{2R^4}{r^4}$",
@@ -181,13 +181,13 @@
           "question": "For a particular ideal gas, which of the following graphs represents the variation of mean squared velocity ($v_{ms}$) of the gas molecules with temperature ($T$ in Kelvin)?\n\n",
           "question_image_url": null,
           "option_a": "",
-          "option_a_image_url": "https://lh3.googleusercontent.com/d/1NOJih18AfVWPR0I7Pyk_zRDLt1p1tiTE=w884",
+          "option_a_image_url": "https://lh3.googleusercontent.com/d/1NOJih18AfVWPR0I7Pyk_zRDLt1p1tiTE=w1163",
           "option_b": "",
-          "option_b_image_url": "https://lh3.googleusercontent.com/d/1iVblRHSqM9coG5csn953Ux2fTPJ6jFza=w809",
+          "option_b_image_url": "https://lh3.googleusercontent.com/d/1iVblRHSqM9coG5csn953Ux2fTPJ6jFza=w1161",
           "option_c": "",
-          "option_c_image_url": "https://lh3.googleusercontent.com/d/1qkZbXbjyKf5pK2udfpVXF0UDvWNaDjAd=w761",
+          "option_c_image_url": "https://lh3.googleusercontent.com/d/1qkZbXbjyKf5pK2udfpVXF0UDvWNaDjAd=w1136",
           "option_d": "",
-          "option_d_image_url": "https://lh3.googleusercontent.com/d/1ioEQgjD_lvYxkhuSI4pOzdhWzKkqRArP=w788",
+          "option_d_image_url": "https://lh3.googleusercontent.com/d/1ioEQgjD_lvYxkhuSI4pOzdhWzKkqRArP=w1107",
           "answer": "C",
           "division": 1,
           "status": "accepted",
@@ -252,7 +252,7 @@
         {
           "uuid": "d598e5c2d1f8",
           "question": "The steady state current in the circuit shown below is :",
-          "question_image_url": "https://lh3.googleusercontent.com/d/1mHSyWW3RflqIAlY4l3xwi3V02CZRyizz=w961",
+          "question_image_url": "https://lh3.googleusercontent.com/d/1mHSyWW3RflqIAlY4l3xwi3V02CZRyizz=w1171",
           "option_a": "0.67 A",
           "option_a_image_url": "",
           "option_b": "1.5 A",
@@ -289,7 +289,7 @@
         {
           "uuid": "b97f33cf63aa",
           "question": "A thin semicircular conducting ring ($PQR$) of radius $r$ is falling with its plane vertical in a horizontal magnetic field $B$, as shown in the figure. The potential difference developed across the ring when its speed is $v$, is:",
-          "question_image_url": "https://lh3.googleusercontent.com/d/1Sp8zNkEDrJ32bhR5rnoCE-vlN8o9_pML=w861",
+          "question_image_url": "https://lh3.googleusercontent.com/d/1Sp8zNkEDrJ32bhR5rnoCE-vlN8o9_pML=w1163",
           "option_a": "$0$",
           "option_a_image_url": "",
           "option_b": "$$\\frac{Bv\\pi r^2}{2} \\text{ and } P \\text{ is at higher potential}$$",
@@ -326,7 +326,7 @@
         {
           "uuid": "0f87db87f197",
           "question": "The given figure shows few data points in a photoelectric effect experiment for a certain metal. The minimum energy for ejection of electron from its surface is:\n(Planck's constant $h = 6.62 \\times 10^{-34}\\text{ J s}$)",
-          "question_image_url": "https://lh3.googleusercontent.com/d/1uuMiuUVEZsKY7KsSNqGOYhI2GUhjcAJ1=w763",
+          "question_image_url": "https://lh3.googleusercontent.com/d/1uuMiuUVEZsKY7KsSNqGOYhI2GUhjcAJ1=w1167",
           "option_a": "$2.10\\text{ eV}$",
           "option_a_image_url": "",
           "option_b": "$2.27\\text{ eV}$",
@@ -486,7 +486,7 @@
       "questions": [
         {
           "uuid": "6462ea2605fe",
-          "question": "Pick out the isoelectronic structure from the following :\n$\\eqalign{\n& \\left( i \\right)\\,\\,\\,\\,\\,\\,C{H_3}^ + \\cr\n& \\left( {ii} \\right)\\,\\,\\,\\,{H_3}{O^ + } \\cr\n& \\left( {iii} \\right)\\,\\,\\,N{H_3} \\cr\n& \\left( {iv} \\right)\\,\\,\\,\\,C{H_3}^ - \\cr} $",
+          "question": "Pick out the isoelectronic structures from the following:\n(i) $\\text{CH}_3^+$\n(ii) $\\text{H}_3\\text{O}^+$\n(iii) $\\text{NH}_3 $\n(iv) $\\text{CH}_3^-$\nChoose the correct option:",
           "question_image_url": "",
           "option_a": "$(i)$ and $(ii)$",
           "option_a_image_url": "",
@@ -993,7 +993,7 @@
         },
         {
           "uuid": "3b40c8b2b7b3",
-          "question": "Let $ A = \\left\\{ \\theta \\in [0, 2\\pi] : 1 + 10\\operatorname{Re}\\left( \\frac{2\\cos\\theta + i\\sin\\theta}{\\cos\\theta - 3i\\sin\\theta} \\right) = 0 \\right\\} $. Then $ \\sum\\limits_{\\theta \\in A} \\theta^2 $ is equal to",
+          "question": "Let $ A = \\left\\{ \\theta \\in [0, 2\\pi] : 1 + 10\\operatorname{Re}\\left( \\frac{2\\cos\\theta + i\\sin\\theta}{\\cos\\theta - 3i\\sin\\theta} \\right) = 0 \\right\\} $. Then $ \\sum_{\\theta \\in A} \\theta^2 $ is equal to:",
           "question_image_url": "",
           "option_a": "$ \\frac{21}{4} \\pi^2 $",
           "option_a_image_url": "",
@@ -1011,22 +1011,22 @@
           "examSource": "JEE"
         },
         {
-          "uuid": "c55c8cbdb229",
-          "question": "i The following figure shows the graph of $y = ax^2 + bx + c$. Then:",
+          "uuid": "f93fab974af5",
+          "question": "If the roots of the equation $x^2 - 2ax + a^2 + a - 3 = 0$ are real and less than $3$, then",
           "question_image_url": "",
-          "option_a": "$a < 0$",
+          "option_a": "$a < 2$",
           "option_a_image_url": "",
-          "option_b": "$a > 0$",
+          "option_b": "$2 \\leq a \\leq 3$",
           "option_b_image_url": "",
-          "option_c": "$a = 0$",
+          "option_c": "$3 < a \\leq 4$",
           "option_c_image_url": "",
-          "option_d": "$a$ is an imaginary number",
+          "option_d": "$a > 4$",
           "option_d_image_url": "",
           "answer": "A",
           "division": 1,
           "status": "pending",
           "chapter": "QEN1",
-          "topic": "Q16",
+          "topic": "Q57",
           "examSource": "JEE"
         },
         {
@@ -1266,15 +1266,15 @@
         },
         {
           "uuid": "92f4d2b255b8",
-          "question": "The area of the region enclosed by the curves $y = x,x = e,y = {1 \\over x}$ and the positive $x$-axis is :",
+          "question": "The area of the region enclosed by the curves $y = x, x = e, y = \\frac{1}{x}$ and the positive $x$-axis is:",
           "question_image_url": "",
           "option_a": "$1$ square unit",
           "option_a_image_url": "",
-          "option_b": "${3 \\over 2}$ square units",
+          "option_b": "$\\frac{3}{2}$ square units",
           "option_b_image_url": "",
-          "option_c": "${5 \\over 2}$ square units",
+          "option_c": "$\\frac{5}{2}$ square units",
           "option_c_image_url": "",
-          "option_d": "${1 \\over 2}$ square unit",
+          "option_d": "$\\frac{1}{2}$ square unit",
           "option_d_image_url": "",
           "answer": "B",
           "division": 1,
@@ -1426,6 +1426,6 @@
     "testType": "Full",
     "description": "Full Syllabus Test 8",
     "createdAt": "2026-01-13T17:52:24.130Z",
-    "lastModified": "2026-02-07T14:27:51.615Z"
+    "lastModified": "2026-02-09T22:05:18.174Z"
   }
 }
