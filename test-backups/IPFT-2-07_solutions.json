@@ -1,7 +1,7 @@
 {
   "testId": "IPFT-2-07",
   "testCode": "IPFT-2-07",
-  "backupTimestamp": "2026-02-07T14:27:41.470Z",
+  "backupTimestamp": "2026-02-09T22:05:13.983Z",
   "solutions": [
     {
       "uuid": "3305a40dde16",
@@ -15,8 +15,8 @@
     },
     {
       "uuid": "66c70ff21927",
-      "solution_text": "f (a) = 2a(12 $-$ a)^{2}\nf '(a) = 2(12 $-$ 3a$^{2}$)\nMaximum at a = 2\nmaximum area = f(2) = 32",
-      "solution_image_url": ""
+      "solution_text": "$\\textbf{Step 1: Define the dimensions of the rectangle.}$\n\n\n\nLet the vertices of the rectangle on the $x$-axis be $(a, 0)$ and $(-a, 0)$. \nSince the other two vertices lie on the parabola $y = 12 - x^{2}$, their coordinates will be $(a, 12 - a^{2})$ and $(-a, 12 - a^{2})$.\n \n - The length of the base of the rectangle is $2a$.\n - The height of the rectangle is $12 - a^{2}$.\n\n$\\textbf{Step 2: Formulate the area function.}$\n\nThe area $A$ of the rectangle is given by the product of its base and height:\n$$A(a) = 2a(12 - a^{2}) = 24a - 2a^{3}$$\n\n$\\textbf{Step 3: Find the maximum area using differentiation.}$\n\nTo find the maximum area, we take the first derivative of $A(a)$ with respect to $a$ and set it to zero:\n$$A'(a) = \\frac{d}{da}(24a - 2a^{3}) = 24 - 6a^{2}$$\nSetting $A'(a) = 0$:\n$$24 - 6a^{2} = 0 \\implies a^{2} = 4 \\implies a = 2 \\text{ (since } a > 0)$$\n\nTo verify it is a maximum, we check the second derivative:\n$$A''(a) = -12a$$\nAt $a = 2$, $A''(2) = -24 < 0$, confirming a local maximum.\n\n$\\textbf{Step 4: Calculate the maximum area.}$\n\nSubstitute $a = 2$ back into the area equation:\n$$A(2) = 2(2)(12 - 2^{2})$$\n$$A(2) = 4(12 - 4)$$\n$$A(2) = 4(8) = 32$$\n\nTherefore, the correct option is $\\mathbf{D}$.",
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1V4vqDguBxy5YHAZ8C77A8ayTAdsWUFVb=w1154"
     },
     {
       "uuid": "7cf879672c09",
@@ -211,7 +211,7 @@
     {
       "uuid": "952c0612-c752-4c00-b1ae-ad445212f1c4",
       "solution_text": "$\\pmb{\\text{Step 1: Identify the Condition for Detachment}}$\n\nThe block will lose contact with the platform when the downward acceleration of the platform exceeds the acceleration due to gravity ($g$). In simple harmonic motion, the maximum downward acceleration occurs at the topmost point of the oscillation.\n\nAt the point of detachment, the normal reaction force ($N$) becomes zero. The equation of motion at the highest point is:\n$$mg - N = m\\omega^2 A$$\nFor detachment, set $N = 0$:\n$$mg = m\\omega^2 A \\implies g = \\omega^2 A$$\n\n---\n\n$\\pmb{\\text{Step 2: Relate Angular Frequency to Spring Constant}}$\n\nThe angular frequency ($\\omega$) for a mass-spring system is defined by the mass ($m$) and the spring constant ($k$):\n$$\\omega^2 = \\frac{k}{m}$$\n\n---\n\n$\\pmb{\\text{Step 3: Calculate the Minimum Amplitude (A)}}$\n\nBy substituting the expression for $\\omega^2$ into the detachment condition, we find the amplitude required. The calculation steps are summarized in the table below:\n\n$$\\begin{array}{|c|c|c|} \\hline \\pmb{\\text{Variable}} & \\pmb{\\text{Analytical Expression}} & \\pmb{\\text{Numerical Value}} \\\\[2ex] \\hline \\text{Spring Constant (k)} & - & 500\\text{ N/m} \\\\[2.5ex] \\hline \\text{Mass (m)} & - & 5.0\\text{ kg} \\\\[2.5ex] \\hline \\text{Amplitude (m)} & A = \\frac{mg}{k} & \\frac{5.0 \\times 10}{500} = 0.1\\text{ m} \\\\[2.5ex] \\hline \\text{Amplitude (cm)} & A \\times 100 & 10\\text{ cm} \\\\[2ex] \\hline \\end{array}$$\n\n---\n\n$\\pmb{\\text{Step 4: Final Conclusion}}$\n\nTo ensure the block just loses contact at the upper extreme, the restoring force of the spring must provide an acceleration equal to gravity. This occurs at an amplitude of $10\\text{ cm}$.\n\nTherefore, the correct answer is $\\boxed{10 \\text{ cm}}$.",
-      "solution_image_url": "https://lh3.googleusercontent.com/d/1KxqpIfs6prgqJMJMZoVkvfU5vTfRRf3l=w300"
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1KxqpIfs6prgqJMJMZoVkvfU5vTfRRf3l=w1141"
     },
     {
       "uuid": "95e78a95-594f-4267-ad68-9daabf7f9e54",
@@ -356,7 +356,7 @@
     {
       "uuid": "f85ca108-416b-41c8-935a-a2b926aef0ca",
       "solution_text": "$\\pmb{\\text{1. Derivation of Tension in an Atwood Machine:}}$\n\nWhen two masses $m_1$ and $m_2$ are connected by a string over a pulley, the tension $T$ generated during motion is given by:\n$$T = \\frac{2 m_1 m_2 g}{m_1 + m_2}$$\n\nSubstituting the values $m_1 = 12 \\text{ kg}$ and $m_2 = 4 \\text{ kg}$:\n\n • $T = \\frac{2 \\times 12 \\times 4 \\times 10}{12 + 4}$\n\n • $T = \\frac{960}{16} = 60 \\text{ N}$\n\n$\\pmb{\\text{2. Calculation of Stress and Minimum Radius:}}$\n\nStress ($\\sigma$) is defined as the internal restoring force per unit area. For a circular wire of radius $R$, the cross-sectional area is $A = \\pi R^2$. To find the threshold of breaking, we set the stress equal to the breaking stress $S$:\n\n$$\\begin{array}{|l|l|} \\hline \\textbf{Step} & \\textbf{Computation} \\\\ \\hline \\text{Stress Formula} & S = \\frac{T}{A} = \\frac{T}{\\pi R^2} \\\\ \\hline \\text{Substitute Given Values} & \\frac{6000}{\\pi} = \\frac{60}{\\pi R^2} \\\\ \\hline \\text{Simplify Equation} & 6000 = \\frac{60}{R^2} \\\\ \\hline \\text{Solve for } R^2 & R^2 = \\frac{60}{6000} = \\frac{1}{100} \\\\ \\hline \\text{Solve for } R & R = \\sqrt{\\frac{1}{100}} = 0.1 \\text{ m} \\\\ \\hline \\end{array}$$\n\n$\\pmb{\\text{3. Final Result:}}$\n\nConverting the radius from meters to centimeters:\n$$R = 0.1 \\text{ m} = 10 \\text{ cm}$$\n\n$\\pmb{\\text{Conclusion:}}$\n\nA wire with a radius of $10 \\text{ cm}$ is the minimum required size to support the dynamic load of $60 \\text{ N}$ without fracturing.\n\nTherefore, the correct answer is $\\boxed{10 \\text{ cm}}$.",
-      "solution_image_url": "https://lh3.googleusercontent.com/d/1n0gyd-_jwMTIIdnp1JkOF2XxUBe2R_aJ=w300"
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1n0gyd-_jwMTIIdnp1JkOF2XxUBe2R_aJ=w1160"
     },
     {
       "uuid": "f97fa65c-8ef9-4275-b478-6221e3c7e614",
