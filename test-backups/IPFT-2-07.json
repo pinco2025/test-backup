@@ -1,6 +1,6 @@
 {
   "testCode": "IPFT-2-07",
-  "backupTimestamp": "2026-02-07T14:27:59.364Z",
+  "backupTimestamp": "2026-02-09T22:05:13.975Z",
   "status": "completed",
   "completionPercentage": 100,
   "currentStep": "test-review",
@@ -143,7 +143,7 @@
         {
           "uuid": "f85ca108-416b-41c8-935a-a2b926aef0ca",
           "question": "Two blocks of masses $m_1$ and $m_2$ are connected by a metallic wire of radius $R$ passing over a smooth, frictionless pulley. The breaking stress of the metal is $S = \\frac{60}{\\pi} \\times 10^2 \\text{ N m}^{-2}$. If the system is released with $m_1 = 12 \\text{ kg}$ and $m_2 = 4 \\text{ kg}$, find the minimum radius $R$ required to ensure the wire does not exceed its breaking limit. (Take $g = 10 \\text{ m/s}^2$)",
-          "question_image_url": "https://lh3.googleusercontent.com/d/1JfkdMaSKlQz0hvDTHiptetIwCV-vEQKG=w540",
+          "question_image_url": "https://lh3.googleusercontent.com/d/1JfkdMaSKlQz0hvDTHiptetIwCV-vEQKG=w1072",
           "option_a": "$5 \\text{ cm}$",
           "option_a_image_url": null,
           "option_b": "$10 \\text{ cm}$",
@@ -180,7 +180,7 @@
         {
           "uuid": "80169676-cef0-49c4-b02c-8ebf1b51efae",
           "question": "Two different adiabatic paths for the same ideal gas intersect two isothermal curves at points $A, B, C,$ and $D$ on a $P\\text{-}V$ diagram. Points $A$ and $B$ lie on the isotherm at temperature $T_1$, while points $C$ and $D$ lie on the isotherm at temperature $T_2$. If the paths $AD$ and $BC$ are adiabatic, find the correct relationship between the pressure ratios $\\frac{P_a}{P_b}$ and $\\frac{P_d}{P_c}$.",
-          "question_image_url": "https://lh3.googleusercontent.com/d/1hquPn5hjdjmOcuCtNUPz3oGQ3-yfxKSF=w766",
+          "question_image_url": "https://lh3.googleusercontent.com/d/1hquPn5hjdjmOcuCtNUPz3oGQ3-yfxKSF=w1127",
           "option_a": "$\\frac{P_a}{P_b} = \\frac{P_d}{P_c}$",
           "option_a_image_url": null,
           "option_b": "$\\frac{P_a}{P_b} = \\left(\\frac{P_d}{P_c}\\right)^{\\gamma}$",
@@ -254,7 +254,7 @@
         {
           "uuid": "e85e7f17-751d-449b-ae61-371e5b873e1f",
           "question": "Two condensers, one of capacity $C = 12$ $\\mu$F and the other of capacity $6$ $\\mu$F , are connected in parallel to a $20$ V battery. The total work done in charging both the condensers fully is:",
-          "question_image_url": "https://lh3.googleusercontent.com/d/1CsOlxzLptVOeebsLCpSv9-WK8zv08sMs=w300",
+          "question_image_url": "https://lh3.googleusercontent.com/d/1CsOlxzLptVOeebsLCpSv9-WK8zv08sMs=w1084",
           "option_a": "$1.2 mJ$",
           "option_a_image_url": null,
           "option_b": "$2.4 mJ$",
@@ -330,7 +330,7 @@
         {
           "uuid": "70e46452-8ea7-4538-92d6-d56d3824e9ab",
           "question": "Medium I and Medium II are separated by a spherical interface with a radius of curvature of $50\\text{ cm}$. An object is placed in Medium I at a distance of $40\\text{ cm}$ from the vertex of the interface. If the refractive indices of Medium I and Medium II are $1.25$ and $1.4$ respectively, determine the distance of the image from the surface.",
-          "question_image_url": "https://lh3.googleusercontent.com/d/1DA1bSVYn__AocDeqj8H5PfIH9IoK8PHD=w812",
+          "question_image_url": "https://lh3.googleusercontent.com/d/1DA1bSVYn__AocDeqj8H5PfIH9IoK8PHD=w1200",
           "option_a": "$37.58\\text{ cm}$",
           "option_a_image_url": null,
           "option_b": "$40.88\\text{ cm}$",
@@ -1074,19 +1074,19 @@
         },
         {
           "uuid": "66c70ff21927",
-          "question": "The maximum area (in sq. units) of a rectangle having its base on the x-axis and its other two vertices on the parabola, y = 12 – x$^{2}$ such that the rectangle lies inside the parabola, is :",
+          "question": "The maximum area (in sq. units) of a rectangle having its base on the $x$-axis and its other two vertices on the parabola $y = 12 - x^{2}$ such that the rectangle lies inside the parabola, is:",
           "question_image_url": "",
           "option_a": "36",
           "option_a_image_url": "",
-          "option_b": "20$\\sqrt 2 $",
+          "option_b": "$20\\sqrt{2}$",
           "option_b_image_url": "",
-          "option_c": "18$\\sqrt 3 $",
+          "option_c": "$18\\sqrt{3}$",
           "option_c_image_url": "",
           "option_d": "32",
           "option_d_image_url": "",
           "answer": "D",
           "division": 1,
-          "status": "pending",
+          "status": "accepted",
           "chapter": "PAR1",
           "topic": "JEE Main 2019 (Online) 12th January Morning Slot",
           "examSource": "JEE"
@@ -1431,6 +1431,6 @@
     "testType": "Full",
     "description": "Full Syllabus Test 7",
     "createdAt": "2026-01-13T17:52:24.130Z",
-    "lastModified": "2026-02-07T14:27:59.364Z"
+    "lastModified": "2026-02-09T22:05:13.975Z"
   }
 }
