@@ -1,7 +1,7 @@
 {
   "testId": "IPFT-2-06",
   "testCode": "IPFT-2-06",
-  "backupTimestamp": "2026-02-07T14:27:52.425Z",
+  "backupTimestamp": "2026-02-09T14:17:09.638Z",
   "solutions": [
     {
       "uuid": "3bbbc2eb2873",
@@ -15,8 +15,8 @@
     },
     {
       "uuid": "58a448e79da9",
-      "solution_text": "We have\n$m{\\omega ^2}r = \\mu mg$ ...... (1)\nGiven : rate of ro^{}tation = 3.5 rev/s\n$\\Rightarrow$ 1 revolution = 2$\\pi$ rad\nThat is, 3.5 revolutions = 3.5 $\\times$ 2$\\pi$ rad\nTherefore, $\\omega$ = 3.5 $\\times$ 2$\\pi$ rad/s\nr = 1.25 cm = 1.25 $\\times$ 10^{$-$2} m\nThus, from Eq. (1), we have\n$m{\\omega ^2}r = \\mu mg \\Rightarrow {\\omega ^2}r = \\mu g$\n$ \\Rightarrow \\mu = {{{\\omega ^2}r} \\over g} = {{{{(3.5 \\times 2\\pi )}^2}(1.25 \\times {{10}^{ - 2}})} \\over {10}}$\n$ \\Rightarrow \\mu = 0.60$",
-      "solution_image_url": ""
+      "solution_text": "$\\pmb{\\text{Analysis of Forces:}}$\n\nFor the coin to remain at rest relative to the rotating disc, the required centripetal force must be provided by the static friction between the coin and the disc. \n\n\n\nAt the verge of slipping, the centripetal force is equal to the maximum static friction:\n$$m\\omega^2 r = \\mu_s mg$$\n\n$\\pmb{\\text{Given Data:}}$\n\n - Frequency ($f$) = $3.5\\text{ rev/s}$\n - Angular velocity ($\\omega$) = $2\\pi f = 2\\pi \\times 3.5 = 7\\pi \\text{ rad/s}$\n - Distance ($r$) = $1.25\\text{ cm} = 1.25 \\times 10^{-2}\\text{ m}$\n - Acceleration due to gravity ($g$) = $10\\text{ m/s}^2$\n\n$\\pmb{\\text{Calculation:}}$\n\nFrom the force balance equation:\n$$\\omega^2 r = \\mu g$$\n$$\\mu = \\frac{\\omega^2 r}{g}$$\n\nSubstituting the values:\n$$\\mu = \\frac{(7\\pi)^2 \\times (1.25 \\times 10^{-2})}{10}$$\n$$\\mu = \\frac{49 \\times \\pi^2 \\times 1.25 \\times 10^{-2}}{10}$$\n\nUsing the approximation $\\pi^2 \\approx 10$:\n$$\\mu = \\frac{49 \\times 10 \\times 1.25 \\times 10^{-2}}{10}$$\n$$\\mu = 49 \\times 1.25 \\times 10^{-2}$$\n$$\\mu = 61.25 \\times 10^{-2}$$\n$$\\mu = 0.6125 \\approx 0.6$$\n\nTherefore, the coefficient of friction is approximately $\\boxed{0.6}$.",
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1ZCUVxOlvOi3ktVmQgg39l8gwcbgyhyjG=w1200"
     },
     {
       "uuid": "69f0f90ef481",
@@ -41,7 +41,7 @@
     {
       "uuid": "998798e14f98",
       "solution_text": "$\\pmb{\\text{Step 1: Understanding the Initial State}}$\nWhen point $C$ is connected to $A$ for a long time, the circuit reaches a steady state. The inductor acts as a short circuit, and a constant current $I_0 = E/R$ flows through the inductor $L$ and resistor $R$.\n\n$\\pmb{\\text{Step 2: Circuit Behavior at } t=0}$\nAt $t=0$, point $C$ is disconnected from $A$ and connected to $B$. This creates a closed loop containing only the resistor $R$ and the inductor $L$, with the battery removed. This is a $\\pmb{\\text{decaying LR circuit}}$.\n\n\n\n$\\pmb{\\text{Step 3: Applying Kirchhoff's Voltage Law (KVL)}}$\nIn the new closed loop (BCRB), we apply Kirchhoff's Voltage Law. Let $V_R$ be the voltage across the resistor and $V_L$ be the voltage across the inductor. According to KVL, the algebraic sum of potential differences around any closed loop is zero:\n$$V_R + V_L = 0$$\nThis can be written as:\n$$IR + L\\frac{di}{dt} = 0$$\n\n$\\pmb{\\text{Step 4: Calculating the Ratio}}$\nFrom the KVL equation, we can directly find the ratio of the voltages at any time $t$:\n$$V_R = -V_L$$\n$$\\frac{V_R}{V_L} = -1$$\n\n$\\pmb{\\text{Conclusion:}}$\nSince $V_R = -V_L$ is true for all times $t > 0$ during the discharge process, the ratio at $t = L/R$ (or any other time) will consistently remain $-1$.\n\nTherefore, the correct answer is $\\pmb{\\boxed{C}}$.",
-      "solution_image_url": ""
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1SOk7yn1E3o2fwaXZNpA_0Zeou5KNRYrf=w1181"
     },
     {
       "uuid": "c32ac6cfa58f",
@@ -60,7 +60,7 @@
     },
     {
       "uuid": "f390c2af8e29",
-      "solution_text": "$P = Fv$\n$P = m{{dv} \\over {dt}}v$\n$ \\Rightarrow $ $vdv = {P \\over m}dt$\nIntegrating both sides, we get\n${V^2} = k't$\n$ \\Rightarrow $ V = k\"$\\sqrt t $\n$ \\Rightarrow $ ${{ds} \\over {dt}}$ = k\"$\\sqrt t $\n$ \\Rightarrow $ $\\int {ds} = \\int {k''\\sqrt t } dt$\n$ \\Rightarrow $ s $ \\propto $ t$^{3/2}$",
+      "solution_text": "$\\pmb{\\text{Derivation:}}$\n\nGiven that the power ($P$) is constant:\n$$P = F \\cdot v$$\nSince $F = m a = m \\frac{dv}{dt}$:\n$$P = m \\left( \\frac{dv}{dt} \\right) v$$\n$$v \\, dv = \\left( \\frac{P}{m} \\right) dt$$\n\nIntegrating both sides (assuming the particle starts from rest):\n$$\\int_0^v v \\, dv = \\int_0^t \\frac{P}{m} \\, dt$$\n$$\\frac{v^2}{2} = \\frac{P}{m} t$$\n$$v = \\sqrt{\\frac{2P}{m}} \\cdot t^{1/2}$$\n\nNow, expressing velocity as $\\frac{ds}{dt}$:\n$$\\frac{ds}{dt} = k \\cdot t^{1/2} \\quad \\text{where } k = \\sqrt{\\frac{2P}{m}}$$\nIntegrating again to find displacement ($s$):\n$$\\int_0^s ds = \\int_0^t k \\cdot t^{1/2} \\, dt$$\n$$s = k \\cdot \\frac{t^{3/2}}{3/2}$$\n$$s \\propto t^{3/2}$$\n\n$\\pmb{\\text{Conclusion:}}$\n\n - For a constant power source, displacement varies as $t^{1.5}$.\n - This represents a curve where the slope (velocity) increases over time, but at a decreasing rate compared to constant acceleration (where $s \\propto t^2$).\n\nTherefore, the correct graph is the one representing $\\boxed{s \\propto t^{3/2}}$.",
       "solution_image_url": ""
     },
     {
@@ -71,7 +71,7 @@
     {
       "uuid": "3da3fcd349b2",
       "solution_text": "$\\pmb{\\text{Step 1: Application of Ohm's Law to the Complete Circuit}}$\nIn a circuit consisting of a cell with emf $\\varepsilon$, internal resistance $r$, and external resistance $R$, the total current $I$ is determined by the total resistance $(R + r)$:\n$$I = \\frac{\\varepsilon}{R + r}$$\n\n$\\pmb{\\text{Step 2: Deriving the Terminal Potential Difference (V)}}$\nThe potential difference $V$ across the external resistor $R$ (also known as the terminal voltage) is given by:\n$$V = IR = \\left( \\frac{\\varepsilon}{R + r} \\right) R$$\nTo analyze the dependency on $R$ more clearly, we rearrange the expression:\n$$V = \\frac{\\varepsilon}{1 + \\frac{r}{R}}$$\n\n\n\n$\\pmb{\\text{Step 3: Functional Analysis and Boundary Conditions}}$\nWe examine how $V$ behaves at extreme values of $R$:\n$\\bullet$ $\\pmb{\\text{At } R = 0:}$ The term $\\frac{r}{R} \\to \\infty$, which means $V = \\frac{\\varepsilon}{1 + \\infty} = 0$. The graph must pass through the origin $(0,0)$.\n$\\bullet$ $\\pmb{\\text{At } R = r:}$ The potential difference is $V = \\frac{\\varepsilon}{1 + 1} = \\frac{\\varepsilon}{2}$.\n$\\bullet$ $\\pmb{\\text{As } R \\to \\infty:}$ The term $\\frac{r}{R} \\to 0$, which means $V \\to \\frac{\\varepsilon}{1 + 0} = \\varepsilon$. The voltage approaches the emf asymptotically.\n\n\n\n$\\pmb{\\text{Conclusion:}}$\nThe resulting curve is a rectangular hyperbola shifted such that it starts at the origin and levels off at $V = \\varepsilon$. This corresponds to the curve shown in $\\pmb{\\text{Option C}}$.\n\nTherefore, the correct answer is $\\pmb{\\boxed{C}}$.",
-      "solution_image_url": ""
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1OK5glsk-d-nrityJSJCJuh-M7fGwBkLe=w1145"
     },
     {
       "uuid": "6ac70857bd9c",
