@@ -1,7 +1,7 @@
 {
   "testId": "IPFT-2-06",
   "testCode": "IPFT-2-06",
-  "backupTimestamp": "2026-02-09T14:17:09.638Z",
+  "backupTimestamp": "2026-02-09T22:05:08.648Z",
   "solutions": [
     {
       "uuid": "3bbbc2eb2873",
@@ -30,8 +30,8 @@
     },
     {
       "uuid": "7c1ccc15aff8",
-      "solution_text": "Let $P,Q,R,$ be the vertices of $\\Delta PQR$\nSince $PS$ is the median, $S$ is mid-point of $QR$\nSo, $S = \\left( {{{7 + 6} \\over 2},{{3 - 1} \\over 2}} \\right) = \\left( {{{13} \\over 2},1} \\right)$\nNow, slope of $PS$ $ = {{2 - 1} \\over {2 - {{13} \\over 2}}} = - {2 \\over 9}$\nSince, required line is parallel to $PS$ therefore slope of required line $=$ slope of\n$PS$\nNow, equation of line passing through $(1, -1)$ and having slope $ - {2 \\over 9}$ is\n$y - \\left( { - 1} \\right) = - {2 \\over 9}\\left( {x - 1} \\right)$\n$9y + 9 = - 2x + 2$\n$ \\Rightarrow 2x + 9y + 7 = 0$",
-      "solution_image_url": ""
+      "solution_text": "$\\textbf{Step 1: Find the coordinates of point S.}$\nSince $PS$ is the median of $\\Delta PQR$ to the side $QR$, $S$ must be the midpoint of $QR$.\nUsing the midpoint formula $S = \\left( \\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2} \\right)$:\n$$S = \\left( \\frac{6 + 7}{2}, \\frac{-1 + 3}{2} \\right) = \\left( \\frac{13}{2}, 1 \\right)$$\n\n\n\n$\\textbf{Step 2: Calculate the slope of the median PS.}$\nThe slope $m$ of a line passing through $(x_1, y_1)$ and $(x_2, y_2)$ is given by $m = \\frac{y_2 - y_1}{x_2 - x_1}$.\nFor $P(2, 2)$ and $S\\left( \\frac{13}{2}, 1 \\right)$:\n$$m_{PS} = \\frac{1 - 2}{\\frac{13}{2} - 2} = \\frac{-1}{\\frac{13 - 4}{2}} = \\frac{-1}{\\frac{9}{2}} = -\\frac{2}{9}$$\n\n$\\textbf{Step 3: Find the equation of the required line.}$\nThe required line passes through $(1, -1)$ and is parallel to $PS$. Therefore, it has the same slope $m = -\\frac{2}{9}$.\nUsing the point-slope form $y - y_1 = m(x - x_1)$:\n$$y - (-1) = -\\frac{2}{9}(x - 1)$$\n$$9(y + 1) = -2(x - 1)$$\n$$9y + 9 = -2x + 2$$\n$$2x + 9y + 7 = 0$$\n\nTherefore, the correct option is $\\mathbf{D}$.",
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1eeJ8mLHARGYw7L3SLscpWIbfpgOthSIo=w1106"
     },
     {
       "uuid": "81dca35db5e2",
@@ -50,13 +50,13 @@
     },
     {
       "uuid": "cd39c32c8a13",
-      "solution_text": "${m_1} \\times {m_2} = - 1$\n${{{{a - 4} \\over 2} - 5} \\over {a - 2}} \\times 2 = - 1$\n${{a - 14} \\over {a - 2}} = - 1$\n$a - 14 = 2 - a$\n$2a = 16$\na = 8\n$ \\therefore $ Centre (8, 2)\nRadius = $\\sqrt {36 + 9} $\n$ = \\sqrt {45} $\n$ = 3\\sqrt 5 $",
-      "solution_image_url": ""
+      "solution_text": "$\\textbf{Step 1: Identify the coordinates of the centre.}$\nLet the centre of the circle be $C(h, k)$. \nSince the centre lies on the line $x - 2y = 4$, we can express the coordinates in terms of a single variable $a$. \nIf we let $x = a$, then $a - 2y = 4 \\Rightarrow 2y = a - 4 \\Rightarrow y = \\frac{a - 4}{2}$.\nSo, the centre is $C\\left( a, \\frac{a - 4}{2} \\right)$.\n\n\n\n$\\textbf{Step 2: Use the property of tangents and radii.}$\nThe radius from the centre to the point of tangency $P(2, 5)$ is perpendicular to the tangent line $2x - y + 1 = 0$.\nSlope of the tangent line ($m_2$) is $2$.\nSlope of the radius $CP$ ($m_1$) is given by:\n$$m_1 = \\frac{\\frac{a - 4}{2} - 5}{a - 2} = \\frac{a - 4 - 10}{2(a - 2)} = \\frac{a - 14}{2(a - 2)}$$\nSince $CP \\perp$ tangent, $m_1 \\times m_2 = -1$:\n$$\\left( \\frac{a - 14}{2(a - 2)} \\right) \\times 2 = -1$$\n$$\\frac{a - 14}{a - 2} = -1$$\n$$a - 14 = -(a - 2)$$\n$$a - 14 = -a + 2 \\Rightarrow 2a = 16 \\Rightarrow a = 8$$\n\n$\\textbf{Step 3: Calculate the radius.}$\nSubstituting $a = 8$ into the centre coordinates:\n$$\\text{Centre } C = \\left( 8, \\frac{8 - 4}{2} \\right) = (8, 2)$$\nThe radius is the distance between $C(8, 2)$ and $P(2, 5)$:\n$$\\text{Radius} = \\sqrt{(8 - 2)^2 + (2 - 5)^2}$$\n$$\\text{Radius} = \\sqrt{6^2 + (-3)^2} = \\sqrt{36 + 9} = \\sqrt{45}$$\n$$\\text{Radius} = 3\\sqrt{5}$$\n\nTherefore, the correct option is $\\mathbf{C}$.",
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1yW3_W5WT-iJobwPHjvG2rLakhWUl9-Lm=w1103"
     },
     {
       "uuid": "ed585ec5b5a3",
-      "solution_text": "V $\\to$ Vertex\nF $\\to$ focus\nVF = S $-$ R\nSo, latus rectum = 4(S $-$ R)",
-      "solution_image_url": ""
+      "solution_text": "$\\textbf{Step 1: Identify the coordinates of the vertex and focus.}$\n\n\n\nGiven the distances from the origin on the positive $x$-axis:\n \n - The vertex $V$ is located at $(R, 0)$.\n - The focus $F$ is located at $(S, 0)$.\n\n$\\textbf{Step 2: Determine the focal distance (a).}$\n\nThe focal distance $a$ is the distance between the vertex and the focus. Since the parabola opens along the $x$-axis and $S > R$:\n$$a = SF = S - R$$\n\n$\\textbf{Step 3: Calculate the length of the latus rectum.}$\n\nThe length of the latus rectum for a standard parabola is defined as $4a$. Substituting the value of $a$ obtained in Step 2:\n \n - $\\text{Length of latus rectum} = 4(S - R)$\n\nTherefore, the correct option is $\\mathbf{C}$.",
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1oP-rbthroJPEfzVBfEQSXiwh3OemV5ce=w1109"
     },
     {
       "uuid": "f390c2af8e29",
@@ -321,7 +321,7 @@
     {
       "uuid": "c8f6f7c2-0f7b-4ba8-ad12-e195e07fed75",
       "solution_text": "$\\textbf{Step 1: Using Latus Rectum Condition}$\n\nFor an ellipse with semi-major axis $p$ and semi-minor axis $q$:\n\n$$\\text{Latus rectum} = \\frac{2q^2}{p} = \\frac{1}{2}$$\n\n$$q^2 = \\frac{p}{4} \\quad \\ldots (1)$$\n\n$\\textbf{Step 2: Using Angle Condition}$\n\nThe minor axis subtends $60^\\circ$ at each focus, so the half-angle is $30^\\circ$.\n\nEccentricity: $e = \\sqrt{1 - \\frac{q^2}{p^2}}$, focal distance: $pe$\n\n$$\\tan 30^\\circ = \\frac{q}{pe}$$\n\n$$\\frac{1}{\\sqrt{3}} = \\frac{q}{p\\sqrt{1 - \\frac{q^2}{p^2}}} = \\frac{q}{\\sqrt{p^2 - q^2}}$$\n\n$$p^2 - q^2 = 3q^2 \\implies p^2 = 4q^2 \\quad \\ldots (2)$$\n\n$\\textbf{Step 3: Solving for p and q}$\n\nFrom equations (1) and (2):\n\n$$q^2 = \\frac{p}{4} \\text{ and } p^2 = 4q^2$$\n\n$$p^2 = 4 \\cdot \\frac{p}{4} = p \\implies p(p-1) = 0$$\n\n$$p = 1, \\quad q^2 = \\frac{1}{4} \\implies q = \\frac{1}{2}$$\n\n$\\textbf{Step 4: Computing Sum of Axes}$\n\nMajor axis: $2p = 2$, Minor axis: $2q = 1$\n\n$$(2p + 2q)^2 = (2 + 1)^2 = 9$$\n\n$\\textbf{Conclusion:}$ The answer is $\\textbf{9}$.",
-      "solution_image_url": ""
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1uefBey9HJ6x62UzQQmuZm9pRwmVpl-ha=w1178"
     },
     {
       "uuid": "ca529441-3683-422e-beac-f9e8a875ccb6",
