@@ -1,6 +1,6 @@
 {
   "testCode": "IPFT-2-06",
-  "backupTimestamp": "2026-02-09T14:17:09.635Z",
+  "backupTimestamp": "2026-02-09T22:05:08.628Z",
   "status": "completed",
   "completionPercentage": 100,
   "currentStep": "test-review",
@@ -1070,7 +1070,7 @@
         },
         {
           "uuid": "7c1ccc15aff8",
-          "question": "Let $PS$ be the median of the triangle with vertices $P(2, 2)$, $Q(6, -1)$ and $R(7, 3)$. The equation of the line passing through $(1, -1)$ band parallel to PS is :",
+          "question": "Let $PS$ be the median of the triangle with vertices $P(2, 2)$, $Q(6, -1)$ and $R(7, 3)$. The equation of the line passing through $(1, -1)$ and parallel to $PS$ is:",
           "question_image_url": "",
           "option_a": "$4x + 7y + 3 = 0$",
           "option_a_image_url": "",
@@ -1083,21 +1083,21 @@
           "answer": "D",
           "division": 1,
           "status": "pending",
-          "chapter": "STL",
+          "chapter": "Coordinate Geometry",
           "topic": "JEE Main 2014 (Offline)",
           "examSource": "JEE"
         },
         {
           "uuid": "cd39c32c8a13",
-          "question": "The line 2x $-$ y + 1 = 0 is a tangent to the circle at the point (2, 5) and the centre of the circle lies on x $-$ 2y = 4. Then, the radius of the circle is :",
+          "question": "The line $2x - y + 1 = 0$ is a tangent to the circle at the point $(2, 5)$ and the centre of the circle lies on $x - 2y = 4$. Then, the radius of the circle is:",
           "question_image_url": "",
-          "option_a": "5$\\sqrt 3 $",
+          "option_a": "$5\\sqrt{3}$",
           "option_a_image_url": "",
-          "option_b": "4$\\sqrt 5 $",
+          "option_b": "$4\\sqrt{5}$",
           "option_b_image_url": "",
-          "option_c": "3$\\sqrt 5 $",
+          "option_c": "$3\\sqrt{5}$",
           "option_c_image_url": "",
-          "option_d": "5$\\sqrt 4 $",
+          "option_d": "$5\\sqrt{4}$",
           "option_d_image_url": "",
           "answer": "C",
           "division": 1,
@@ -1108,15 +1108,15 @@
         },
         {
           "uuid": "ed585ec5b5a3",
-          "question": "The length of the latus rectum of a parabola, whose vertex and focus are on the positive x-axis at a distance R and S (> R) respectively from the origin, is :",
+          "question": "The length of the latus rectum of a parabola, whose vertex and focus are on the positive $x$-axis at a distance $R$ and $S$ ($S > R$) respectively from the origin, is:",
           "question_image_url": "",
-          "option_a": "4(S + R)",
+          "option_a": "$4(S + R)$",
           "option_a_image_url": "",
-          "option_b": "2(S $-$ R)",
+          "option_b": "$2(S - R)$",
           "option_b_image_url": "",
-          "option_c": "4(S $-$ R)",
+          "option_c": "$4(S - R)$",
           "option_c_image_url": "",
-          "option_d": "2(S + R)",
+          "option_d": "$2(S + R)$",
           "option_d_image_url": "",
           "answer": "C",
           "division": 1,
@@ -1382,9 +1382,10 @@
           "option_d_image_url": null,
           "answer": "9",
           "division": 2,
-          "status": "pending",
+          "status": "accepted",
           "chapter": "ELL1",
-          "topic": "JEE Main 2023 (Online) 15th April Morning Shift"
+          "topic": "JEE Main 2023 (Online) 15th April Morning Shift",
+          "examSource": "IPQ"
         },
         {
           "uuid": "6297ada7-4a2a-46fd-b0cb-9695e7af1dc0",
@@ -1429,6 +1430,6 @@
     "testType": "Full",
     "description": "Full Syllabus Test 6",
     "createdAt": "2026-01-13T17:52:24.130Z",
-    "lastModified": "2026-02-09T14:17:09.635Z"
+    "lastModified": "2026-02-09T22:05:08.629Z"
   }
 }
