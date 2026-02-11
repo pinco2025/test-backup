@@ -1,9 +1,9 @@
 {
   "testCode": "IPFT-2-09",
-  "backupTimestamp": "2026-02-07T14:27:58.148Z",
+  "backupTimestamp": "2026-02-11T21:49:45.097Z",
   "status": "completed",
   "completionPercentage": 100,
-  "currentStep": "test-review",
+  "currentStep": "edit-question",
   "sections": [
     {
       "name": "Physics",
@@ -742,7 +742,7 @@
         },
         {
           "uuid": "db210ada431f",
-          "question": "In the given reaction\n3-Bromo-2, 2-dimethyl butane $$\\buildrel {{C_2}{H_5}OH} \\over\n\\longrightarrow \\mathop {'A'}\\limits_{(Major\\,\\Pr oduct)} $$\nProduct A is :",
+          "question": "In the given reaction:\n$$\\text{3-Bromo-2, 2-dimethyl butane} \\xrightarrow{\\text{C}_2\\text{H}_5\\text{OH}} \\underset{(\\text{Major Product})}{\\text{'A'}}$$\nProduct $\\text{A}$ is:",
           "question_image_url": "",
           "option_a": "2-Ethoxy-3, 3-dimethyl butane",
           "option_a_image_url": "",
@@ -761,15 +761,15 @@
         },
         {
           "uuid": "9e23fa5c4912",
-          "question": "In the following sequence of reactions\nthe end product (C) is",
+          "question": "In the following sequence of reactions:\n$$\\text{CH}_3\\text{Br} \\xrightarrow{\\text{KCN}} A \\xrightarrow{\\text{H}_3\\text{O}^+} B \\xrightarrow[\\text{ether}]{\\text{LiAlH}_4} C$$\nThe end product $(C)$ is:",
           "question_image_url": "",
-          "option_a": "acetone",
+          "option_a": "Acetone",
           "option_a_image_url": "",
-          "option_b": "methane",
+          "option_b": "Methane",
           "option_b_image_url": "",
-          "option_c": "acetaldehyde",
+          "option_c": "Acetaldehyde",
           "option_c_image_url": "",
-          "option_d": "ethyl alcohol",
+          "option_d": "Ethyl alcohol",
           "option_d_image_url": "",
           "answer": "D",
           "division": 1,
@@ -1428,6 +1428,6 @@
     "testType": "Full",
     "description": "Full Syllabus Test 9",
     "createdAt": "2026-01-13T17:52:24.130Z",
-    "lastModified": "2026-02-07T14:27:58.148Z"
+    "lastModified": "2026-02-11T21:49:45.097Z"
   }
 }
