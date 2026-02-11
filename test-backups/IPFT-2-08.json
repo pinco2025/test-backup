@@ -1,9 +1,9 @@
 {
   "testCode": "IPFT-2-08",
-  "backupTimestamp": "2026-02-09T22:05:18.174Z",
+  "backupTimestamp": "2026-02-11T21:49:42.512Z",
   "status": "completed",
   "completionPercentage": 100,
-  "currentStep": "edit-question",
+  "currentStep": "test-review",
   "sections": [
     {
       "name": "Physics",
@@ -794,8 +794,8 @@
         },
         {
           "uuid": "daf801a70cc5",
-          "question": "The correct order of stability for the following alkoxides is :",
-          "question_image_url": "",
+          "question": "The correct order of stability for the following alkoxides is:",
+          "question_image_url": "https://lh3.googleusercontent.com/d/1_4PySIEc-_W1D-Sbq5wx01oRJj6E1QeZ=w1147",
           "option_a": "(C) > (B) > (A)",
           "option_a_image_url": "",
           "option_b": "(C) > (A) > (B)",
@@ -813,7 +813,7 @@
         },
         {
           "uuid": "89dd7ff393dc",
-          "question": "Given below are two statements\nStatement I : Primary aliphatic amines react with HNO$_{2}$ to give unstable diazonium salts.\nStatement II : Primary aromatic amines react with HNO$_{2}$ to form diazonium salts which are stable even above 300 K.\nIn the light of the above statements, choose the most appropriate answer from the options given below.",
+          "question": "Given below are two statements:\n$\\pmb{\\text{Statement I :}}$ Primary aliphatic amines react with $\\text{HNO}_{2}$ to give unstable diazonium salts.\n$\\pmb{\\text{Statement II :}}$ Primary aromatic amines react with $\\text{HNO}_{2}$ to form diazonium salts which are stable even above $300\\text{ K}$.\nIn the light of the above statements, choose the most appropriate answer from the options given below.",
           "question_image_url": "",
           "option_a": "Both Statement I and Statement II are correct.",
           "option_a_image_url": "",
@@ -825,7 +825,7 @@
           "option_d_image_url": "",
           "answer": "C",
           "division": 1,
-          "status": "pending",
+          "status": "accepted",
           "chapter": "AMN",
           "topic": "NEET 2022 Phase 1",
           "examSource": "NEET"
@@ -1285,38 +1285,38 @@
         },
         {
           "uuid": "0dbb63cec188",
-          "question": "Let y = y(x) be the solution of the differential equation ${{dy} \\over {dx}} = 1 + x{e^{y - x}}, - \\sqrt 2 < x < \\sqrt 2 ,y(0) = 0$\nthen, the minimum value of $y(x),x \\in \\left( { - \\sqrt 2 ,\\sqrt 2 } \\right)$ is equal to :",
+          "question": "Let $y = y(x)$ be the solution of the differential equation $\\frac{dy}{dx} = 1 + x e^{y - x}$, where $-\\sqrt{2} < x < \\sqrt{2}$ and $y(0) = 0$. Then, the minimum value of $y(x)$ for $x \\in (-\\sqrt{2}, \\sqrt{2})$ is equal to:",
           "question_image_url": "",
-          "option_a": "$\\left( {2 - \\sqrt 3 } \\right) - {\\log _e}2$",
+          "option_a": "$\\left( 2 - \\sqrt{3} \\right) - \\log_{e} 2$",
           "option_a_image_url": "",
-          "option_b": "$\\left( {2 + \\sqrt 3 } \\right) + {\\log _e}2$",
+          "option_b": "$\\left( 2 + \\sqrt{3} \\right) + \\log_{e} 2$",
           "option_b_image_url": "",
-          "option_c": "$\\left( {1 + \\sqrt 3 } \\right) - {\\log _e}\\left( {\\sqrt 3 - 1} \\right)$",
+          "option_c": "$\\left( 1 + \\sqrt{3} \\right) - \\log_{e} \\left( \\sqrt{3} - 1 \\right)$",
           "option_c_image_url": "",
-          "option_d": "$\\left( {1 - \\sqrt 3 } \\right) - {\\log _e}\\left( {\\sqrt 3 - 1} \\right)$",
+          "option_d": "$\\left( 1 - \\sqrt{3} \\right) - \\log_{e} \\left( \\sqrt{3} - 1 \\right)$",
           "option_d_image_url": "",
           "answer": "D",
           "division": 1,
-          "status": "pending",
+          "status": "accepted",
           "chapter": "DFE",
           "topic": "JEE Main 2021 (Online) 25th July Morning Shift",
           "examSource": "JEE"
         },
         {
           "uuid": "358a47176e1b",
-          "question": "Angle between the diagonals of a cube is",
+          "question": "The angle between the diagonals of a cube is:",
           "question_image_url": "",
-          "option_a": "$$\\pi$$ / 3",
+          "option_a": "$\\frac{\\pi}{3}$",
           "option_a_image_url": "",
-          "option_b": "$$\\pi$$ / 2",
+          "option_b": "$\\frac{\\pi}{2}$",
           "option_b_image_url": "",
-          "option_c": "cos^{$$-$$1}(1/3)",
+          "option_c": "$\\cos^{-1}\\left(\\frac{1}{3}\\right)$",
           "option_c_image_url": "",
-          "option_d": "cos^{$$-$$1}(1/$$\\sqrt3$$)",
+          "option_d": "$\\cos^{-1}\\left(\\frac{1}{\\sqrt{3}}\\right)$",
           "option_d_image_url": "",
           "answer": "C",
           "division": 1,
-          "status": "pending",
+          "status": "accepted",
           "chapter": "TDG",
           "topic": "BITSAT 2021",
           "examSource": "BITS"
@@ -1426,6 +1426,6 @@
     "testType": "Full",
     "description": "Full Syllabus Test 8",
     "createdAt": "2026-01-13T17:52:24.130Z",
-    "lastModified": "2026-02-09T22:05:18.174Z"
+    "lastModified": "2026-02-11T21:49:42.512Z"
   }
 }
