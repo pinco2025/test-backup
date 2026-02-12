@@ -1,6 +1,6 @@
 {
   "testCode": "IPFT-2-09",
-  "backupTimestamp": "2026-02-11T21:49:45.097Z",
+  "backupTimestamp": "2026-02-12T08:35:22.646Z",
   "status": "completed",
   "completionPercentage": 100,
   "currentStep": "edit-question",
@@ -799,15 +799,15 @@
         {
           "uuid": "a7db10fe2edb",
           "question": "Consider the given reaction, the product 'X' is :",
-          "question_image_url": "",
+          "question_image_url": "https://lh3.googleusercontent.com/d/1EYPBCacF1OMxwMFRj1LeyEbM7UdM_4j5=w1200",
           "option_a": "",
-          "option_a_image_url": "",
+          "option_a_image_url": "https://lh3.googleusercontent.com/d/1rcn76t-oa8RI_TltwmFn34Mou5zHxQmp=w1088",
           "option_b": "",
-          "option_b_image_url": "",
+          "option_b_image_url": "https://lh3.googleusercontent.com/d/1ZzhNpjd-L6U53IbUj4hlwDrHiNNYzBz5=w1117",
           "option_c": "",
-          "option_c_image_url": "",
+          "option_c_image_url": "https://lh3.googleusercontent.com/d/1vzB9bdB_nwt75it3BMvfQnMSfFfIf8CD=w300",
           "option_d": "",
-          "option_d_image_url": "",
+          "option_d_image_url": "https://lh3.googleusercontent.com/d/1BCmtv2WNYljMNYK7YSNHZgN9LGgiUKDS=w1008",
           "answer": "D",
           "division": 1,
           "status": "pending",
@@ -816,23 +816,23 @@
           "examSource": "JEE"
         },
         {
-          "uuid": "5d715db0bd43",
-          "question": "Given below are two statements:\nStatement I : Aniline does not undergo Friedel-Crafts alkylation reaction.\nStatement II : Aniline cannot be prepared through Gabriel synthesis.\nIn the light of the above statements, choose the correct answer from the options given below:",
-          "question_image_url": "",
-          "option_a": "Both statement I and Statement II are true",
+          "uuid": "d82073e8a76f",
+          "question": "For reaction\nThe correct order of set of reagents for the above conversion is :",
+          "question_image_url": "https://lh3.googleusercontent.com/d/1Ouu6KFNhb6udoJ6MWEEvHDM29-birRgt=w1200",
+          "option_a": "$\\mathrm{Ac}_2 \\mathrm{O}, \\mathrm{Br}_2, \\mathrm{H}_2 \\mathrm{O}(\\Delta), \\mathrm{NaOH}$",
           "option_a_image_url": "",
-          "option_b": "Both Statement I and Statement II are false",
+          "option_b": "$\\mathrm{H}_2 \\mathrm{SO}_4, \\mathrm{Ac}_2 \\mathrm{O}, \\mathrm{Br}_2, \\mathrm{H}_2 \\mathrm{O}(\\Delta), \\mathrm{NaOH}$",
           "option_b_image_url": "",
-          "option_c": "Statement I is correct but Statement II is false",
+          "option_c": "$\\mathrm{Br}_2 \\mid \\mathrm{FeBr}_3, \\mathrm{H}_2 \\mathrm{O}(\\Delta), \\mathrm{NaOH}$",
           "option_c_image_url": "",
-          "option_d": "Statement I is incorrect but Statement II is true",
+          "option_d": "$\\mathrm{Ac}_2 \\mathrm{O}, \\mathrm{H}_2 \\mathrm{SO}_4, \\mathrm{Br}_2, \\mathrm{NaOH}$",
           "option_d_image_url": "",
-          "answer": "A",
+          "answer": "B",
           "division": 1,
           "status": "pending",
           "chapter": "AMN",
-          "topic": "NEET 2024",
-          "examSource": "NEET"
+          "topic": "JEE Main 2025 (Online) 24th January Evening Shift",
+          "examSource": "JEE"
         },
         {
           "uuid": "5950931d-5dee-4cd8-af97-5bec40e278cb",
@@ -1069,7 +1069,7 @@
         },
         {
           "uuid": "43f7ad077cf0",
-          "question": "The portion of the line $4 x+5 y=20$ in the first quadrant is trisected by the lines $\\mathrm{L}_1$ and $\\mathrm{L}_2$ passing through the origin. The tangent of an angle between the lines $\\mathrm{L}_1$ and $\\mathrm{L}_2$ is :",
+          "question": "The portion of the line $4x + 5y = 20$ in the first quadrant is trisected by the lines $L_1$ and $L_2$ passing through the origin. The tangent of an angle between the lines $L_1$ and $L_2$ is:",
           "question_image_url": "",
           "option_a": "$\\frac{30}{41}$",
           "option_a_image_url": "",
@@ -1088,7 +1088,7 @@
         },
         {
           "uuid": "d7df8dac6307",
-          "question": "A circle touches the x-axis and also touches the circle with centre at (0, 3) and radius 2. The locus of the centre of the circle is :",
+          "question": "A circle touches the $x$-axis and also touches the circle with centre at $(0, 3)$ and radius $2$. The locus of the centre of the circle is:",
           "question_image_url": "",
           "option_a": "an ellipse",
           "option_a_image_url": "",
@@ -1107,7 +1107,7 @@
         },
         {
           "uuid": "19cd0ff4e3ce",
-          "question": "The axis of a parabola is the line $y=x$ and its vertex and focus are in the first quadrant at distances $\\sqrt{2}$ and $2 \\sqrt{2}$ units from the origin, respectively. If the point $(1, k)$ lies on the parabola, then a possible value of k is :",
+          "question": "The axis of a parabola is the line $y=x$ and its vertex and focus are in the first quadrant at distances $\\sqrt{2}$ and $2 \\sqrt{2}$ units from the origin, respectively. If the point $(1, k)$ lies on the parabola, then a possible value of $k$ is:",
           "question_image_url": "",
           "option_a": "8",
           "option_a_image_url": "",
@@ -1428,6 +1428,6 @@
     "testType": "Full",
     "description": "Full Syllabus Test 9",
     "createdAt": "2026-01-13T17:52:24.130Z",
-    "lastModified": "2026-02-11T21:49:45.097Z"
+    "lastModified": "2026-02-12T08:35:22.646Z"
   }
 }
