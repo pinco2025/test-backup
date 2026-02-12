@@ -1,12 +1,12 @@
 {
   "testId": "IPFT-2-10",
   "testCode": "IPFT-2-10",
-  "backupTimestamp": "2026-02-07T17:36:25.002Z",
+  "backupTimestamp": "2026-02-12T11:53:48.569Z",
   "solutions": [
     {
       "uuid": "088b11c74070",
       "solution_text": "$\\pmb{\\text{Step 1: Calculate the Initial Gravitational Force (} F_1 \\pmb{)}}$\nAccording to Newton's Law of Universal Gravitation, the force exerted by a solid sphere on an external point mass is calculated as if the entire mass $M$ is concentrated at its centre $O$. Given the distance is $2R$:\n$$F_1 = \\frac{GMm}{(2R)^2} = \\frac{GMm}{4R^2}$$\n\n$\\pmb{\\text{Step 2: Determine the Mass of the Removed Section}}$\nThe mass of a uniform sphere is proportional to its volume ($V \\propto R^3$). Let $M'$ be the mass of the removed sphere of radius $R/3$:\n$$M' = M \\left( \\frac{R/3}{R} \\right)^3 = \\frac{M}{27}$$\n\n\n\n$\\pmb{\\text{Step 3: Determine the Distance for the Removed Section}}$\nAs shown in the provided figure, the cavity is centered on the line connecting $O$ and $m$, tangential to the outer surface on the side of the mass $m$. The centre of the removed part is at a distance of $R - R/3 = 2R/3$ from the centre $O$. The distance $r'$ from the point mass $m$ to the centre of the cavity is:\n$$r' = 2R - \\frac{2R}{3} = \\frac{4R}{3}$$\n\n$\\pmb{\\text{Step 4: Calculate the Resultant Force (} F_2 \\pmb{)}}$\nThe force due to the remaining part is the force of the original sphere minus the force that would have been exerted by the removed part:\n$$F_2 = F_1 - F_{\\text{removed}} = \\frac{GMm}{4R^2} - \\frac{G(M/27)m}{(4R/3)^2}$$\n$$F_2 = \\frac{GMm}{4R^2} - \\frac{GMm}{27 \\cdot (16R^2/9)} = \\frac{GMm}{4R^2} - \\frac{GMm}{48R^2}$$\nFactoring out $F_1$:\n$$F_2 = \\frac{GMm}{4R^2} \\left[ 1 - \\frac{1}{12} \\right] = F_1 \\left( \\frac{11}{12} \\right)$$\n\n$\\pmb{\\text{Step 5: Calculate the Ratio}}$\n$$\\frac{F_1}{F_2} = \\frac{F_1}{F_1(11/12)} = \\frac{12}{11}$$\n\n$\\pmb{\\text{Conclusion:}}$\nThe ratio of the forces is $12:11$, which aligns with the provided answer $\\pmb{\\text{Option B}}$.\n\nTherefore, the correct answer is $\\pmb{\\boxed{B}}$.",
-      "solution_image_url": ""
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1OzrRoXwOhAlDE6Ly8QM8wg3vtfbVR954=w1186"
     },
     {
       "uuid": "536603fceaad",
@@ -16,12 +16,12 @@
     {
       "uuid": "537bc607c2f5",
       "solution_text": "$\\pmb{\\text{Step 1: Determine the Increase in Pressure}}$\nWhen a mass $m$ is placed on the piston of area $a$, it exerts a downward force equal to its weight, $mg$. The extra pressure $\\Delta P$ transmitted throughout the liquid (according to Pascal's Law) is:\n$$\\Delta P = \\frac{F}{A} = \\frac{mg}{a}$$\n\n\n\n$\\pmb{\\text{Step 2: Relate Pressure to Bulk Modulus}}$\nThe Bulk modulus $K$ is defined as the ratio of the hydraulic stress (pressure change) to the corresponding volumetric strain:\n$$K = \\frac{\\Delta P}{\\frac{\\Delta V}{V}}$$\nRearranging for volumetric strain:\n$$\\frac{\\Delta V}{V} = \\frac{\\Delta P}{K}$$\n\n$\\pmb{\\text{Step 3: Relate Volumetric Strain to Fractional Change in Radius}}$\nThe volume of a solid sphere is given by:\n$$V = \\frac{4}{3}\\pi r^3$$\nTaking the natural logarithm and differentiating both sides (or using the error approximation method for small changes):\n$$\\ln V = \\ln\\left(\\frac{4}{3}\\pi\\right) + 3\\ln r$$\n$$\\frac{dV}{V} = 3\\frac{dr}{r}$$\n\n$\\pmb{\\text{Step 4: Solve for } \\frac{dr}{r}}$\nSubstitute the results from Step 1 and Step 3 into the Bulk modulus equation:\n$$3\\frac{dr}{r} = \\frac{\\left(\\frac{mg}{a}\\right)}{K}$$\n$$3\\frac{dr}{r} = \\frac{mg}{Ka}$$\n$$\\frac{dr}{r} = \\frac{mg}{3Ka}$$\n\n$\\pmb{\\text{Conclusion:}}$\nThe fractional decrement in the radius of the sphere is $\\frac{mg}{3Ka}$, which matches $\\pmb{\\text{Option D}}$.\n\nTherefore, the correct answer is $\\pmb{\\boxed{D}}$.",
-      "solution_image_url": ""
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1i1Ma8BFZ-4KmKNDxHuBRkgkEEA1Gr9KX=w1098"
     },
     {
       "uuid": "65b431d25bdf",
       "solution_text": "$\\pmb{\\text{Step 1: Write the expression for the Electric Field}}$\nThe electric field $E$ at a point $P$ on the axis of a uniformly charged ring of radius $R$ at a distance $h$ from the center is given by:\n$$E = \\frac{1}{4\\pi\\epsilon_0} \\frac{Qh}{(R^2 + h^2)^{3/2}}$$\nwhere $Q$ is the total charge on the ring.\n\n\n\n$\\pmb{\\text{Step 2: Condition for Maximum Electric Field}}$\nTo find the distance $h$ where the magnitude of the electric field is maximum, we differentiate $E$ with respect to $h$ and set the derivative to zero:\n$$\\frac{dE}{dh} = 0$$\nUsing the quotient rule on $E = kQ \\cdot \\frac{h}{(R^2 + h^2)^{3/2}}$:\n$$\\frac{dE}{dh} = kQ \\left[ \\frac{(R^2 + h^2)^{3/2} \\cdot (1) - h \\cdot \\frac{3}{2}(R^2 + h^2)^{1/2} \\cdot (2h)}{(R^2 + h^2)^3} \\right] = 0$$\n\n$\\pmb{\\text{Step 3: Solve for h}}$\nSetting the numerator to zero:\n$$(R^2 + h^2)^{3/2} - 3h^2(R^2 + h^2)^{1/2} = 0$$\nDivide throughout by $(R^2 + h^2)^{1/2}$:\n$$(R^2 + h^2) - 3h^2 = 0$$\n$$R^2 = 2h^2$$\n$$h^2 = \\frac{R^2}{2} \\implies h = \\frac{R}{\\sqrt{2}}$$\n\n$\\pmb{\\text{Conclusion:}}$\nThe electric field magnitude is maximum at a distance of $h = \\frac{R}{\\sqrt{2}}$ from the center of the ring. This matches $\\pmb{\\text{Option B}}$.\n\nTherefore, the correct answer is $\\pmb{\\boxed{B}}$.",
-      "solution_image_url": ""
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1s3WwlZmda8ae4_oBkLfj4o-HsM0sRLuk=w1054"
     },
     {
       "uuid": "85a1f2091b8e",
@@ -31,11 +31,16 @@
     {
       "uuid": "9f890c306f08",
       "solution_text": "$\\pmb{\\text{Step 1: Convert Units and Determine Horizontal Velocity}}$\nThe horizontal speed of the helicopter is $v = 360 \\text{ km/h}$. Converting this to SI units:\n$$u_x = 360 \\times \\frac{5}{18} = 100 \\text{ m/s}$$\n\n$\\pmb{\\text{Step 2: Calculate Horizontal Displacement (x)}}$\nThe horizontal distance $x$ traveled by the object in time $t = 20 \\text{ s}$ is:\n$$x = u_x \\times t = 100 \\times 20 = 2000 \\text{ m} = 2 \\text{ km}$$\n\n$\\pmb{\\text{Step 3: Verify Vertical Displacement (H)}}$\nThe vertical height $H$ from which the object is dropped is given as $2 \\text{ km}$. We can verify this using the time of flight formula:\n$$H = \\frac{1}{2}gt^2 = \\frac{1}{2} \\times 10 \\times (20)^2 = 5 \\times 400 = 2000 \\text{ m} = 2 \\text{ km}$$\n\n\n\n$\\pmb{\\text{Step 4: Calculate Total Displacement (D)}}$\nThe displacement $D$ is the straight-line distance from the release point to point $O$. This is the hypotenuse of the triangle formed by $x$ and $H$:\n$$D = \\sqrt{x^2 + H^2}$$\n$$D = \\sqrt{2^2 + 2^2} = \\sqrt{4 + 4} = \\sqrt{8}$$\n$$D = 2\\sqrt{2} \\text{ km}$$\n\n$\\pmb{\\text{Conclusion:}}$\nThe net displacement of the object from the point of release to the point of impact $O$ is $2\\sqrt{2} \\text{ km}$.\n\nTherefore, the correct answer is $\\pmb{\\boxed{C}}$.",
-      "solution_image_url": ""
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1DruldhCW9SkiP5Lwcy6ScxD5lakV5_SJ=w1067"
     },
     {
       "uuid": "b2378a7647ff",
       "solution_text": "Given, position of A = (1, 1)\nPosition of B = (2, 2)\nPosition of C = (4, 4)\nLet x-intercept be a and y-intercept be b.\nEquation of line traced is\n${x \\over a} + {y \\over b} = 1$\nThis is the equation of path, let a point (h, k) lie on this path.\nThen, ${h \\over a} + {k \\over b} = 1$\nAlso, AM of reciprocal of a and b = ${1 \\over 4}$\n$\\therefore$ ${{{1 \\over a} + {1 \\over b}} \\over 2} = {1 \\over 4}$\n${1 \\over a} + {1 \\over b} = {1 \\over 2}$\nOn comparing Eqs. (i) and (ii), we get (h, k) = (2, 2)\nHence, the required stone is B(2, 2).",
+      "solution_image_url": ""
+    },
+    {
+      "uuid": "bd5a1824e60f",
+      "solution_text": "$\\pmb{\\text{Step 1: Identify the reaction sequence}}$\n\nThe reaction of a bromoalkane ($R\\text{-Br}$) with $\\text{Mg}$ in dry ether forms a Grignard reagent ($R\\text{MgBr}$):\n$$\\text{R-Br (X)} + \\text{Mg} \\xrightarrow{\\text{dry ether}} \\text{R-MgBr (Y)}$$\n\nReaction of Grignard reagent with methanal (formaldehyde, $\\text{HCHO}$) followed by hydrolysis yields a primary alcohol:\n$$\\text{R-MgBr} + \\text{HCHO} \\xrightarrow[(ii) \\text{H}_3\\text{O}^+]{(i) \\text{ether}} \\text{R-CH}_2\\text{OH}$$\n\n\n\n$\\pmb{\\text{Step 2: Determine the carbon count}}$\n\nThe molecular formula of the product alcohol is $C_4H_{10}O$ (4 carbons). Since methanal provides 1 carbon atom, the $R$ group in the bromoalkane must provide:\n$$4 - 1 = 3 \\text{ carbon atoms}$$\n\n$\\pmb{\\text{Step 3: Evaluate the options}}$\n\nAmong the given bromoalkanes, those with 3 carbon atoms are:\n\n  III. 1-Bromopropane (Propyl bromide): $\\text{CH}_3\\text{CH}_2\\text{CH}_2\\text{Br}$\n\n  IV. 2-Bromopropane (Isopropyl bromide): $\\text{CH}_3\\text{CH(Br)CH}_3$\n\nBoth compounds 'III' and 'IV' will react to form alcohols with the formula $C_4H_{10}O$ (Butan-1-ol and 2-Methylpropan-1-ol respectively).\n\nTherefore, the correct answer is $\\boxed{\\text{III, IV}}$.",
       "solution_image_url": ""
     },
     {
@@ -46,7 +51,7 @@
     {
       "uuid": "c32c4ad6c354",
       "solution_text": "$\\pmb{\\text{Step 1: Understand the Geometric Relationships}}$\nAccording to the laws of reflection, the angle of incidence $i$ is equal to the angle of reflection $r$ ($i = r$). From the geometry of the problem, where the reflected and refracted rays are perpendicular:\n$$r + 90^\\circ + r' = 180^\\circ$$\n$$r' = 90^\\circ - r$$\n\n\n\n$\\pmb{\\text{Step 2: Apply Snell's Law}}$\nLet the refractive index of the denser medium be $n$ and the rarer medium be $1$ (vacuum/air). Applying Snell's Law at the interface:\n$$n \\sin i = 1 \\sin r'$$\nSubstituting $i = r$ and $r' = 90^\\circ - r$:\n$$n \\sin r = \\sin(90^\\circ - r)$$\n$$n \\sin r = \\cos r$$\n$$n = \\frac{\\cos r}{\\sin r} = \\cot r \\implies \\frac{1}{n} = \\tan r$$\n\n$\\pmb{\\text{Step 3: Determine the Critical Angle (}\\theta_c\\pmb{)}}$\nThe critical angle $\\theta_c$ for a light ray traveling from a denser medium to a rarer medium is defined as:\n$$\\sin \\theta_c = \\frac{1}{n}$$\nSubstituting the value of $\\frac{1}{n}$ found in Step 2:\n$$\\sin \\theta_c = \\tan r$$\n$$\\theta_c = \\sin^{-1}(\\tan r)$$\n\n$\\pmb{\\text{Conclusion:}}$\nThe critical angle of the medium in terms of the angle of reflection is $\\sin^{-1}(\\tan r)$. This corresponds to $\\pmb{\\text{Option A}}$.\n\nTherefore, the correct answer is $\\pmb{\\boxed{A}}$.",
-      "solution_image_url": ""
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1mQrcQcZltHR0LTuezCtv9DljkhX_ToAU=w1098"
     },
     {
       "uuid": "c372df3e7574",
@@ -66,7 +71,7 @@
     {
       "uuid": "edfbdbb45761",
       "solution_text": "$\\pmb{\\text{Step 1: Assign Variables and Coordinates}}$\nLet the length of segment $AB$ be $x$ and $BC$ be $y$. Let $\\lambda$ be the linear mass density of the uniform wire. We place point $B$ at the origin $(0,0)$. Segment $BC$ lies along the positive $x$-axis, and segment $AB$ makes an angle of $60^\\circ$ with the $x$-axis.\n\n\n\n$\\pmb{\\text{Step 2: Find Coordinates of Individual Centres of Mass}}$\n$\\bullet$ For segment $AB$ (mass $m_1 = \\lambda x$): The centre of mass is at its midpoint, so $x_1 = \\frac{x}{2}\\cos 60^\\circ = \\frac{x}{4}$.\n$\\bullet$ For segment $BC$ (mass $m_2 = \\lambda y$): The centre of mass is at its midpoint, so $x_2 = \\frac{y}{2}$.\n\n$\\pmb{\\text{Step 3: Relate Centre of Mass to Point A}}$\nThe problem states the centre of mass lies vertically below point $A$. Point $A$ has an $x$-coordinate of $x\\cos 60^\\circ = \\frac{x}{2}$. Therefore, the $x$-coordinate of the centre of mass ($X_{CM}$) must also be $\\frac{x}{2}$.\n$$X_{CM} = \\frac{m_1x_1 + m_2x_2}{m_1 + m_2} = \\frac{x}{2}$$\n\n$\\pmb{\\text{Step 4: Solve the Algebraic Equation}}$\nSubstitute the mass and coordinate values:\n$$\\frac{x}{2} = \\frac{(\\lambda x)(\\frac{x}{4}) + (\\lambda y)(\\frac{y}{2})}{\\lambda(x + y)}$$\n$$\\frac{x}{2} = \\frac{\\frac{x^2}{4} + \\frac{y^2}{2}}{x + y} \\implies x(x + y) = \\frac{x^2}{2} + y^2$$\n$$x^2 + xy = \\frac{x^2}{2} + y^2 \\implies \\frac{x^2}{2} + xy - y^2 = 0$$\nDividing by $y^2$ to find the ratio $k = \\frac{x}{y}$:\n$$\\frac{1}{2}k^2 + k - 1 = 0 \\implies k^2 + 2k - 2 = 0$$\nUsing the quadratic formula for $k$:\n$$k = \\frac{-2 \\pm \\sqrt{4 - 4(1)(-2)}}{2} = \\frac{-2 \\pm \\sqrt{12}}{2} = -1 \\pm \\sqrt{3}$$\nSince the ratio must be positive, $\\frac{x}{y} = \\sqrt{3} - 1$.\n\n$\\pmb{\\text{Step 5: Calculate the Required Ratio } \\frac{y}{x}}$\n$$\\frac{BC}{AB} = \\frac{y}{x} = \\frac{1}{\\sqrt{3} - 1}$$\nRationalizing the denominator:\n$$\\frac{1}{\\sqrt{3} - 1} \\times \\frac{\\sqrt{3} + 1}{\\sqrt{3} + 1} = \\frac{\\sqrt{3} + 1}{2} = \\frac{1.732 + 1}{2} = \\frac{2.732}{2} = 1.366$$\n\n$\\pmb{\\text{Conclusion:}}$\nThe ratio $\\frac{BC}{AB}$ is approximately $1.37$, which corresponds to $\\pmb{\\text{Option B}}$.\n\nTherefore, the correct answer is $\\pmb{\\boxed{B}}$.",
-      "solution_image_url": ""
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1YdFupvKDxP-_oRiofG1OA-a4lL_-sycn=w1161"
     },
     {
       "uuid": "f555a088866b",
@@ -76,7 +81,12 @@
     {
       "uuid": "fe965a402046",
       "solution_text": "$\\pmb{\\text{Step 1: Identify the Direction of Acceleration}}$\nIn uniform circular motion, the magnitude of velocity $v$ is constant, meaning there is no tangential acceleration ($a_t = 0$). The particle experiences only $\\pmb{\\text{centripetal acceleration}}$ ($a_c$), which is always directed radially toward the center of the circle.\n\n$\\pmb{\\text{Step 2: Determine the Magnitude}}$\nThe magnitude of this centripetal acceleration is given by:\n$$a_c = \\frac{v^2}{R} \\quad \\text{or} \\quad a_c = \\omega^2 R$$\n\n$\\pmb{\\text{Step 3: Resolve the Acceleration Vector into Components}}$\nFor a point $P$ at angle $\\theta$ from the positive $x$-axis, the acceleration vector $\\overrightarrow{a}$ points from $(R\\cos\\theta, R\\sin\\theta)$ toward the origin $(0,0)$. This vector makes an angle of $180^\\circ + \\theta$ with the positive $x$-axis, or we can resolve it based on the geometry:\n$\\bullet$ The $\\pmb{\\text{horizontal component}}$ acts in the negative $x$-direction: $a_x = -a_c \\cos\\theta$\n$\\bullet$ The $\\pmb{\\text{vertical component}}$ acts in the negative $y$-direction: $a_y = -a_c \\sin\\theta$\n\n$\\pmb{\\text{Step 4: Vector Notation}}$\nCombining these components using unit vectors $\\hat i$ and $\\hat j$:\n$$\\overrightarrow{a} = a_x \\hat i + a_y \\hat j$$\n$$\\overrightarrow{a} = -\\frac{v^2}{R}\\cos\\theta \\hat i - \\frac{v^2}{R}\\sin\\theta \\hat j$$\n\n$\\pmb{\\text{Conclusion:}}$\nThe acceleration is directed opposite to the position vector $\\overrightarrow{r}$. This result aligns perfectly with $\\pmb{\\text{Option C}}$.\n\nTherefore, the correct answer is $\\pmb{\\boxed{C}}$.",
-      "solution_image_url": ""
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1bkz60QdrTIbjU_n8ZImNM-h4t-FNM6X1=w1142"
+    },
+    {
+      "uuid": "1faed723fded",
+      "solution_text": "",
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1GqJw6mFNpa7H8nGvotxfAfWvDShQfHFA=w1134"
     },
     {
       "uuid": "2694f7436ddc",
