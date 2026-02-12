@@ -1,7 +1,7 @@
 {
   "testId": "IPFT-2-10",
   "testCode": "IPFT-2-10",
-  "backupTimestamp": "2026-02-12T11:53:48.569Z",
+  "backupTimestamp": "2026-02-12T14:47:39.765Z",
   "solutions": [
     {
       "uuid": "088b11c74070",
@@ -10,8 +10,8 @@
     },
     {
       "uuid": "536603fceaad",
-      "solution_text": "y$^{2}$ = 4x\n2yy' = 4\ny ' = ${1 \\over t} = 2,$ $t = {1 \\over 2}$\nArea = ${1 \\over 2}\\left| {\\matrix{\n{{1 \\over 4}} & 1 & 1 \\cr\n9 & 6 & 1 \\cr\n4 & { - 4} & 1 \\cr\n} } \\right| = {{225} \\over 4}$",
-      "solution_image_url": ""
+      "solution_text": "$\\pmb{\\text{Condition for Maximum Area:}}$\nArea of $\\Delta PXQ$ is maximum when the tangent at $X$ is parallel to the chord $PQ$.\n\n\n\n$\\pmb{\\text{Slope of Chord } PQ:}$\n$$m_{PQ} = \\frac{6 - (-4)}{9 - 4} = \\frac{10}{5} = 2$$\n\n$\\pmb{\\text{Coordinates of Point } X:}$\nFor $y^2 = 4x$, the parametric point is $(t^2, 2t)$.\n$$\\frac{dy}{dx} = \\frac{2}{y} = \\frac{2}{2t} = \\frac{1}{t}$$\nSetting $\\frac{1}{t} = 2 \\implies t = \\frac{1}{2}$\n$$X = (t^2, 2t) = \\left(\\frac{1}{4}, 1\\right)$$\n\n$\\pmb{\\text{Maximum Area Calculation:}}$\n$$\\text{Area} = \\frac{1}{2} \\left| \\det \\begin{pmatrix} 1/4 & 1 & 1 \\\\ 9 & 6 & 1 \\\\ 4 & -4 & 1 \\end{pmatrix} \\right|$$\n$$\\text{Area} = \\frac{1}{2} \\left| \\frac{1}{4}(6 + 4) - 1(9 - 4) + 1(-36 - 24) \\right|$$\n$$\\text{Area} = \\frac{1}{2} \\left| \\frac{10}{4} - 5 - 60 \\right| = \\frac{1}{2} \\left| \\frac{5}{2} - 65 \\right|$$\n$$\\text{Area} = \\frac{125}{4}$$\n\n$\\pmb{\\text{Result:}}$\n$$\\text{Maximum Area} = \\boxed{\\frac{125}{4}}$$",
+      "solution_image_url": "https://lh3.googleusercontent.com/d/14A5MzjLb6pV4hN3JnE6F1NAHsx3Yigw0=w1200"
     },
     {
       "uuid": "537bc607c2f5",
@@ -25,8 +25,8 @@
     },
     {
       "uuid": "85a1f2091b8e",
-      "solution_text": "At steady state charge stored on the capacitor,\n${q_{\\max }} = CV$\n$ = 500 \\times {10^{ - 6}} \\times 100$\n$ = 5 \\times {10^{ - 2}}\\,C$\nEnergy stored in the capacitor,\n${U_{\\max }} = {{q_{\\max }^2} \\over {2C}}$\nNow, when electrostatic energy of capacitor converted to magnetic field energy then all energy of capacitor is transferrd to the inductor.\n$\\therefore$ Maximum energy stored in the inductor\n${U_{L\\,\\max }} = {1 \\over 2}L\\,I_{\\max }^2$\n$\\therefore$ ${1 \\over 2}L\\,I_{\\max }^2 = {{q_{\\max }^2} \\over {2C}}$\n$ \\Rightarrow {I_{\\max }} = {{{q_{\\max }}} \\over {\\sqrt {LC} }}$\n$ = {{5 \\times {{10}^{ - 2}}} \\over {\\sqrt {50 \\times {{10}^{ - 3}} \\times 500 \\times {{10}^{ - 6}}} }}$\n$ = {{5 \\times {{10}^{ - 2}}} \\over {5 \\times {{10}^{ - 3}}}}$\n$ = 10\\,A$",
-      "solution_image_url": ""
+      "solution_text": "$\\pmb{\\text{Data Given:}}$\n$C = 500 \\times 10^{-6}\\text{ F}$\n$V = 100\\text{ V}$\n$L = 50 \\times 10^{-3}\\text{ H}$\n\n$\\pmb{\\text{Maximum Charge:}}$\n$$q_{\\max} = CV = 500 \\times 10^{-6} \\times 100 = 5 \\times 10^{-2}\\text{ C}$$\n\n\n\n$\\pmb{\\text{Energy Conservation:}}$\n$$\\frac{1}{2}LI_{\\max}^2 = \\frac{q_{\\max}^2}{2C}$$\n$$I_{\\max} = \\frac{q_{\\max}}{\\sqrt{LC}}$$\n\n$\\pmb{\\text{Calculation:}}$\n$$I_{\\max} = \\frac{5 \\times 10^{-2}}{\\sqrt{50 \\times 10^{-3} \\times 500 \\times 10^{-6}}}$$\n$$I_{\\max} = \\frac{5 \\times 10^{-2}}{\\sqrt{25 \\times 10^{-6}}}$$\n$$I_{\\max} = \\frac{5 \\times 10^{-2}}{5 \\times 10^{-3}}$$\n$$I_{\\max} = 10\\text{ A}$$\n\n$\\pmb{\\text{Result:}}$\n$$\\text{Maximum current} = \\boxed{10}\\text{ A}$$",
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1VW-hAhiu3tnf8XFfhQtccVtyBw2V5ZAV=w1169"
     },
     {
       "uuid": "9f890c306f08",
@@ -35,8 +35,8 @@
     },
     {
       "uuid": "b2378a7647ff",
-      "solution_text": "Given, position of A = (1, 1)\nPosition of B = (2, 2)\nPosition of C = (4, 4)\nLet x-intercept be a and y-intercept be b.\nEquation of line traced is\n${x \\over a} + {y \\over b} = 1$\nThis is the equation of path, let a point (h, k) lie on this path.\nThen, ${h \\over a} + {k \\over b} = 1$\nAlso, AM of reciprocal of a and b = ${1 \\over 4}$\n$\\therefore$ ${{{1 \\over a} + {1 \\over b}} \\over 2} = {1 \\over 4}$\n${1 \\over a} + {1 \\over b} = {1 \\over 2}$\nOn comparing Eqs. (i) and (ii), we get (h, k) = (2, 2)\nHence, the required stone is B(2, 2).",
-      "solution_image_url": ""
+      "solution_text": "$\\pmb{\\text{Equation of the path:}}$\n$$\\frac{x}{a} + \\frac{y}{b} = 1 \\quad \\dots (1)$$\n\n\n\n$\\pmb{\\text{Given Condition:}}$\n$$\\frac{\\frac{1}{a} + \\frac{1}{b}}{2} = \\frac{1}{4}$$\n$$\\frac{1}{a} + \\frac{1}{b} = \\frac{1}{2}$$\n\n$\\pmb{\\text{Rearranging the condition:}}$\n$$\\frac{2}{a} + \\frac{2}{b} = 1 \\quad \\dots (2)$$\n\n$\\pmb{\\text{Comparison:}}$\n$$\\text{Comparing } (1) \\text{ and } (2), \\text{ the line passes through the fixed point } (2, 2).$$\n\n$\\pmb{\\text{Conclusion:}}$\n$$\\text{Stone B is located at } (2, 2).$$\n$$\\text{The stone on the path is } \\boxed{\\text{B only}}.$$",
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1sGP2ST10yc9cskAoSGOAMM0mtUukohLi=w1200"
     },
     {
       "uuid": "bd5a1824e60f",
@@ -110,8 +110,8 @@
     },
     {
       "uuid": "86ca43142532",
-      "solution_text": "Graph of circle whose centre is origin and radius is $$\\pi$$ units and y = sin x is\nArea of shaded region = $${1 \\over 2}$$ Area of circle\n= $${1 \\over 2}$$($$\\pi$$r^{2}) = $${1 \\over 2}$$$$\\pi$$($$\\pi$$^{2}) [$$\\because$$ r = $$\\pi$$]\n= $${{{\\pi ^3}} \\over 2}$$",
-      "solution_image_url": ""
+      "solution_text": "$\\pmb{\\text{Analysis of Symmetry:}}$\nThe equation of the circle is $x^2 + y^2 = \\pi^2$. This curve is symmetric about the origin. \nThe curve $y = \\sin x$ is an odd function, meaning it is also symmetric about the origin.\n\n\n\n$\\pmb{\\text{Area Evaluation:}}$\nSince both the circle and the sine curve are symmetric with respect to the origin, the sine curve $y = \\sin x$ bisects the total area of the circle over the interval $[-\\pi, \\pi]$.\n\nTotal area of the circle $A = \\pi r^2$\nGiven $r = \\pi$:\n$$A = \\pi (\\pi)^2 = \\pi^3$$\n\n$\\pmb{\\text{Calculation:}}$\nThe area of the upper part is exactly half of the total area of the circle:\n$$\\text{Upper Area} = \\frac{1}{2} \\pi^3$$\n\n$\\pmb{\\text{Result:}}$\n$$\\text{Area} = \\boxed{\\frac{\\pi^3}{2}}$$",
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1NZQ8t3L4YKMucLXdP7D13CSdN7va77gs=w1102"
     },
     {
       "uuid": "15ea80c9-a929-4575-a052-5bfcdfea6ffb",
@@ -261,7 +261,7 @@
     {
       "uuid": "b8f0246b-068e-4f75-a540-ea06c145243f",
       "solution_text": "$\\pmb{\\text{Step 1: Identify Gate Outputs}}$\nThe circuit consists of four $NAND$ gates arranged to form an $XOR$ gate logic. Let us label the intermediate outputs:\n$\\bullet$ Output of the first gate (center): $Y_1 = \\overline{A \\cdot B}$\n$\\bullet$ Output of the top gate: $Y_2 = \\overline{A \\cdot Y_1} = \\overline{A \\cdot (\\overline{A \\cdot B})}$\n$\\bullet$ Output of the bottom gate: $Y_3 = \\overline{B \\cdot Y_1} = \\overline{B \\cdot (\\overline{A \\cdot B})}$\n\n$\\pmb{\\text{Step 2: Derive the Boolean Expression}}$\nThe final output $Y$ is the $NAND$ of $Y_2$ and $Y_3$:\n$$Y = \\overline{Y_2 \\cdot Y_3} = \\overline{Y_2} + \\overline{Y_3}$$\nSubstituting back using De Morgan's laws:\n$$\\overline{Y_2} = A \\cdot (\\overline{A \\cdot B}) = A \\cdot (\\overline{A} + \\overline{B}) = A\\overline{A} + A\\overline{B} = 0 + A\\overline{B} = A\\overline{B}$$\n$$\\overline{Y_3} = B \\cdot (\\overline{A \\cdot B}) = B \\cdot (\\overline{A} + \\overline{B}) = B\\overline{A} + B\\overline{B} = B\\overline{A} + 0 = \\overline{A}B$$\nThus, the final expression is:\n$$Y = A\\overline{B} + \\overline{A}B$$\nThis is the standard Boolean expression for an $\\pmb{\\text{XOR gate}}$.\n\n$\\pmb{\\text{Step 3: Construct the Truth Table}}$\n$$\\begin{array}{|c|c|c|c|c|c|c|} \\hline A & B & \\overline{A} & \\overline{B} & A\\overline{B} & \\overline{A}B & Y \\\\ \\hline 0 & 0 & 1 & 1 & 0 & 0 & 0 \\\\ 0 & 1 & 1 & 0 & 0 & 1 & 1 \\\\ 1 & 0 & 0 & 1 & 1 & 0 & 1 \\\\ 1 & 1 & 0 & 0 & 0 & 0 & 0 \\\\ \\hline \\end{array}$$\n\n$\\pmb{\\text{Conclusion:}}$\nThe output $Y$ is high (1) only when the inputs $A$ and $B$ are different. This logic is correctly represented in the table provided in $\\pmb{\\text{Option A}}$.\n\nTherefore, the correct answer is $\\pmb{\\boxed{A}}$.",
-      "solution_image_url": ""
+      "solution_image_url": "https://lh3.googleusercontent.com/d/19FHLZl_kJgXTfulKJoo79DM0mN3l-JWe=w1095"
     },
     {
       "uuid": "bcc8a97b-5b0d-4aad-a781-7f5adbf6b0a9",
