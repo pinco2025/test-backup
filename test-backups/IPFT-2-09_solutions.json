@@ -1,11 +1,11 @@
 {
   "testId": "IPFT-2-09",
   "testCode": "IPFT-2-09",
-  "backupTimestamp": "2026-02-07T14:27:55.749Z",
+  "backupTimestamp": "2026-02-12T08:35:22.647Z",
   "solutions": [
     {
       "uuid": "19cd0ff4e3ce",
-      "solution_text": "Equation of directrix\n$\\Rightarrow y=-x$\nBy definition of parabola,\n$\\begin{aligned}\n& P M=P F \\\\\n& \\left|\\frac{1+K}{\\sqrt{2}}\\right|=\\sqrt{(1-2)^2+(K-2)^2} \\\\\n& \\frac{(1+K)^2}{2}=1+K^2+4-4 K \\\\\n& 1+K^2+2 K=10+2 K^2-8 K \\\\\n& K^2-10 K+9=0 \\\\\n& (K-9)(K-1)=0 \\\\\n& \\therefore \\quad K=1 \\text { or } K=9\n\\end{aligned}$",
+      "solution_text": "$\\textbf{1. Find the coordinates of the Vertex (V) and Focus (F):}$\nSince the axis is $y = x$, any point on it is of the form $(a, a)$.\n- For Vertex $V$: Distance from origin is $\\sqrt{a^2 + a^2} = a\\sqrt{2} = \\sqrt{2} \\implies a = 1$. So, $V = (1, 1)$.\n- For Focus $F$: Distance from origin is $b\\sqrt{2} = 2\\sqrt{2} \\implies b = 2$. So, $F = (2, 2)$.\n\n$\\textbf{2. Find the Equation of the Directrix:}$\nThe directrix is perpendicular to the axis $y = x$ (slope $m = 1$), so its slope is $-1$. \nThe distance from the focus to the vertex is equal to the distance from the vertex to the directrix. Let the directrix intersect the axis at point $Z$. \nSince $V(1, 1)$ is the midpoint of $FZ$, and $F$ is $(2, 2)$, $Z$ must be $(0, 0)$.\nEquation of directrix passing through $(0, 0)$ with slope $-1$: \n$$y - 0 = -1(x - 0) \\implies x + y = 0$$\n\n$\\textbf{3. Apply the Definition of a Parabola:}$\nA point $P(x, y)$ on the parabola satisfies $PF = PM$, where $M$ is the foot of the perpendicular from $P$ to the directrix.\nFor $P(1, k)$:\n- $PF^2 = (1 - 2)^2 + (k - 2)^2 = 1 + (k - 2)^2$\n- $PM^2 = \\left( \\frac{|1 + k|}{\\sqrt{1^2 + 1^2}} \\right)^2 = \\frac{(1 + k)^2}{2}$\n\nSetting $PF^2 = PM^2$:\n$$1 + (k - 2)^2 = \\frac{(1 + k)^2}{2}$$\n$$2(1 + k^2 - 4k + 4) = 1 + 2k + k^2$$\n$$2k^2 - 8k + 10 = k^2 + 2k + 1$$\n$$k^2 - 10k + 9 = 0$$\n\n$\\textbf{4. Solve for } k:$\n$$(k - 9)(k - 1) = 0$$\n$$k = 9 \\text{ or } k = 1$$\n\nGiven the options, the possible value of $k$ is $9$.\n\n$\\textbf{Conclusion:}$ The correct option is $\\textbf{C}$.",
       "solution_image_url": ""
     },
     {
@@ -15,13 +15,13 @@
     },
     {
       "uuid": "43f7ad077cf0",
-      "solution_text": "Co-ordinates of $\\mathrm{A}=\\left(\\frac{5}{3}, \\frac{8}{3}\\right)$\nCo-ordinates of $\\mathrm{B}=\\left(\\frac{10}{3}, \\frac{4}{3}\\right)$\nSlope of $\\mathrm{OA}=\\mathrm{m}_1=\\frac{8}{5}$\nSlope of $\\mathrm{OB}=\\mathrm{m}_2=\\frac{2}{5}$\n$\\begin{aligned}\n& \\tan \\theta=\\left|\\frac{m_1-m_2}{1+m_1 m_2}\\right| \\\\\n& \\tan \\theta=\\frac{\\frac{6}{5}}{1+\\frac{16}{25}}=\\frac{30}{41} \\\\\n& \\tan \\theta=\\frac{30}{41}\n\\end{aligned}$",
-      "solution_image_url": ""
+      "solution_text": "$\\textbf{1. Identify the intercepts of the line:}$\nGiven the line $4x + 5y = 20$, the intercepts on the axes are:\n- For $x$-intercept ($y=0$): $4x = 20 \\implies x = 5$. Let point $P = (5, 0)$.\n- For $y$-intercept ($x=0$): $5y = 20 \\implies y = 4$. Let point $Q = (0, 4)$.\n\n$\\textbf{2. Find the trisection points:}$\nThe segment $PQ$ is trisected by points $A$ and $B$. Using the section formula:\n- Point $A$ (closer to $Q$) divides $QP$ in $1:2$: \n  $$A = \\left( \\frac{1(5) + 2(0)}{3}, \\frac{1(0) + 2(4)}{3} \\right) = \\left( \\frac{5}{3}, \\frac{8}{3} \\right)$$\n- Point $B$ (closer to $P$) divides $QP$ in $2:1$: \n  $$B = \\left( \\frac{2(5) + 1(0)}{3}, \\frac{2(0) + 1(4)}{3} \\right) = \\left( \\frac{10}{3}, \\frac{4}{3} \\right)$$\n\n$\\textbf{3. Calculate the slopes of } L_1 \\textbf{ and } L_2:$\nSince the lines pass through the origin $(0,0)$:\n- Slope of $L_1$ (passing through $A$): $m_1 = \\frac{8/3}{5/3} = \\frac{8}{5}$\n- Slope of $L_2$ (passing through $B$): $m_2 = \\frac{4/3}{10/3} = \\frac{4}{10} = \\frac{2}{5}$\n\n$\\textbf{4. Find the tangent of the angle } \\theta \\textbf{ between them:}$\n$$\\tan \\theta = \\left| \\frac{m_1 - m_2}{1 + m_1 m_2} \\right|$$\n$$\\tan \\theta = \\left| \\frac{\\frac{8}{5} - \\frac{2}{5}}{1 + \\left(\\frac{8}{5} \\cdot \\frac{2}{5}\\right)} \\right| = \\frac{\\frac{6}{5}}{1 + \\frac{16}{25}} = \\frac{\\frac{6}{5}}{\\frac{41}{25}}$$\n$$\\tan \\theta = \\frac{6}{5} \\times \\frac{25}{41} = \\frac{30}{41}$$\n\n$\\textbf{Conclusion:}$ The correct match is option $\\textbf{A}$.",
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1wu8isb4CvSxiZxtfln1P1-kl_UpW9cGx=w1121"
     },
     {
       "uuid": "a7db10fe2edb",
       "solution_text": "",
-      "solution_image_url": ""
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1OZ549C5cxWD7MyMHJFCH7ZiS6SJUo6sI=w1085"
     },
     {
       "uuid": "c4ed8f909367",
@@ -30,8 +30,18 @@
     },
     {
       "uuid": "d7df8dac6307",
-      "solution_text": "Equation of circle with center $(0,3)$ and radius $2$ is\n${x^2} + {\\left( {y - 3} \\right)^2} = 4$\nLet locus of the variable circle is $\\left( {\\alpha ,\\beta } \\right)$\nAs it touches $x$-axis.\n$\\therefore$ It's equation is ${\\left( {x - \\alpha } \\right)^2} + {\\left( {y + \\beta } \\right)^2} = {\\beta ^2}$\nCircle touch externally $ \\Rightarrow {c_1}{c_2} = {r_1} + {r_2}$\n$\\therefore$ $\\sqrt {{\\alpha ^2} + {{\\left( {\\beta - 3} \\right)}^2}} = 2 + \\beta $\n${\\alpha ^2} + {\\left( {\\beta - 3} \\right)^2} = {\\beta ^2} + 4 + 4\\beta $\n$ \\Rightarrow {\\alpha ^2} = 10\\left( {\\beta - 1/2} \\right)$\n$\\therefore$ Locus is ${x^2} = 10\\left( {y - {1 \\over 2}} \\right)$ which is parabola.",
-      "solution_image_url": ""
+      "solution_text": "$\\textbf{1. Define the parameters of the circles:}$\n- Let the fixed circle be $C_1$ with centre $O = (0, 3)$ and radius $r_1 = 2$.\n- Let the variable circle be $C_2$ with centre $P = (h, k)$ and radius $r_2$.\n\n$\\textbf{2. Use the tangency conditions:}$\n- Since $C_2$ touches the $x$-axis, its radius must be equal to the absolute value of the $y$-coordinate of its centre: $r_2 = |k|$. Since the circle must be above the $x$-axis to touch the fixed circle (which is centered at $y=3$), we have $r_2 = k$.\n- Since $C_2$ touches circle $C_1$ externally, the distance between their centres is equal to the sum of their radii:\n  $$OP = r_1 + r_2$$\n\n$\\textbf{3. Set up the equation:}$\nUsing the distance formula for $O(0, 3)$ and $P(h, k)$:\n$$\\sqrt{(h - 0)^2 + (k - 3)^2} = 2 + k$$\n\nSquaring both sides:\n$$h^2 + (k - 3)^2 = (2 + k)^2$$\n$$h^2 + k^2 - 6k + 9 = 4 + 4k + k^2$$\n\n$\\textbf{4. Simplify to find the locus:}$\nSubtract $k^2$ from both sides and rearrange:\n$$h^2 - 6k + 9 = 4 + 4k$$\n$$h^2 = 10k - 5$$\n$$h^2 = 10\\left(k - \\frac{1}{2}\\right)$$\n\nReplacing $(h, k)$ with $(x, y)$, the locus is:\n$$x^2 = 10\\left(y - \\frac{1}{2}\\right)$$\n\n$\\textbf{Conclusion:}$ This is the equation of a parabola. The correct option is $\\textbf{D}$.",
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1UHPfFjrKGAdYeTXo4LUC1At19wyHCjOM=w1121"
+    },
+    {
+      "uuid": "d82073e8a76f",
+      "solution_text": "",
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1AJO4aCX5hC9yrzaEktR-vYbkesk1-M1s=w1085"
+    },
+    {
+      "uuid": "db210ada431f",
+      "solution_text": "$\\pmb{\\text{Step 1: Formation of Carbocation}}$\n\nThe reaction involves the solvolysis of a secondary alkyl halide in ethanol ($\\text{C}_2\\text{H}_5\\text{OH}$), which proceeds via an $\\text{S}_\\text{N}1$ mechanism. First, the leaving group ($\\text{Br}^-$) departs to form a secondary ($2^\\circ$) carbocation:\n$$\\text{CH}_3\\text{-C(CH}_3\\text{)}_2\\text{-CH(Br)-CH}_3 \\xrightarrow{-\\text{Br}^-} \\text{CH}_3\\text{-C(CH}_3\\text{)}_2\\text{-}\\\\overset{\\oplus}{\\text{C}}\\text{H-CH}_3 \\quad (2^\\circ \\text{ carbocation})$$\n\n\n\n$\\pmb{\\text{Step 2: Carbocation Rearrangement}}$\n\nThe $2^\\circ$ carbocation is adjacent to a quaternary carbon. To gain stability, a $\\pmb{\\text{1, 2-methyl shift}}$ occurs, transforming the $2^\\circ$ carbocation into a more stable tertiary ($3^\\circ$) carbocation:\n$$\\text{CH}_3\\text{-C(CH}_3\\text{)}_2\\text{-}\\overset{\\oplus}{\\text{C}}\\text{H-CH}_3 \\xrightarrow{\\text{1,2-methyl shift}} \\text{CH}_3\\text{-}\\overset{\\oplus}{\\text{C}}\\text{(CH}_3\\text{)-CH(CH}_3\\text{)}_2 \\quad (3^\\circ \\text{ carbocation})$$\n\n$\\pmb{\\text{Step 3: Nucleophilic Attack}}$\n\nThe nucleophile ($\\text{C}_2\\text{H}_5\\text{OH}$) then attacks the more stable $3^\\circ$ carbocation, followed by deprotonation to yield the major ether product:\n$$\\text{CH}_3\\text{-}\\overset{\\oplus}{\\text{C}}\\text{(CH}_3\\text{)-CH(CH}_3\\text{)}_2 \\xrightarrow{\\text{C}_2\\text{H}_5\\text{OH}} \\text{CH}_3\\text{-C(CH}_3\\text{)(OC}_2\\text{H}_5\\text{)-CH(CH}_3\\text{)}_2$$\n\n$\\pmb{\\text{Conclusion:}}$\n\nThe IUPAC name of the product is $\\pmb{\\text{2-ethoxy-2, 3-dimethyl butane}}$.\n\nTherefore, the correct option is $\\pmb{\\text{C}}$.",
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1voXMAw4r-YgPvnZ_Z-FlTdxDkfUEYFf6=w1154"
     },
     {
       "uuid": "0fe988674bbf",
@@ -39,8 +49,8 @@
       "solution_image_url": ""
     },
     {
-      "uuid": "5d715db0bd43",
-      "solution_text": "$$\\bullet$$ Aniline does not undergo Friedel-Crafts alkylation reaction due to salt formation with aluminium chloride, the Lewis acid, which is used as a catalyst.\n$$\\bullet$$ Aniline (aromatic primary amine) cannot be prepared by Gabriel phthalimide synthesis because aryl halides do not undergo nucleophilic substitution with anion formed by phthalimide.",
+      "uuid": "9e23fa5c4912",
+      "solution_text": "$\\pmb{\\text{Step 1: Formation of Product (A)}}$\n\nMethyl bromide ($\\text{CH}_3\\text{Br}$) reacts with potassium cyanide ($\\text{KCN}$) via an $\\text{S}_\\text{N}2$ mechanism. The cyanide ion ($\\text{CN}^-$) acts as a nucleophile, displacing the bromide ion to form $\\pmb{\\text{Ethanenitrile}}$ (Methyl cyanide).\n$$\\text{CH}_3\\text{Br} + \\text{KCN} \\rightarrow \\text{CH}_3\\text{CN} + \\text{KBr}$$\n$$\\pmb{A = \\text{CH}_3\\text{CN}}$$\n\n$\\pmb{\\text{Step 2: Formation of Product (B)}}$\n\nAcid-catalyzed hydrolysis of nitriles yields carboxylic acids. The nitrile group ($\\text{--CN}$) is converted into a carboxyl group ($\\text{--COOH}$).\n$$\\text{CH}_3\\text{CN} \\xrightarrow{\\text{H}_3\\text{O}^+} \\text{CH}_3\\text{COOH} + \\text{NH}_4^+$$\n$$\\pmb{B = \\text{CH}_3\\text{COOH} \\text{ (Acetic acid)}}$$\n\n\n\n$\\pmb{\\text{Step 3: Formation of Product (C)}}$ \n\nLithium aluminium hydride ($\\text{LiAlH}_4$) is a strong reducing agent that reduces carboxylic acids directly to primary alcohols.\n$$\\text{CH}_3\\text{COOH} \\xrightarrow[\\text{ether}]{\\text{LiAlH}_4} \\text{CH}_3\\text{CH}_2\\text{OH}$$\n$$\\pmb{C = \\text{CH}_3\\text{CH}_2\\text{OH} \\text{ (Ethyl alcohol)}}$$\n\n\n\n$\\pmb{\\text{Conclusion:}}$\n\nThe final product $(C)$ is $\\pmb{\\text{Ethyl alcohol}}$.\n\nTherefore, the correct option is $\\pmb{\\text{D}}$.",
       "solution_image_url": ""
     },
     {
