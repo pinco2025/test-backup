@@ -1,6 +1,6 @@
 {
   "testCode": "IPFT-2-10",
-  "backupTimestamp": "2026-02-12T10:14:58.990Z",
+  "backupTimestamp": "2026-02-12T11:53:48.566Z",
   "status": "completed",
   "completionPercentage": 100,
   "currentStep": "test-review",
@@ -61,7 +61,7 @@
           "option_d_image_url": "",
           "answer": "C",
           "division": 1,
-          "status": "pending",
+          "status": "accepted",
           "chapter": "MPN",
           "topic": "JEE Main 2025 (Online) 7th April Evening Shift",
           "examSource": "JEE"
@@ -106,7 +106,7 @@
         {
           "uuid": "edfbdbb45761",
           "question": "In the figure shown ABC is a uniform wire. If centre of mass of wire lies vertically below point A, then $\\frac{BC}{AB}$ is close to:",
-          "question_image_url": "",
+          "question_image_url": "https://lh3.googleusercontent.com/d/1qfWK3qEobnimHGvuLfVMwD-LwPHg8gFh=w1013",
           "option_a": "1.85",
           "option_a_image_url": "",
           "option_b": "1.37",
@@ -143,7 +143,7 @@
         {
           "uuid": "088b11c74070",
           "question": "A small point of mass $m$ is placed at a distance $2R$ from the centre '$O$' of a big uniform solid sphere of mass $M$ and radius $R$. The gravitational force on '$m$' due to $M$ is $F_1$. A spherical part of radius $R/3$ is removed from the big sphere as shown in the figure and the gravitational force on $m$ due to remaining part of $M$ is found to be $F_2$. The value of ratio $F_1: F_2$ is:",
-          "question_image_url": "",
+          "question_image_url": "https://lh3.googleusercontent.com/d/1p6o1nyRkDdGivPCn8hD2MmKuSubqO0dD=w1113",
           "option_a": "11 : 10",
           "option_a_image_url": "",
           "option_b": "12 : 11",
@@ -173,7 +173,7 @@
           "option_d_image_url": "",
           "answer": "D",
           "division": 1,
-          "status": "pending",
+          "status": "accepted",
           "chapter": "MPF",
           "topic": "JEE Main 2018 (Offline)",
           "examSource": "JEE"
@@ -219,14 +219,14 @@
           "uuid": "61f06cf4399a",
           "question": "In an oscillating spring mass system, a spring is connected to a box filled with sand. As the box oscillates, sand leaks slowly out of the box vertically so that the average frequency $\\omega(t)$ and average amplitude $A(t)$ of the system change with time $t$. Which one of the following options schematically depicts these changes correctly?",
           "question_image_url": "",
-          "option_a": "$\\\\omega(t)$ increases and $A(t)$ increases.",
-          "option_a_image_url": "",
-          "option_b": "$\\\\omega(t)$ decreases and $A(t)$ decreases.",
-          "option_b_image_url": "",
-          "option_c": "$\\\\omega(t)$ increases and $A(t)$ remains constant.",
-          "option_c_image_url": "",
-          "option_d": "$\\\\omega(t)$ increases and $A(t)$ decreases.",
-          "option_d_image_url": "",
+          "option_a": "",
+          "option_a_image_url": "https://lh3.googleusercontent.com/d/1-7UWxhLXrYLp_qAqgVt0pt7ocOl2V7yh=w1091",
+          "option_b": "",
+          "option_b_image_url": "https://lh3.googleusercontent.com/d/1SGitCszwskiT10-M6k_XCg0lM4551qT5=w1102",
+          "option_c": "",
+          "option_c_image_url": "https://lh3.googleusercontent.com/d/1PgXbdCWkjlIVE7V7mEBfxvwjZgGrV9w4=w1126",
+          "option_d": "",
+          "option_d_image_url": "https://lh3.googleusercontent.com/d/1oPjxIeMl0-srrkY-lOU60LEawjICQ-7A=w1126",
           "answer": "D",
           "division": 1,
           "status": "pending",
@@ -256,7 +256,7 @@
         {
           "uuid": "2694f7436ddc",
           "question": "In the following circuit, the equivalent capacitance between terminal A and terminal B is:",
-          "question_image_url": "",
+          "question_image_url": "https://lh3.googleusercontent.com/d/1JTt9Tsc1hkNvZyAxKeo1xON9S9PLvug2=w1169",
           "option_a": "2 $\\mu$F",
           "option_a_image_url": "",
           "option_b": "1 $\\mu$F",
@@ -331,7 +331,7 @@
         {
           "uuid": "c32c4ad6c354",
           "question": "A ray of light passes from a denser medium to a rarer medium at an angle of incidence $i$. The reflected and refracted rays make an angle of $90^\\circ$ with each other. The angle of reflection and refraction are respectively $r$ and $r'$. The critical angle is given by",
-          "question_image_url": "",
+          "question_image_url": "https://lh3.googleusercontent.com/d/12XOKo06NlYq68L87vMgP6d8rD6NOflxw=w1076",
           "option_a": "$\\sin^{-1}(\\tan r)$",
           "option_a_image_url": "",
           "option_b": "$\\sin^{-1}(\\cos r)$",
@@ -1439,6 +1439,6 @@
     "testType": "Full",
     "description": "Full Syllabus Test 10",
     "createdAt": "2026-01-13T17:52:24.130Z",
-    "lastModified": "2026-02-12T10:14:58.990Z"
+    "lastModified": "2026-02-12T11:53:48.566Z"
   }
 }
