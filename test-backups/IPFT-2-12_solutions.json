@@ -1,7 +1,7 @@
 {
   "testId": "IPFT-2-12",
   "testCode": "IPFT-2-12",
-  "backupTimestamp": "2026-02-07T21:49:02.341Z",
+  "backupTimestamp": "2026-02-13T09:57:01.402Z",
   "solutions": [
     {
       "uuid": "0bff2f937701",
@@ -21,7 +21,7 @@
     {
       "uuid": "1e2bb66ff1fb",
       "solution_text": "$\\pmb{\\text{Principle:}}$\nThe net electrostatic potential at any point is the algebraic sum of the potentials contributed by each individual charge distribution (Superposition Principle).\n\n\n\n$\\pmb{\\text{Step 1: Potential due to the point charge } Q}$\nPoint $P$ is at a distance $r = \\frac{R}{2}$ from the center where charge $Q$ is located. The potential $V_1$ due to a point charge is given by:\n$$V_1 = \\frac{1}{4\\pi \\varepsilon_0} \\frac{Q}{r} = \\frac{1}{4\\pi \\varepsilon_0} \\frac{Q}{R/2} = \\frac{2Q}{4\\pi \\varepsilon_0 R}$$\n\n$\\pmb{\\text{Step 2: Potential due to the conducting shell charge } q}$\nFor a conducting spherical shell, the potential at any point inside the shell ($r < R$) is constant and equal to the potential on its surface. Therefore, the potential $V_2$ at point $P$ due to the shell is:\n$$V_2 = \\frac{1}{4\\pi \\varepsilon_0} \\frac{q}{R}$$\n\n$\\pmb{\\text{Step 3: Total Potential at } P}$\nSumming the individual potentials:\n$$V_{\\text{net}} = V_1 + V_2$$\n$$V_{\\text{net}} = \\frac{2Q}{4\\pi \\varepsilon_0 R} + \\frac{q}{4\\pi \\varepsilon_0 R}$$\n\n$\\pmb{\\text{Conclusion:}}$\nThe total potential is the sum of the potential due to the central charge and the surface charge. This matches $\\pmb{\\text{Option C}}$.",
-      "solution_image_url": ""
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1KdCRzRM0lM0eIkODLDWn-IvaM_q1oGlh=w1155"
     },
     {
       "uuid": "20124bd64e99",
@@ -136,7 +136,7 @@
     {
       "uuid": "a0210e2584e7",
       "solution_text": "$\\pmb{\\text{Step 1: Understand the Equilibrium Condition}}$\nFor the liquids to be in a state of static equilibrium, the pressure at the lowest point of the tube (or at any common interface) must be the same when calculated from both sides of the circular tube. \n\n\n\n$\\pmb{\\text{Step 2: Determine Vertical Heights}}$\nLet $R$ be the radius of the circular tube. Each liquid subtends an angle of $90^{\\circ}$ at the center. \n$\\bullet$ The interface between the two liquids (at density $d_1$ and $d_2$) is at an angle $\\alpha$ with the vertical.\n$\\bullet$ The vertical height component of the liquid with density $d_2$ from the lowest point is $(R\\cos \\alpha + R\\sin \\alpha)$.\n$\\bullet$ The vertical height component of the liquid with density $d_1$ from the same reference level is $(R\\cos \\alpha - R\\sin \\alpha)$.\n\n[Image showing the resolution of vertical heights for liquids in a circular tube using trigonometry]\n\n$\\pmb{\\text{Step 3: Equate Hydrostatic Pressures}}$\nUsing the formula for hydrostatic pressure $P = hdg$, where $g$ is the acceleration due to gravity, we equate the pressures from both columns at the interface:\n$$(R\\cos \\alpha + R\\sin \\alpha)d_2g = (R\\cos \\alpha - R\\sin \\alpha)d_1g$$\nCanceling $R$ and $g$ from both sides:\n$$d_2(\\cos \\alpha + \\sin \\alpha) = d_1(\\cos \\alpha - \\sin \\alpha)$$\n\n$\\pmb{\\text{Step 4: Solve for the Ratio } \\frac{d_1}{d_2}}$\nRearranging the terms to find the ratio:\n$$\\frac{d_1}{d_2} = \\frac{\\cos \\alpha + \\sin \\alpha}{\\cos \\alpha - \\sin \\alpha}$$\nDividing both the numerator and the denominator by $\\cos \\alpha$:\n$$\\frac{d_1}{d_2} = \\frac{1 + \\tan \\alpha}{1 - \\tan \\alpha}$$\n\n$\\pmb{\\text{Conclusion:}}$\nThe ratio of the densities is $\\frac{1 + \\tan \\alpha}{1 - \\tan \\alpha}$, which corresponds to $\\pmb{\\text{Option C}}$.\n\nTherefore, the correct answer is $\\pmb{\\boxed{C}}$.",
-      "solution_image_url": ""
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1LkGGAN4mSBA8OUL9xAgfbpF8PBcyAp86=w1114"
     },
     {
       "uuid": "b3df627b63bc",
@@ -171,7 +171,7 @@
     {
       "uuid": "d6f9795210ee",
       "solution_text": "$\\pmb{\\text{Step 1: Identify the Geometry and the Axis of Rotation}}$\nFour masses, each of value $m$, are positioned at the vertices $A, B, C,$ and $D$ of a square with side length $l$. The axis of rotation passes through point $A$ and is parallel to the diagonal $DB$.\n\n\n\n$\\pmb{\\text{Step 2: Calculate the Perpendicular Distance for Each Mass}}$\nThe moment of inertia $I$ of a system of particles is defined as $I = \\sum m_i r_i^2$, where $r_i$ is the perpendicular distance of each mass from the axis.\n$\\bullet$ $\\pmb{\\text{Mass at A:}}$ Since the axis passes through point $A$, the perpendicular distance is $r_A = 0$.\n$\\bullet$ $\\pmb{\\text{Mass at B and D:}}$ The perpendicular distance from $B$ (or $D$) to the axis passing through $A$ is half the length of the diagonal $DB$. The diagonal length is $l\\sqrt{2}$, so $r_B = r_D = d = \\frac{l\\sqrt{2}}{2} = \\frac{l}{\\sqrt{2}}$.\n$\\bullet$ $\\pmb{\\text{Mass at C:}}$ The perpendicular distance from $C$ to the axis is equal to the full length of the diagonal $AC$, which is $r_C = l\\sqrt{2}$.\n\n[Image showing the perpendicular distances from masses B, C, and D to the axis passing through A]\n\n$\\pmb{\\text{Step 3: Calculate the Total Moment of Inertia (I)}}$\nSubstitute the distances into the summation formula:\n$$I = m(r_A)^2 + m(r_B)^2 + m(r_D)^2 + m(r_C)^2$$\n$$I = m(0)^2 + m\\left(\\frac{l}{\\sqrt{2}}\\right)^2 + m\\left(\\frac{l}{\\sqrt{2}}\\right)^2 + m(l\\sqrt{2})^2$$\n$$I = 0 + \\frac{ml^2}{2} + \\frac{ml^2}{2} + 2ml^2$$\n$$I = ml^2 + 2ml^2 = 3ml^2$$\n\n$\\pmb{\\text{Conclusion:}}$\nThe total moment of inertia of the system about the specified axis is $3ml^2$. This matches $\\pmb{\\text{Option D}}$.\n\nTherefore, the correct answer is $\\pmb{\\boxed{D}}$.",
-      "solution_image_url": ""
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1IS12Oy-qH4R0B_vC9Es9CzER_kDQKfaK=w1164"
     },
     {
       "uuid": "d94947ecaadb",
