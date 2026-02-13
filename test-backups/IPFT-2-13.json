@@ -1,6 +1,6 @@
 {
   "testCode": "IPFT-2-13",
-  "backupTimestamp": "2026-02-07T14:27:56.964Z",
+  "backupTimestamp": "2026-02-13T21:06:03.515Z",
   "status": "completed",
   "completionPercentage": 100,
   "currentStep": "test-review",
@@ -107,13 +107,13 @@
           "question": "Consider a rubber ball freely falling from a height $h = 4.9$ m onto a horizontal elastic plate. Assume that the duration of collision is negligible and the collision with the plate is totally elastic. Then the velocity as a function of time and the height as a function of time will be:",
           "question_image_url": "",
           "option_a": "",
-          "option_a_image_url": "",
+          "option_a_image_url": "https://lh3.googleusercontent.com/d/14TvDzS-wxhi797bvIRlNPyFUojQJzzY5=w1152",
           "option_b": "",
-          "option_b_image_url": "",
+          "option_b_image_url": "https://lh3.googleusercontent.com/d/1m6aticaQSjqQBdRZuHAdHfZsOSi1E-uL=w1120",
           "option_c": "",
-          "option_c_image_url": "",
+          "option_c_image_url": "https://lh3.googleusercontent.com/d/1Ns1DAgHB0ymVibNudHAnXHPwRlQfCWDJ=w1157",
           "option_d": "",
-          "option_d_image_url": "",
+          "option_d_image_url": "https://lh3.googleusercontent.com/d/1NI3UE7MpkrGQmGY0ky89hynEFJrx0Kg9=w1118",
           "answer": "B",
           "division": 1,
           "status": "pending",
@@ -180,7 +180,7 @@
         {
           "uuid": "4baf4f1c14d0",
           "question": "The $P$-$V$ diagram of a diatomic ideal gas system going under cyclic process as shown in figure. The work done during an adiabatic process $CD$ is (use $\\gamma = 1.4$):",
-          "question_image_url": "",
+          "question_image_url": "https://lh3.googleusercontent.com/d/1M4Nsvcz8s4rSWtqifP3AfgUwbwJ8Tgtv=w1170",
           "option_a": "$-500$ J",
           "option_a_image_url": "",
           "option_b": "$-400$ J",
@@ -217,7 +217,7 @@
         {
           "uuid": "38c6b98a6d36",
           "question": "The radius of the circle, the period of revolution, initial position, and sense of revolution are indicated in the figure. The $y$-projection of the radius vector of rotating particle $P$ is:",
-          "question_image_url": "",
+          "question_image_url": "https://lh3.googleusercontent.com/d/1Dw3McH6LIvwWiscJkn7fF-Wk3cFPRG16=w1158",
           "option_a": "$y(t) = 4\\sin\\left( \\frac{\\pi t}{2} \\right)$, where $y$ is in m",
           "option_a_image_url": "",
           "option_b": "$y(t) = 3\\cos\\left( \\frac{3\\pi t}{2} \\right)$, where $y$ is in m",
@@ -255,7 +255,7 @@
         {
           "uuid": "5d6ef7e4f4e4",
           "question": "The equivalent capacitance of the arrangement shown in figure is:",
-          "question_image_url": "",
+          "question_image_url": "https://lh3.googleusercontent.com/d/1_cOZePuHeEQfv_-TLZQ4c4QxCupTLblF=w1121",
           "option_a": "30 $\\mu$F",
           "option_a_image_url": "",
           "option_b": "15 $\\mu$F",
@@ -292,7 +292,7 @@
         {
           "uuid": "1d590b08f664",
           "question": "$AB$ is a part of an electrical circuit (see figure). The potential difference \"$V_A - V_B$\", at the instant when current $i = 2\\text{ A}$ and is increasing at a rate of $1\\text{ amp/second}$ is:",
-          "question_image_url": "",
+          "question_image_url": "https://lh3.googleusercontent.com/d/1jxDvtB_-5k-5aPsT_EJSprC8CUxhYZ2T=w1121",
           "option_a": "9 volt",
           "option_a_image_url": "",
           "option_b": "10 volt",
@@ -330,7 +330,7 @@
         {
           "uuid": "c9ba5a02870b",
           "question": "The graph shows how the magnification $m$ produced by a thin lens varies with image distance $v$. What is the focal length of the lens used?",
-          "question_image_url": "",
+          "question_image_url": "https://lh3.googleusercontent.com/d/1USrsL-xYeDGHR3W5yciaoArL9L9Ku7xr=w1121",
           "option_a": "$\\frac{b^2}{ac}$",
           "option_a_image_url": "",
           "option_b": "$\\frac{b^2c}{a}$",
@@ -661,16 +661,16 @@
         },
         {
           "uuid": "1b32db7caf1d",
-          "question": "Which one of the following graphs between molar conductivity (${\\Lambda _m}$) versus $\\sqrt C $ is correct ?",
+          "question": "Which one of the following graphs between molar conductivity ($\\Lambda_m$) versus $\\sqrt{C}$ is correct for $\\text{NaCl}$ and $\\text{KCl}$?",
           "question_image_url": "",
           "option_a": "",
-          "option_a_image_url": "",
+          "option_a_image_url": "https://lh3.googleusercontent.com/d/1BG4EeUCTGIp91gInwzh3Lznu60tk8JMl=w1087",
           "option_b": "",
-          "option_b_image_url": "",
+          "option_b_image_url": "https://lh3.googleusercontent.com/d/18qjQy_64vmsBvnO1rn5ekZozBKXekvhY=w1157",
           "option_c": "",
-          "option_c_image_url": "",
+          "option_c_image_url": "https://lh3.googleusercontent.com/d/1Z8jAITZjf6rkAczKUiGoPkHUj6PLBrum=w1172",
           "option_d": "",
-          "option_d_image_url": "",
+          "option_d_image_url": "https://lh3.googleusercontent.com/d/12vcSgiLDdqGDH1KiDKZ_KPAczaCAi0ml=w1157",
           "answer": "A",
           "division": 1,
           "status": "pending",
@@ -1028,7 +1028,7 @@
         },
         {
           "uuid": "103ba0ba26c8",
-          "question": "Let $ |z_1 − 8−2i| \\leq 1 $ and $ |z_2−2+6i| \\leq 2 $, $ z_1, z_2 \\in \\mathbb{C} $. Then the minimum value of $ |z_1 − z_2| $ is :",
+          "question": "Let $ |z_1 - (8+2i)| \\leq 1 $ and $ |z_2 - (2-6i)| \\leq 2 $, where $ z_1, z_2 \\in \\mathbb{C} $. Then the minimum value of $ |z_1 - z_2| $ is:",
           "question_image_url": "",
           "option_a": "3",
           "option_a_image_url": "",
@@ -1440,6 +1440,6 @@
     "testType": "Full",
     "description": "Full Syllabus Test 13 (Duplicate of Test 07)",
     "createdAt": "2026-01-13T17:52:24.130Z",
-    "lastModified": "2026-02-07T14:27:56.964Z"
+    "lastModified": "2026-02-13T21:06:03.515Z"
   }
 }
