@@ -1,6 +1,6 @@
 {
   "testCode": "IPFT-2-12",
-  "backupTimestamp": "2026-02-07T21:49:02.337Z",
+  "backupTimestamp": "2026-02-13T09:57:01.400Z",
   "status": "completed",
   "completionPercentage": 100,
   "currentStep": "test-review",
@@ -109,7 +109,7 @@
         {
           "uuid": "d6f9795210ee",
           "question": "Four equal masses, $m$ each are placed at the corners of a square of length $l$ as shown in the figure. The moment of inertia of the system about an axis passing through $A$ and parallel to $DB$ would be:",
-          "question_image_url": "",
+          "question_image_url": "https://lh3.googleusercontent.com/d/1F24CINrP2XszQ25STt6St11qW_rSxYqL=w1095",
           "option_a": "$\\sqrt{3} ml^2$",
           "option_a_image_url": "",
           "option_b": "$2 ml^2$",
@@ -147,7 +147,7 @@
         {
           "uuid": "a0210e2584e7",
           "question": "There is a circular tube in a vertical plane. Two liquids which do not mix and of densities $d_1$ and $d_2$ are filled in the tube. Each liquid subtends a $90^{\\circ}$ angle at the center. The radius joining their interface makes an angle $\\alpha$ with the vertical. The ratio $\\frac{d_1}{d_2}$ is:",
-          "question_image_url": "",
+          "question_image_url": "https://lh3.googleusercontent.com/d/1oGcdOzhe5UqS5fclmYkxZ-qt49ZWCyP8=w1103",
           "option_a": "$\\frac{1 + \\sin \\alpha}{1 - \\sin \\alpha}$",
           "option_a_image_url": "",
           "option_b": "$\\frac{1 + \\cos \\alpha}{1 - \\cos \\alpha}$",
@@ -261,7 +261,7 @@
         {
           "uuid": "8b42729a22a9",
           "question": "A, B and C are voltmeters of resistance $R$, $1.5R$ and $3R$ respectively as shown in the figure. When some potential difference is applied between $X$ and $Y$, the voltmeter readings are $V_A$, $V_B$ and $V_C$ respectively. Then:",
-          "question_image_url": "",
+          "question_image_url": "https://lh3.googleusercontent.com/d/1ZpeNIfX074xttlD5pDMg_RRTILqGk9Tv=w1042",
           "option_a": "$V_A = V_B \\neq V_C$",
           "option_a_image_url": "",
           "option_b": "$V_A \\neq V_B \\neq V_C$",
@@ -272,7 +272,7 @@
           "option_d_image_url": "",
           "answer": "C",
           "division": 1,
-          "status": "pending",
+          "status": "accepted",
           "chapter": "CRE",
           "topic": "",
           "examSource": "NEET"
@@ -339,13 +339,13 @@
           "question": "An electron beam is accelerated by a potential difference $V$ to hit a metallic target to produce X-rays. It produces continuous as well as characteristic X-rays. If $\\lambda_{\\text{min}}$ is the smallest possible wavelength of X-ray in the spectrum, the variation of $\\log \\lambda_{\\text{min}}$ with $\\log V$ is correctly represented in:",
           "question_image_url": "",
           "option_a": "",
-          "option_a_image_url": "",
+          "option_a_image_url": "https://lh3.googleusercontent.com/d/1Hz1_bQrrj1PxNt25bpWj9XowBJ14cp5V=w1149",
           "option_b": "",
-          "option_b_image_url": "",
+          "option_b_image_url": "https://lh3.googleusercontent.com/d/16m9l4ld5-XssFIwxKda4vyhQoSNM66K-=w1071",
           "option_c": "",
-          "option_c_image_url": "",
+          "option_c_image_url": "https://lh3.googleusercontent.com/d/1iiqUc-k7chQZZxptIvvOiH7ZP84-Zr9c=w1170",
           "option_d": "",
-          "option_d_image_url": "",
+          "option_d_image_url": "https://lh3.googleusercontent.com/d/1jFjo6m4s27ySaDFGiQsvh5mu_SWNpI_S=w1029",
           "answer": "B",
           "division": 1,
           "status": "pending",
@@ -1397,7 +1397,7 @@
           "option_d_image_url": null,
           "answer": "3",
           "division": 2,
-          "status": "pending",
+          "status": "accepted",
           "chapter": "HYB1",
           "topic": "JEE Main 2024 (Online) 6th April Evening Shift"
         },
@@ -1462,6 +1462,6 @@
     "testType": "Full",
     "description": "Full Syllabus Test 12 (Duplicate of Test 05)",
     "createdAt": "2026-01-13T17:52:24.130Z",
-    "lastModified": "2026-02-07T21:49:02.338Z"
+    "lastModified": "2026-02-13T09:57:01.400Z"
   }
 }
