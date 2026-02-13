@@ -1,9 +1,9 @@
 {
   "testCode": "IPFT-2-12",
-  "backupTimestamp": "2026-02-13T09:57:01.400Z",
+  "backupTimestamp": "2026-02-13T21:05:58.894Z",
   "status": "completed",
   "completionPercentage": 100,
-  "currentStep": "test-review",
+  "currentStep": "edit-question",
   "sections": [
     {
       "name": "Physics",
@@ -12,23 +12,23 @@
       "questionsTarget": 20,
       "questions": [
         {
-          "uuid": "6761a5915055",
-          "question": "If $\\overrightarrow{\\mathrm{a}}$ is a nonzero vector such that its projections on the vectors $2 \\hat{i}-\\hat{j}+2 \\hat{k}, \\hat{i}+2 \\hat{j}-2 \\hat{k}$ and $\\hat{k}$ are equal, then a unit vector along $\\overrightarrow{\\mathrm{a}}$ is :",
-          "question_image_url": "",
-          "option_a": "$\\frac{1}{\\sqrt{155}}(-7 \\hat{i}+9 \\hat{j}+5 \\hat{k})$",
-          "option_a_image_url": "",
-          "option_b": "$\\frac{1}{\\sqrt{155}}(-7 \\hat{i}+9 \\hat{j}-5 \\hat{k})$",
-          "option_b_image_url": "",
-          "option_c": "$\\frac{1}{\\sqrt{155}}(7 \\hat{i}+9 \\hat{j}-5 \\hat{k})$",
-          "option_c_image_url": "",
-          "option_d": "$\\frac{1}{\\sqrt{155}}(7 \\hat{i}+9 \\hat{j}+5 \\hat{k})$",
-          "option_d_image_url": "",
-          "answer": "D",
+          "uuid": "1eaea2a1-f34c-4a84-a47a-bc0e5ec3f5d8",
+          "question": "Let $\\vec{a} = 2\\hat{i} + \\hat{j} - 2\\hat{k}$ and $\\vec{b} = \\hat{i} + \\hat{j}$. If $\\vec{c}$ is a vector such that $\\vec{a} \\cdot \\vec{c} = |\\vec{c}|$, $|\\vec{c} - \\vec{a}| = 2\\sqrt{2}$ and the angle between $(\\vec{a} \\times \\vec{b})$ and $\\vec{c}$ is $\\frac{\\pi}{6}$, then the value of $|(\\vec{a} \\times \\vec{b}) \\times \\vec{c}|$ is:",
+          "question_image_url": null,
+          "option_a": "$\\frac{2}{3}$",
+          "option_a_image_url": null,
+          "option_b": "$\\frac{3}{2}$",
+          "option_b_image_url": null,
+          "option_c": "$\\frac{\\sqrt{3}}{2}$",
+          "option_c_image_url": null,
+          "option_d": "$\\frac{3\\sqrt{3}}{2}$",
+          "option_d_image_url": null,
+          "answer": "B",
           "division": 1,
-          "status": "pending",
-          "chapter": "VEP",
-          "topic": "JEE Main 2025 (Online) 2nd April Morning Shift",
-          "examSource": "JEE"
+          "status": "accepted",
+          "chapter": "POC",
+          "topic": "VEP",
+          "examSource": "IPQ"
         },
         {
           "uuid": "785a1b440235",
@@ -204,7 +204,7 @@
         {
           "uuid": "dde0e43b9c33",
           "question": "Time period of small oscillation (in a vertical plane normal to the plane of strings) of the bob in the arrangement shown will be:",
-          "question_image_url": "https://lh3.googleusercontent.com/d/1gBiaVhET1nPsC7sYrTSoD2fhY3tAoGc4=w1088",
+          "question_image_url": "https://lh3.googleusercontent.com/d/1xsPKI6jRkqbEO0wIgmk46JEfCYSlSsAD=w1088",
           "option_a": "$2\\pi\\sqrt{\\frac{\\ell}{g}}$",
           "option_a_image_url": "",
           "option_b": "$2\\pi\\sqrt{\\frac{\\ell}{\\sqrt{2}g}}$",
@@ -469,7 +469,7 @@
           "option_d_image_url": "",
           "answer": "20",
           "division": 2,
-          "status": "pending",
+          "status": "accepted",
           "chapter": "MCM",
           "topic": "JEE Main 2024 (Online) 31st January Evening Shift",
           "examSource": "JEE"
@@ -1462,6 +1462,6 @@
     "testType": "Full",
     "description": "Full Syllabus Test 12 (Duplicate of Test 05)",
     "createdAt": "2026-01-13T17:52:24.130Z",
-    "lastModified": "2026-02-13T09:57:01.400Z"
+    "lastModified": "2026-02-13T21:05:58.895Z"
   }
 }
