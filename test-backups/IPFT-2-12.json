@@ -1,9 +1,9 @@
 {
   "testCode": "IPFT-2-12",
-  "backupTimestamp": "2026-02-13T21:58:08.008Z",
+  "backupTimestamp": "2026-02-14T22:17:26.049Z",
   "status": "completed",
   "completionPercentage": 100,
-  "currentStep": "edit-question",
+  "currentStep": "test-review",
   "sections": [
     {
       "name": "Physics",
@@ -759,22 +759,22 @@
           "examSource": "NEET"
         },
         {
-          "uuid": "dcaaebdcb255",
-          "question": "(image) Identify the correct reactivity order for addition elimination reaction (ArSN):",
+          "uuid": "fbf6411972e6",
+          "question": "Identify the final major product $(Z)$ in the following reaction sequence:\n\n$$\\text{Methylcyclopentane} \\xrightarrow{Br_2 / h\\nu} (X) \\xrightarrow{\\text{Alcoholic } KOH / \\Delta} (Y) \\xrightarrow{HBr / \\text{Peroxide}} (Z)$$\n\nChoose the correct structure for $(Z)$ from the options below:",
           "question_image_url": "",
-          "option_a": "1 > 2 > 3",
-          "option_a_image_url": "",
-          "option_b": "2 > 1 > 3",
-          "option_b_image_url": "",
-          "option_c": "3 > 2 > 1",
-          "option_c_image_url": "",
-          "option_d": "3 = 2 > 1",
-          "option_d_image_url": "",
-          "answer": "A",
+          "option_a": "",
+          "option_a_image_url": "https://lh3.googleusercontent.com/d/1gFsugEthMhAwVEvYSA-yfVT5eVy-D25L=w1136",
+          "option_b": "",
+          "option_b_image_url": "https://lh3.googleusercontent.com/d/1ZkqkWEuhHq7ZzmxDaGrH954n0e8vVcuJ=w1107",
+          "option_c": "",
+          "option_c_image_url": "https://lh3.googleusercontent.com/d/14upqo2eBF8OnoUowQPdQuatl4qZlsXef=w1165",
+          "option_d": "",
+          "option_d_image_url": "https://lh3.googleusercontent.com/d/1P3NNsc-4nt3_t_b6lB5nrglWFmvBw7ZO=w1193",
+          "answer": "C",
           "division": 1,
-          "status": "pending",
-          "chapter": "HAH",
-          "topic": "Q28",
+          "status": "accepted",
+          "chapter": "Organic Reaction Mechanism",
+          "topic": "Q33",
           "examSource": "JEE"
         },
         {
@@ -816,25 +816,6 @@
           "examSource": "BITS"
         },
         {
-          "uuid": "e2a6ae3b15b4",
-          "question": "The final product 'A' in the following reaction sequence",
-          "question_image_url": "",
-          "option_a": "",
-          "option_a_image_url": "",
-          "option_b": "",
-          "option_b_image_url": "",
-          "option_c": "",
-          "option_c_image_url": "",
-          "option_d": "",
-          "option_d_image_url": "",
-          "answer": "A",
-          "division": 1,
-          "status": "pending",
-          "chapter": "AKC",
-          "topic": "JEE Main 2022 (Online) 26th June Evening Shift",
-          "examSource": "JEE"
-        },
-        {
           "uuid": "144099b3-7c87-4003-ab9d-9b45d9f1f0c4",
           "question": "Regarding the chemical properties of primary amines, which of the following statements is incorrect?",
           "question_image_url": null,
@@ -869,6 +850,25 @@
           "status": "accepted",
           "chapter": "BIO",
           "topic": "JEE Main 2025 (Online) 28th January Evening Shift"
+        },
+        {
+          "uuid": "e2a6ae3b15b4",
+          "question": "The final product 'A' in the following reaction sequence",
+          "question_image_url": "https://lh3.googleusercontent.com/d/1tNflYYrFtEnuHf2BU1IwkxqaEaGwd5vX=w1200",
+          "option_a": "",
+          "option_a_image_url": "https://lh3.googleusercontent.com/d/1Oc9WKvRj9tlIHMZDAJ-owQjn2pYC5IXG=w1100",
+          "option_b": "",
+          "option_b_image_url": "https://lh3.googleusercontent.com/d/1RTgeYgFcsfQMBtOqQ5lWN-y7j-Dcpmb5=w1131",
+          "option_c": "",
+          "option_c_image_url": "https://lh3.googleusercontent.com/d/14ttO16WKwq5gHomf4iuTokw8QWTf5A1D=w1112",
+          "option_d": "",
+          "option_d_image_url": "https://lh3.googleusercontent.com/d/1eTsCAsmVPIf_ivKMbnXcZP8g8WM4aF-n=w1077",
+          "answer": "A",
+          "division": 1,
+          "status": "pending",
+          "chapter": "AKC",
+          "topic": "JEE Main 2022 (Online) 26th June Evening Shift",
+          "examSource": "JEE"
         }
       ]
     },
@@ -1462,6 +1462,6 @@
     "testType": "Full",
     "description": "Full Syllabus Test 12 (Duplicate of Test 05)",
     "createdAt": "2026-01-13T17:52:24.130Z",
-    "lastModified": "2026-02-13T21:58:08.008Z"
+    "lastModified": "2026-02-14T22:17:26.050Z"
   }
 }
