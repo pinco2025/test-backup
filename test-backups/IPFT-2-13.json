@@ -1,6 +1,6 @@
 {
   "testCode": "IPFT-2-13",
-  "backupTimestamp": "2026-02-13T21:06:05.512Z",
+  "backupTimestamp": "2026-02-14T22:17:52.819Z",
   "status": "completed",
   "completionPercentage": 100,
   "currentStep": "test-review",
@@ -772,7 +772,7 @@
         },
         {
           "uuid": "e766910dd804",
-          "question": "Identify D in the following sequence of reactions:",
+          "question": "Identify D in the following sequence of reactions:\n\n$$\\text{CH}_3\\text{CH}_2\\text{OH} \\xrightarrow{\\text{P} + \\text{I}_2} \\text{A} \\xrightarrow[\\text{dry ether}]{\\text{Mg}} \\text{B} \\xrightarrow{\\text{HCHO}} \\text{C} \\xrightarrow{\\text{H}_2\\text{O}} \\text{D (major)}$$",
           "question_image_url": "",
           "option_a": "n-propyl alcohol",
           "option_a_image_url": "",
@@ -810,16 +810,16 @@
         },
         {
           "uuid": "9d91703091f9",
-          "question": "The product ($\\mathrm{P}$) formed from the following multistep reaction is:",
+          "question": "The product $(\\text{P})$ formed from the following multistep reaction is:\n\n$$\\text{p-methylnitrobenzene} \\xrightarrow[\\text{(iii) NaNO}_2/\\text{HCl, 0}^\\circ\\text{C}, \\text{ (iv) H}_3\\text{PO}_2]{\\text{(i) Br}_2, \\text{ (ii) H}_2/\\text{Pd}} (\\text{P})$$",
           "question_image_url": "",
           "option_a": "",
-          "option_a_image_url": "",
+          "option_a_image_url": "https://lh3.googleusercontent.com/d/1egJCmtzRwKPWfFXmT2_Zx6WAJiDeA5I7=w1160",
           "option_b": "",
-          "option_b_image_url": "",
+          "option_b_image_url": "https://lh3.googleusercontent.com/d/175v9h7gGROgk8gV20KFHeGSA4B2tGLCT=w1153",
           "option_c": "",
-          "option_c_image_url": "",
+          "option_c_image_url": "https://lh3.googleusercontent.com/d/1CfaiHxe5CgMiHI_cbVFWZY7dYcxgRdEA=w1134",
           "option_d": "",
-          "option_d_image_url": "",
+          "option_d_image_url": "https://lh3.googleusercontent.com/d/1EgHM7DOpiKLxz-BtNAmBfeyvgTrNrSxn=w1142",
           "answer": "A",
           "division": 1,
           "status": "pending",
@@ -1440,6 +1440,6 @@
     "testType": "Full",
     "description": "Full Syllabus Test 13 (Duplicate of Test 07)",
     "createdAt": "2026-01-13T17:52:24.130Z",
-    "lastModified": "2026-02-13T21:06:05.512Z"
+    "lastModified": "2026-02-14T22:17:52.819Z"
   }
 }
