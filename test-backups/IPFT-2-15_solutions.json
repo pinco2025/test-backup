@@ -1,12 +1,17 @@
 {
   "testId": "IPFT-2-15",
   "testCode": "IPFT-2-15",
-  "backupTimestamp": "2026-02-13T21:06:10.225Z",
+  "backupTimestamp": "2026-02-14T22:17:28.137Z",
   "solutions": [
     {
       "uuid": "04a8195204f0",
       "solution_text": "$\\pmb{\\text{Step 1: Write the Equation for Retardation}}$\n\nGiven that retardation is proportional to displacement ($x$):\n$$a = -kx$$\nwhere $k$ is a positive constant.\n\n$\\pmb{\\text{Step 2: Express Acceleration in Terms of Velocity and Displacement}}$\n\n\n\nWe know that acceleration $a$ can be written as:\n$$a = v \\frac{dv}{dx}$$\nEquating the two expressions:\n$$v \\frac{dv}{dx} = -kx \\implies v \\, dv = -kx \\, dx$$\n\n$\\pmb{\\text{Step 3: Integrate to Find Change in Velocity}}$\n\nIntegrating both sides from initial velocity $v_1$ to final velocity $v_2$ and displacement $0$ to $x$:\n$$\\int_{v_1}^{v_2} v \\, dv = -k \\int_{0}^{x} x \\, dx$$\n$$\\left[ \\frac{v^2}{2} \\right]_{v_1}^{v_2} = -k \\left[ \\frac{x^2}{2} \\right]_{0}^{x}$$\n$$\\frac{1}{2}(v_2^2 - v_1^2) = -\\frac{kx^2}{2}$$\n\n$\\pmb{\\text{Step 4: Relate to Kinetic Energy}}$\n\nMultiply both sides by mass $m$:\n$$\\frac{1}{2}m(v_2^2 - v_1^2) = -\\frac{mkx^2}{2}$$\n$$\\Delta K = -\\left(\\frac{mk}{2}\\right)x^2$$\n\nThe loss of kinetic energy ($-\\Delta K$) is:\n$$\\text{Loss in K.E.} = \\left(\\frac{mk}{2}\\right)x^2$$\n\nThus, $\\text{Loss in K.E.} \\propto x^2$.\n\nTherefore, the correct answer is $\\boxed{C}$.",
       "solution_image_url": ""
+    },
+    {
+      "uuid": "04f36cdc0dee",
+      "solution_text": "",
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1oQNzDLFgLllm7fZ2Bs3CWPULLW52NZ8X=w1184"
     },
     {
       "uuid": "0755b9daf94b",
@@ -34,9 +39,19 @@
       "solution_image_url": ""
     },
     {
+      "uuid": "49bb05746e9f",
+      "solution_text": "$\\pmb{\\text{Factors Affecting Nucleophilic Addition:}}$\n\n- $\\pmb{\\text{Steric Hindrance:}}$ The presence of bulky groups around the carbonyl carbon hinders the approach of the nucleophile. Aldehydes (having one hydrogen) are generally more reactive than ketones (having two alkyl groups).\n\n- $\\pmb{\\text{Electronic Factors (+I effect):}}$ Alkyl groups are electron-donating. They increase the electron density on the carbonyl carbon, thereby reducing its electrophilicity and reactivity toward nucleophiles.\n\n- $\\pmb{\\text{Resonance Effect:}}$ In aromatic aldehydes like benzaldehyde, the lone pairs from the benzene ring undergo resonance with the carbonyl group. This delocalization reduces the positive charge on the carbonyl carbon.\n\n\n\n$\\pmb{\\text{Analysis of Given Compounds:}}$\n\n$$\\begin{array}{|l|l|l|} \\hline \\pmb{\\text{Compound}} & \\pmb{\\text{Category}} & \\pmb{\\text{Electronic/Steric Environment}} \\\\ \\hline \\text{Propanal} & \\text{Aliphatic Aldehyde} & \\text{Least hindrance, minimal +I effect.} \\\\ \\hline \\text{Benzaldehyde} & \\text{Aromatic Aldehyde} & \\text{Resonance stabilized, less reactive than propanal.} \\\\ \\hline \\text{Propanone} & \\text{Aliphatic Ketone} & \\text{Two methyl groups (+I and steric bulk).} \\\\ \\hline \\text{Butanone} & \\text{Aliphatic Ketone} & \\text{One methyl and one ethyl group (Highest bulk).} \\\\ \\hline \\end{array}$$\n\n$\\pmb{\\text{Comparison and Conclusion:}}$\n\n- $\\pmb{\\text{Aldehydes vs Ketones:}}$ Propanal and Benzaldehyde are more reactive than Propanone and Butanone.\n- $\\pmb{\\text{Between Aldehydes:}}$ Propanal is more reactive than Benzaldehyde because resonance in Benzaldehyde reduces the electrophilicity of the carbonyl carbon.\n- $\\pmb{\\text{Between Ketones:}}$ Propanone is more reactive than Butanone because the ethyl group in butanone provides more steric hindrance and a stronger +I effect than a methyl group.\n\n$$\\text{Increasing Order: Butanone < Propanone < Benzaldehyde < Propanal}$$\n\nCorrect Answer: $\\boxed{B}$",
+      "solution_image_url": ""
+    },
+    {
       "uuid": "569446ae55fb",
       "solution_text": "$\\pmb{\\text{1. Setup and Geometry:}}$\nLet the length of the uniform iron bar be $L$ and its weight be $W = 12\\text{ kg}$. For a uniform bar, the weight acts at the geometric center (midpoint), which is at a distance of $L/2$ from the ground contact point.\n\n\n\n$\\pmb{\\text{2. Condition for Equilibrium:}}$\nTo find the force $R$ experienced by the man, we calculate the net torque about the point of contact on the ground (pivot). In static equilibrium, the sum of clockwise torques must equal the sum of counter-clockwise torques:\n$$\\sum \\tau_{\\text{pivot}} = 0$$\n\n$\\pmb{\\text{3. Calculating Torques:}}$\n$\\bullet$ $\\pmb{\\text{Torque due to Weight (Clockwise):}}$ The perpendicular distance from the pivot to the line of action of the weight is $\\frac{L}{2} \\cos(60^{\\circ})$.\n$$\\tau_W = W \\times \\frac{L}{2} \\cos(60^{\\circ})$$\n\n$\\bullet$ $\\pmb{\\text{Torque due to Reaction Force (Counter-clockwise):}}$ Assuming the contact at the shoulder is frictionless, the reaction force $R$ acts perpendicular to the bar at a distance $L$ from the pivot.\n$$\\tau_R = R \\times L$$\n\n$\\pmb{\\text{4. Solving for R:}}$\nEquating the torques:\n$$R \\times L = W \\times \\frac{L}{2} \\cos(60^{\\circ})$$\n$$R = \\frac{W}{2} \\cos(60^{\\circ})$$\n$$R = \\frac{12}{2} \\times \\frac{1}{2}$$\n$$R = 6 \\times 0.5 = 3\\text{ kg}$$\n\n$\\pmb{\\text{Conclusion:}}$\nThe weight experienced by the man (the reaction force) is $\\boxed{3\\text{ kg}}$.",
       "solution_image_url": "https://lh3.googleusercontent.com/d/1_UMb2VDK_3gBKfaAnD50gobqeQKUnkkt=w1081"
+    },
+    {
+      "uuid": "5ecf949f14d4",
+      "solution_text": "",
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1T40xldW3SM3Y3Pm6PqCq7Z-52fC83Yf0=w1112"
     },
     {
       "uuid": "626d0fe0ef86",
@@ -100,7 +115,7 @@
     },
     {
       "uuid": "444e8b47c8e9",
-      "solution_text": "At STP condition substitution at sp$^{2}$ carbon atom is not feasible.",
+      "solution_text": "$\\pmb{\\text{Analysis of Reaction Sequences:}}$\n\n- $\\pmb{\\text{Option A (Dow's Process):}}$ Chlorobenzene is converted to phenol by heating with $NaOH$ at $623K$ and $300$ atm. These drastic conditions are required to overcome the low reactivity of aryl halides toward nucleophilic substitution.\n\n- $\\pmb{\\text{Option B (From Aniline):}}$ Aniline reacts with nitrous acid ($NaNO_2 + HCl$) at low temperatures to form benzene diazonium chloride. Warming this salt with water results in hydrolysis to phenol.\n\n- $\\pmb{\\text{Option C (From Cumene):}}$ Cumene is oxidized by air to cumene hydroperoxide, which is then acidified to yield phenol and acetone as a valuable byproduct.\n\n- $\\pmb{\\text{Option D (Simple Hydrolysis):}}$ Chlorobenzene does not react with aqueous $NaOH$ at $298K$ (room temperature). The $C-Cl$ bond has partial double bond character due to resonance, making substitution at the $sp^2$ carbon difficult.\n\n$\\pmb{\\text{Summary of Methods:}}$\n\n$$\\begin{array}{|l|l|c|} \\hline \\pmb{\\text{Method Name}} & \\pmb{\\text{Starting Material}} & \\pmb{\\text{Feasibility at 298K}} \\\\ \\hline \\text{Dow's Process} & \\text{Chlorobenzene} & \\text{No (Needs high } T, P) \\\\ \\hline \\text{Diazotization} & \\text{Aniline} & \\text{Yes (via Intermediate)} \\\\ \\hline \\text{Cumene Process} & \\text{Cumene} & \\text{Yes (via Peroxide)} \\\\ \\hline \\text{Direct Substitution} & \\text{Chlorobenzene} & \\pmb{\\text{Impossible}} \\\\ \\hline \\end{array}$$\n\n$\\pmb{\\text{Conclusion:}}$\nNucleophilic substitution on an unactivated aryl halide is not feasible under standard conditions. Thus, Option D is the incorrect method.\n\nCorrect Answer: $\\boxed{D}$",
       "solution_image_url": ""
     },
     {
@@ -120,12 +135,7 @@
     },
     {
       "uuid": "e9330889a2fc",
-      "solution_text": "S$_{N}$2 mechanism is followed in case of\nprimary and secondary halides i.e., S$_{N}$2 reaction\nis favoured by small groups on the carbon atom\nattached to halogens so\nCH$_{3}$\n– X > R – CH$_{2}$\n– X > R$_{2}$CH – X > R$_{3}$C – X",
-      "solution_image_url": ""
-    },
-    {
-      "uuid": "85b1c284ec24",
-      "solution_text": "Aldehydes which contain $ \\alpha $-hydrogen on a saturated carbon, i.e. $ \\mathrm{CH}_{3} \\mathrm{CH}_{2} \\mathrm{CHO} $ will undergo aldol condensation.\nAlthough $ \\mathrm{CH}_{2}=\\stackrel{\\alpha}{\\mathrm{C}} \\mathrm{H}-\\mathrm{CHO} $ also contain a $ \\alpha $-hydrogen atom but cannot be easily abstracted by a base to form a carbanion and hence does not undergo aldol condensation.",
+      "solution_text": "$\\pmb{\\text{Theoretical Analysis:}}$\n\nThe $S_N2$ (Substitution Nucleophilic Bimolecular) mechanism proceeds via a backside attack of the nucleophile on the carbon atom bonded to the leaving group. The reaction rate is primarily governed by $\\textbf{steric hindrance}$ at the reaction center.\n\n$\\pmb{\\text{Comparison of Substrates:}}$\n\n- $\\textbf{Option B (Ethyl Bromide):}$ $\\text{CH}_3\\text{CH}_2\\text{Br}$ is a primary ($1^\\circ$) alkyl halide with minimal steric bulk, allowing for the fastest nucleophilic approach.\n\n- $\\textbf{Option C (n-Propyl Bromide):}$ $\\text{CH}_3\\text{CH}_2\\text{CH}_2\\text{Br}$ is also $1^\\circ$, but the slightly longer chain increases the steric footprint compared to the ethyl group.\n\n- $\\textbf{Option A (Isobutyl Bromide):}$ $\\text{(CH}_3\\text{)}_2\\text{CHCH}_2\\text{Br}$ is a $1^\\circ$ halide with a branch at the $\\beta$-carbon, which significantly slows down the reaction.\n\n- $\\textbf{Option D (Neopentyl Bromide):}$ $\\text{(CH}_3\\text{)}_3\\text{CCH}_2\\text{Br}$ is extremely hindered due to three methyl groups on the $\\beta$-carbon, making $S_N2$ nearly impossible.\n\n$\\pmb{\\text{Reactivity Order (Array Representation):}}$\n\n$$\\begin{array}{|l|l|} \\hline \\textbf{Alkyl Group} & \\textbf{Relative Rate Preference} \\\\ \\hline \\text{Methyl} & \\text{Highest} \\\\ \\hline \\text{Ethyl (B)} & \\text{High} \\\\ \\hline \\text{n-Propyl (C)} & \\text{Moderate} \\\\ \\hline \\text{Isobutyl (A)} & \\text{Low} \\\\ \\hline \\text{Neopentyl (D)} & \\text{Lowest} \\\\ \\hline \\end{array}$$\n\nTherefore, $\\textbf{Ethyl bromide}$ has the highest relative rate among the given choices.\n\nCorrect Answer: $\\boxed{B}$",
       "solution_image_url": ""
     },
     {
