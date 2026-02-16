@@ -1,7 +1,7 @@
 {
   "testId": "IPFT-2-10",
   "testCode": "IPFT-2-10",
-  "backupTimestamp": "2026-02-12T14:47:39.765Z",
+  "backupTimestamp": "2026-02-16T00:00:54.041Z",
   "solutions": [
     {
       "uuid": "088b11c74070",
@@ -27,6 +27,11 @@
       "uuid": "85a1f2091b8e",
       "solution_text": "$\\pmb{\\text{Data Given:}}$\n$C = 500 \\times 10^{-6}\\text{ F}$\n$V = 100\\text{ V}$\n$L = 50 \\times 10^{-3}\\text{ H}$\n\n$\\pmb{\\text{Maximum Charge:}}$\n$$q_{\\max} = CV = 500 \\times 10^{-6} \\times 100 = 5 \\times 10^{-2}\\text{ C}$$\n\n\n\n$\\pmb{\\text{Energy Conservation:}}$\n$$\\frac{1}{2}LI_{\\max}^2 = \\frac{q_{\\max}^2}{2C}$$\n$$I_{\\max} = \\frac{q_{\\max}}{\\sqrt{LC}}$$\n\n$\\pmb{\\text{Calculation:}}$\n$$I_{\\max} = \\frac{5 \\times 10^{-2}}{\\sqrt{50 \\times 10^{-3} \\times 500 \\times 10^{-6}}}$$\n$$I_{\\max} = \\frac{5 \\times 10^{-2}}{\\sqrt{25 \\times 10^{-6}}}$$\n$$I_{\\max} = \\frac{5 \\times 10^{-2}}{5 \\times 10^{-3}}$$\n$$I_{\\max} = 10\\text{ A}$$\n\n$\\pmb{\\text{Result:}}$\n$$\\text{Maximum current} = \\boxed{10}\\text{ A}$$",
       "solution_image_url": "https://lh3.googleusercontent.com/d/1VW-hAhiu3tnf8XFfhQtccVtyBw2V5ZAV=w1169"
+    },
+    {
+      "uuid": "98bf54403a1f",
+      "solution_text": "",
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1Bui8dqLIle2KGmjag7Rryw4W9ifL3QWd=w1142"
     },
     {
       "uuid": "9f890c306f08",
@@ -60,7 +65,7 @@
     },
     {
       "uuid": "cb9ae71333b3",
-      "solution_text": "$\\pmb{\\text{Step 1: Identify Functional Groups in each Drug}}$\n\n$$\\begin{array}{|l|l|l|} \\hline \\text{Drug} & \\text{Functional Groups Present} & \\text{Relevant Chemical Test} \\\\ \\hline \\text{(A) Chloroxylenol} & \\text{Phenolic hydroxyl group (-OH)} & \\text{Neutral } \\mathrm{FeCl}_3 \\text{ Test (R)} \\\\ \\hline \\text{(B) Norethindrone} & \\text{Carbon-Carbon triple bond (alkyne)} & \\text{Bayer's Test (S)} \\\\ \\hline \\text{(C) Sulphapyridine} & \\text{Primary aromatic amine (-NH}_2) & \\text{Carbylamine Test (P)} \\\\ \\hline \\text{(D) Penicillin} & \\text{Carboxylic acid group (-COOH)} & \\mathrm{NaHCO}_3 \\text{ Test (Q)} \\\\ \\hline \\end{array}$$\n\n\n\n$\\pmb{\\text{Step 2: Analysis of Chemical Tests}}$\n\n$\\bullet \\ \\pmb{\\text{(A) Chloroxylenol:}}$ As a derivative of phenol, it contains a phenolic -OH group which reacts with $\\pmb{\\text{neutral Ferric Chloride}}$ to produce a characteristic violet coloration.\n\n$\\bullet \\ \\pmb{\\text{(B) Norethindrone:}}$ This synthetic progestin contains an ethynyl group (terminal alkyne). Unsaturated carbon-carbon bonds (double or triple) decolorize $\\pmb{\\text{Bayer's reagent}}$ (alkaline $\\mathrm{KMnO}_4$).\n\n$\\bullet \\ \\pmb{\\text{(C) Sulphapyridine:}}$ It contains a primary aromatic amine group. When heated with chloroform and alcoholic $\\mathrm{KOH}$, it undergoes the $\\pmb{\\text{Carbylamine reaction}}$ to form a foul-smelling isocyanide.\n\n\n\n$\\bullet \\ \\pmb{\\text{(D) Penicillin:}}$ The general structure of penicillin contains a free $\\pmb{\\text{carboxylic acid group}}$ which reacts with sodium hydrogen carbonate ($\\mathrm{NaHCO}_3$) to release $\\mathrm{CO}_2$ gas with brisk effervescence.\n\n\n\n$\\pmb{\\text{Conclusion:}}$\n\nThe correct matching is (A)-(R), (B)-(S), (C)-(P), (D)-(Q).\n\nThe correct answer is $\\pmb{\\text{Option C}}$.",
+      "solution_text": "The matching is based on characteristic functional group tests:\n\n$$\\begin{array}{|l|l|l|} \n\\hline \n\\mathbf{Pair} & \\mathbf{Test} & \\mathbf{Observation} \\\\\n\\hline \nA \\to Q & \\text{Ninhydrin Test} & \\text{Purple color (amino acids)} \\\\\n\\hline \nB \\to P & \\text{Molisch/Condensation} & \\text{Colored product (furfural)} \\\\\n\\hline \nC \\to S & \\text{CAN Test} & \\text{Pink/Red color (alcohols)} \\\\\n\\hline \nD \\to R & \\text{Baeyer's Test} & \\text{Decolorization (unsaturation)} \\\\\n\\hline \n\\end{array}$$\n\n$\\bullet$ $\\pmb{A \\to Q:}$ Lysine is an $\\alpha$-amino acid, giving a positive Ninhydrin test.\n\n$\\bullet$ $\\pmb{B \\to P:}$ Furfural reacts with 1-naphthol to form a colored dye.\n\n$\\bullet$ $\\pmb{C \\to S:}$ Benzyl alcohol reacts with Ceric Ammonium Nitrate (CAN) to form a red complex.\n\n$\\bullet$ $\\pmb{D \\to R:}$ Styrene ($C_6H_5CH=CH_2$) decolorizes $KMnO_4$ due to its double bond.\n\nTherefore, the correct option is \\textbf{B}.",
       "solution_image_url": ""
     },
     {
@@ -105,8 +110,8 @@
     },
     {
       "uuid": "d90b32ea63ef",
-      "solution_text": "In the cleavage of mixed ethers with two different alkyl groups, the alcohol and alkyl iodide that form depend on the nature of alkyl group. When primary or secondary alkyl groups are present, it is the lower alkyl group that forms alkyl iodide therefore",
-      "solution_image_url": ""
+      "solution_text": "$\\text{The reaction involves the cleavage of an unsymmetrical ether by a hydrogen halide (HI).}$ \n\n$\\text{The mechanism and products are determined by the following rules:}$ \n\n$$\\begin{array}{|l|l|} \n\\hline \n\\textbf{Nature of Alkyl Groups} & \\textbf{Reaction Mechanism and Product} \\\\ \n\\hline \n\\text{Primary or Secondary} & S_N2 \\text{ mechanism; I}^- \\text{ attacks the smaller alkyl group.} \\\\ \n\\hline \n\\text{Tertiary} & S_N1 \\text{ mechanism; I}^- \\text{ attacks the tertiary carbon.} \\\\ \n\\hline \n\\end{array}$$\n\n$\\text{Analysis of the given reaction:}$ \n\n$\\bullet \\text{ The ether is ethyl isobutyl ether.}$ \n\n$\\bullet \\text{ Both alkyl groups, ethyl (primary) and isobutyl (primary), are sterically different.}$ \n\n$\\bullet \\text{ Since both are primary, the reaction follows an } S_N2 \\text{ pathway. In } S_N2\\text{, the nucleophile (I}^-\\text{) attacks the less sterically hindered carbon.}$ \n\n$\\bullet \\text{ The ethyl group (CH}_3\\text{CH}_2\\text{-) is less hindered than the isobutyl group [(CH}_3\\text{)}_2\\text{CHCH}_2\\text{-].}$ \n\n$\\bullet \\text{ Therefore, the iodide ion attacks the ethyl group to form ethyl iodide (CH}_3\\text{CH}_2\\text{I), and the isobutyl group forms the alcohol (isobutyl alcohol).}$ \n\n$\\text{Hence, the correct option is \\textbf{C}.}$",
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1gKtred_jIGn-9Mhyvm1dhKWbEntgpzMB=w1200"
     },
     {
       "uuid": "86ca43142532",
