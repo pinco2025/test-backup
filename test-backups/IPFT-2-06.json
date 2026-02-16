@@ -1,6 +1,6 @@
 {
   "testCode": "IPFT-2-06",
-  "backupTimestamp": "2026-02-09T22:05:08.628Z",
+  "backupTimestamp": "2026-02-16T00:01:07.957Z",
   "status": "completed",
   "completionPercentage": 100,
   "currentStep": "test-review",
@@ -766,13 +766,13 @@
           "question": "Which of the following compounds undergoes nucleophilic substitution reaction most easily?",
           "question_image_url": "",
           "option_a": "",
-          "option_a_image_url": "",
+          "option_a_image_url": "https://lh3.googleusercontent.com/d/1CfeAZVrjzpKvB4I_YQ9GYs1B9P6eUJMa=w1185",
           "option_b": "",
-          "option_b_image_url": "",
+          "option_b_image_url": "https://lh3.googleusercontent.com/d/10Jm14qXq6Gm_ATjHD8qs5vQefmSTT77h=w1200",
           "option_c": "",
-          "option_c_image_url": "",
+          "option_c_image_url": "https://lh3.googleusercontent.com/d/1HBBpIQ-EzhdDQPUrE6HDCYMuqPvhiJtu=w1149",
           "option_d": "",
-          "option_d_image_url": "",
+          "option_d_image_url": "https://lh3.googleusercontent.com/d/1c06o42JtEgBvYNDXAd65NFcvxsEsJDV9=w1172",
           "answer": "A",
           "division": 1,
           "status": "pending",
@@ -782,7 +782,7 @@
         },
         {
           "uuid": "3bbbc2eb2873",
-          "question": "The increasing order of $$\\mathrm{pK_a}$$ for the following phenols is\n(A) 2, 4 - Dinitrophenol\n(B) 4 - Nitrophenol\n(C) 2, 4, 5 - Trimethylphenol\n(D) Phenol\n(E) 3-Chlorophenol\nChoose the correct answer from the option given below :",
+          "question": "The increasing order of $pK_a$ for the following phenols is:\n(A) 2, 4 - Dinitrophenol\n(B) 4 - Nitrophenol\n(C) 2, 4, 5 - Trimethylphenol\n(D) Phenol\n(E) 3-Chlorophenol\n\nChoose the correct answer from the options given below:",
           "question_image_url": "",
           "option_a": "(A), (E), (B), (D), (C)",
           "option_a_image_url": "",
@@ -802,18 +802,18 @@
         {
           "uuid": "6ac70857bd9c",
           "question": "Compound C is",
-          "question_image_url": "",
+          "question_image_url": "https://lh3.googleusercontent.com/d/1EBa7Xu2f3am97wS4Mxukffs00DOd0hS1=w1200",
           "option_a": "",
-          "option_a_image_url": "",
+          "option_a_image_url": "https://lh3.googleusercontent.com/d/1CGX4o_c5TrCj-96_3QpwLstgt7I4mbNh=w1163",
           "option_b": "",
-          "option_b_image_url": "",
+          "option_b_image_url": "https://lh3.googleusercontent.com/d/1CADVtzZRz4wmX_J2Yhpg7sz5Za5YqiRR=w1143",
           "option_c": "",
-          "option_c_image_url": "",
+          "option_c_image_url": "https://lh3.googleusercontent.com/d/1NHn1L6h_TV0gGkIyvRNMs_AFD68NZcSM=w1155",
           "option_d": "",
-          "option_d_image_url": "",
+          "option_d_image_url": "https://lh3.googleusercontent.com/d/1nblyx8xpEp82TYSV2VqTWwumM6WmH_an=w1128",
           "answer": "C",
           "division": 1,
-          "status": "pending",
+          "status": "accepted",
           "chapter": "AKC",
           "topic": "BITSAT 2020",
           "examSource": "BITS"
@@ -1430,6 +1430,6 @@
     "testType": "Full",
     "description": "Full Syllabus Test 6",
     "createdAt": "2026-01-13T17:52:24.130Z",
-    "lastModified": "2026-02-09T22:05:08.629Z"
+    "lastModified": "2026-02-16T00:01:07.957Z"
   }
 }
