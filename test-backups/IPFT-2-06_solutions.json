@@ -1,12 +1,12 @@
 {
   "testId": "IPFT-2-06",
   "testCode": "IPFT-2-06",
-  "backupTimestamp": "2026-02-09T22:05:08.648Z",
+  "backupTimestamp": "2026-02-16T00:01:10.362Z",
   "solutions": [
     {
       "uuid": "3bbbc2eb2873",
-      "solution_text": "Order of acidity for following phenol is A > B > E > D > C.\n- M and – I increases acidity.\n+ M and + I decreases acidity.\n$$ \\therefore $$ Their pK$_{a}$ value is A < B < E < D < C.",
-      "solution_image_url": ""
+      "solution_text": "$\\pmb{\\text{Acidity vs. } pK_a \\text{ Relationship:}}$\nThe acidity of a compound is inversely proportional to its $pK_a$ value. A $\\pmb{\\text{stronger acid}}$ has a $\\pmb{\\text{lower } pK_a}$.\n\n$\\pmb{\\text{Electronic Effects on Phenols:}}$\n1. $\\pmb{\\text{Electron Withdrawing Groups (EWG):}}$ Groups like $-\\text{NO}_2$ ($-M, -I$) and $-\\text{Cl}$ ($-I$) stabilize the phenoxide ion, increasing acidity and $\\pmb{\\text{decreasing } pK_a}$.\n2. $\\pmb{\\text{Electron Donating Groups (EDG):}}$ Groups like $-\\text{CH}_3$ ($+I$, hyperconjugation) destabilize the phenoxide ion, decreasing acidity and $\\pmb{\\text{increasing } pK_a}$.\n\n$\\pmb{\\text{Ranking by Acidity:}}$\n$\\bullet$ $\\pmb{\\text{(A) 2, 4-Dinitrophenol:}}$ Two strong $-\\text{NO}_2$ groups (at ortho and para) make it the most acidic.\n$\\bullet$ $\\pmb{\\text{(B) 4-Nitrophenol:}}$ One strong $-\\text{NO}_2$ group at the para position.\n$\\bullet$ $\\pmb{\\text{(E) 3-Chlorophenol:}}$ Chlorine at meta position exerts a $-I$ effect.\n$\\bullet$ $\\pmb{\\text{(D) Phenol:}}$ Reference compound.\n$\\bullet$ $\\pmb{\\text{(C) 2, 4, 5-Trimethylphenol:}}$ Three methyl groups ($+I$) significantly reduce acidity.\n\n\n\n$\\pmb{\\text{Order of Acidity:}}$ $A > B > E > D > C$\n\n$\\pmb{\\text{Order of Increasing } pK_a:}$\nSince the order is reversed for $pK_a$, the correct sequence is:\n$$\\boxed{A < B < E < D < C}$$",
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1wCHdSGEbZz03FOVpvEJSmOKhR6e0DiDu=w1169"
     },
     {
       "uuid": "458875ea0a2b",
@@ -65,7 +65,7 @@
     },
     {
       "uuid": "14cd24e35377",
-      "solution_text": "Electron withdrawing group like -NO$_{2}$ facilitates nucleophilic substitution reaction in chlorobenzene.",
+      "solution_text": "$\\pmb{\\text{Reactivity in Nucleophilic Aromatic Substitution (S}_{N}\\text{Ar):}}$\n\nChlorobenzene is generally inert to nucleophilic substitution under ordinary conditions due to the partial double bond character of the $\\text{C}-\\text{Cl}$ bond and electronic repulsion from the $\\pi$-electron cloud. However, the presence of certain groups on the ring can significantly alter this reactivity:\n\n1.  $\\pmb{\\text{Electron Withdrawing Groups (EWG):}}$ Groups like $-\\text{NO}_{2}$ exert a strong $\\pmb{\\text{-R (resonance)}}$ and $\\pmb{\\text{-I (inductive) effect}}$. When present at $\\pm b{\\text{ortho}}$ or $\\pm b{\\text{para}}$ positions, they stabilize the anionic intermediate (Meisenheimer complex) by withdrawing electron density away from the ring.\n    \n\n2.  $\\pmb{\\text{Electron Donating Groups (EDG):}}$ Groups like $-\\text{CH}_{3}$ (via hyperconjugation and $+I$) and $-\\text{OCH}_{3}$ (via $+R$) increase electron density on the ring. This destabilizes the transition state for nucleophilic attack, making the reaction $\\pmb{\\text{more difficult}}$.\n\n$\\pmb{\\text{Conclusion:}}$\n$\\bullet$ $\\pmb{\\text{Option A (4-nitrochlorobenzene):}}$ Contains the strong EWG $-\\text{NO}_{2}$ at the para position, facilitating the easiest substitution.\n$\\bullet$ $\\pmb{\\text{Option B and C:}}$ Contain EDGs ($-\\text{CH}_{3}$ and $-\\text{OCH}_{3}$ respectively), which deactivate the ring toward nucleophilic attack.\n$\\bullet$ $\\pmb{\\text{Option D:}}$ Is the unsubstituted reference with low reactivity.\n\nTherefore, the compound in $\\pmb{\\text{Option A}}$ undergoes nucleophilic substitution most easily.",
       "solution_image_url": ""
     },
     {
@@ -75,8 +75,8 @@
     },
     {
       "uuid": "6ac70857bd9c",
-      "solution_text": "Right answer is $d$ because after heating $(\\Delta)$, dcarboxylation occurs.",
-      "solution_image_url": ""
+      "solution_text": "Right answer is $C$ because after heating $(\\Delta)$, dcarboxylation occurs.",
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1g86mlqSIwxVOa-wtE1fm3qqWa-EfMRlR=w1200"
     },
     {
       "uuid": "00ea8ca2-ff4a-462e-89ef-0454b2887bcd",
