@@ -1,12 +1,12 @@
 {
   "testId": "IPFT-2-09",
   "testCode": "IPFT-2-09",
-  "backupTimestamp": "2026-02-12T08:35:22.647Z",
+  "backupTimestamp": "2026-02-16T00:00:57.483Z",
   "solutions": [
     {
       "uuid": "19cd0ff4e3ce",
       "solution_text": "$\\textbf{1. Find the coordinates of the Vertex (V) and Focus (F):}$\nSince the axis is $y = x$, any point on it is of the form $(a, a)$.\n- For Vertex $V$: Distance from origin is $\\sqrt{a^2 + a^2} = a\\sqrt{2} = \\sqrt{2} \\implies a = 1$. So, $V = (1, 1)$.\n- For Focus $F$: Distance from origin is $b\\sqrt{2} = 2\\sqrt{2} \\implies b = 2$. So, $F = (2, 2)$.\n\n$\\textbf{2. Find the Equation of the Directrix:}$\nThe directrix is perpendicular to the axis $y = x$ (slope $m = 1$), so its slope is $-1$. \nThe distance from the focus to the vertex is equal to the distance from the vertex to the directrix. Let the directrix intersect the axis at point $Z$. \nSince $V(1, 1)$ is the midpoint of $FZ$, and $F$ is $(2, 2)$, $Z$ must be $(0, 0)$.\nEquation of directrix passing through $(0, 0)$ with slope $-1$: \n$$y - 0 = -1(x - 0) \\implies x + y = 0$$\n\n$\\textbf{3. Apply the Definition of a Parabola:}$\nA point $P(x, y)$ on the parabola satisfies $PF = PM$, where $M$ is the foot of the perpendicular from $P$ to the directrix.\nFor $P(1, k)$:\n- $PF^2 = (1 - 2)^2 + (k - 2)^2 = 1 + (k - 2)^2$\n- $PM^2 = \\left( \\frac{|1 + k|}{\\sqrt{1^2 + 1^2}} \\right)^2 = \\frac{(1 + k)^2}{2}$\n\nSetting $PF^2 = PM^2$:\n$$1 + (k - 2)^2 = \\frac{(1 + k)^2}{2}$$\n$$2(1 + k^2 - 4k + 4) = 1 + 2k + k^2$$\n$$2k^2 - 8k + 10 = k^2 + 2k + 1$$\n$$k^2 - 10k + 9 = 0$$\n\n$\\textbf{4. Solve for } k:$\n$$(k - 9)(k - 1) = 0$$\n$$k = 9 \\text{ or } k = 1$$\n\nGiven the options, the possible value of $k$ is $9$.\n\n$\\textbf{Conclusion:}$ The correct option is $\\textbf{C}$.",
-      "solution_image_url": ""
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1Iud5RwSPtR8Mt2fmrx9x8_blTGDAxVBR=w1137"
     },
     {
       "uuid": "385bc4e5-f107-4443-b047-d6e07d8c3334",
