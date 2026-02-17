@@ -1,9 +1,9 @@
 {
   "testCode": "IPFT-2-04",
-  "backupTimestamp": "2026-02-16T00:20:58.320Z",
+  "backupTimestamp": "2026-02-17T12:16:01.322Z",
   "status": "completed",
   "completionPercentage": 100,
-  "currentStep": "edit-question",
+  "currentStep": "test-review",
   "sections": [
     {
       "name": "Physics",
@@ -744,36 +744,36 @@
           "examSource": "NEET"
         },
         {
-          "uuid": "c391adbaafc1",
-          "question": "(image) The major products A and B from the following reactions are:",
+          "uuid": "710bfeb5fd27",
+          "question": "Identify the major product C formed in the following reaction sequence :\n$$\n\\mathrm{CH}_3-\\mathrm{CH}_2-\\mathrm{CH}_2-\\mathrm{I} \\xrightarrow{\\mathrm{NaCN}} \\mathrm{A}\n$$\n$$\\mathrm{\\mathrel{\\mathop{\\kern0pt\\longrightarrow}\n\\limits_{Partial\\,hydrolysis}^{O{H^ - }}} B\\mathrel{\\mathop{\\kern0pt\\longrightarrow}\n\\limits_{B{r_2}}^{NaOH}} \\mathop C\\limits_{(major)}}$$",
           "question_image_url": "",
-          "option_a": "image",
+          "option_a": "propylamine",
           "option_a_image_url": "",
-          "option_b": "image",
+          "option_b": "butylamine",
           "option_b_image_url": "",
-          "option_c": "image",
+          "option_c": "butanamide",
           "option_c_image_url": "",
-          "option_d": "image",
+          "option_d": "$$\\alpha$$-bromobutanoic acid",
           "option_d_image_url": "",
-          "answer": "D",
+          "answer": "A",
           "division": 1,
           "status": "pending",
           "chapter": "HAH",
-          "topic": "Q32",
-          "examSource": "JEE"
+          "topic": "NEET 2024",
+          "examSource": "NEET"
         },
         {
           "uuid": "dc92acdc59b4",
           "question": "The structure of intermediate A in the following reaction, is :",
           "question_image_url": "https://lh3.googleusercontent.com/d/1c940x155Wz8CqYHvUtNneybIHZi8t-1F=w1137",
           "option_a": "",
-          "option_a_image_url": "",
+          "option_a_image_url": "https://lh3.googleusercontent.com/d/1FYwbGEGfjaIm0v9yz3lWk_kMhMSDrnCF=w1126",
           "option_b": "",
           "option_b_image_url": "https://lh3.googleusercontent.com/d/1RkRzHsirefQOts_RM27fWQpOFkEozcBz=w1142",
           "option_c": "",
-          "option_c_image_url": "",
+          "option_c_image_url": "https://lh3.googleusercontent.com/d/12TU9YGsaAYokW340OtYEpBIXkGDs1OIR=w1098",
           "option_d": "",
-          "option_d_image_url": "",
+          "option_d_image_url": "https://lh3.googleusercontent.com/d/1vpULOiBY0ur8OnB6GgWRpcTCQgsJgd1T=w1170",
           "answer": "B",
           "division": 1,
           "status": "pending",
@@ -1430,6 +1430,6 @@
     "testType": "Full",
     "description": "Full Syllabus Test 4",
     "createdAt": "2026-01-13T17:52:24.130Z",
-    "lastModified": "2026-02-16T00:20:58.320Z"
+    "lastModified": "2026-02-17T12:16:01.322Z"
   }
 }
