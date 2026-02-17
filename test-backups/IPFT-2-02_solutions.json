@@ -1,7 +1,7 @@
 {
   "testId": "IPFT-2-02",
   "testCode": "IPFT-2-02",
-  "backupTimestamp": "2026-02-07T21:49:10.452Z",
+  "backupTimestamp": "2026-02-17T12:15:57.345Z",
   "solutions": [
     {
       "uuid": "003c7b1fc596",
@@ -19,9 +19,19 @@
       "solution_image_url": ""
     },
     {
+      "uuid": "482a770f3fc2",
+      "solution_text": "This is an example of acid base reaction i.e. multiple cross aldol followed by cross Cannizaro reaction",
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1V5DH5B63RkKWYCTbuRBe8kd_K4wUzYog=w597"
+    },
+    {
       "uuid": "4e4e9d182500",
       "solution_text": "Historically, the systematic (IUPAC temporary) name \"Unnilunium\" was used for the element with the atomic number 101, which is now officially named Mendelevium. Thus,\n$ \\boxed{101} $",
       "solution_image_url": ""
+    },
+    {
+      "uuid": "650e1ee6404f",
+      "solution_text": "",
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1ZotH3vAkk8thaYYdpGlnmKgJY5wpt8Zo=w1168"
     },
     {
       "uuid": "8215092a475c",
@@ -35,7 +45,7 @@
     },
     {
       "uuid": "a76022836c06",
-      "solution_text": "\"solution_text\": \"$\\pmb{\\text{Step 1: Energy Conservation}}$\n\nLet point $A$ be the starting position on the hill and point $B$ be the highest point of the loop. The height of the hill relative to the top of the loop is given as $5\\text{ m}$.\n\n\n\nAccording to mechanical energy conservation between $A$ and $B$:\n$$mg(5) = 0 + \\frac{1}{2}mv^2$$\n$$v^2 = 10g$$\n\n$\\pmb{\\text{Step 2: Analysis of Forces at the Highest Point}}$\n\nAt the highest point of the loop, both the normal force ($N$) and the gravitational force ($mg$) act downwards toward the center of the circle, providing the necessary centripetal force.\n\nAccording to centripetal force equation:\n$$N + mg = \\frac{mv^2}{r}$$\n\n\n\n$\\pmb{\\text{Step 3: Condition for \\\\Normal Weight\\\\}}$\n\nFor the passengers to feel as if they have their normal weight, the normal force exerted by the seat must be equal to their actual weight. Thus, we set $N = mg$:\n$$mg + mg = \\frac{mv^2}{r}$$\n$$2mg = \\frac{mv^2}{r}$$\n\n$\\pmb{\\text{Step 4: Solving for Radius } r}$\n\nRearranging the equation to solve for $r$ and substituting the value of $v^2$ from Step 1:\n$$r = \\frac{v^2}{2g}$$\n$$r = \\frac{10g}{2g}$$\n$$r = 5\\text{ m}$$\n\nTherefore, the radius of the loop must be $\\boxed{5\\text{ m}}$.\"",
+      "solution_text": "$\\pmb{\\text{Step 1: Energy Conservation}}$\n\nLet point $A$ be the starting position on the hill and point $B$ be the highest point of the loop. The height of the hill relative to the top of the loop is given as $5\\text{ m}$.\n\n\n\nAccording to mechanical energy conservation between $A$ and $B$:\n$$mg(5) = 0 + \\frac{1}{2}mv^2$$\n$$v^2 = 10g$$\n\n$\\pmb{\\text{Step 2: Analysis of Forces at the Highest Point}}$\n\nAt the highest point of the loop, both the normal force ($N$) and the gravitational force ($mg$) act downwards toward the center of the circle, providing the necessary centripetal force.\n\nAccording to centripetal force equation:\n$$N + mg = \\frac{mv^2}{r}$$\n\n\n\n$\\pmb{\\text{Step 3: Condition for \\\\Normal Weight\\\\}}$\n\nFor the passengers to feel as if they have their normal weight, the normal force exerted by the seat must be equal to their actual weight. Thus, we set $N = mg$:\n$$mg + mg = \\frac{mv^2}{r}$$\n$$2mg = \\frac{mv^2}{r}$$\n\n$\\pmb{\\text{Step 4: Solving for Radius } r}$\n\nRearranging the equation to solve for $r$ and substituting the value of $v^2$ from Step 1:\n$$r = \\frac{v^2}{2g}$$\n$$r = \\frac{10g}{2g}$$\n$$r = 5\\text{ m}$$\n\nTherefore, the radius of the loop must be $\\boxed{5\\text{ m}}$.\"",
       "solution_image_url": "https://lh3.googleusercontent.com/d/1POeSueOfjXnODRiBtxPBFuXRkuPqgxR6=w300-h300"
     },
     {
@@ -50,7 +60,7 @@
     },
     {
       "uuid": "fd7297fc5f95",
-      "solution_text": "$\\mathop {\\lim }\\limits_{x \\to 0} {\\left( {\\tan \\left( {{\\pi \\over 4} + x} \\right)} \\right)^{{1 \\over x}}}$\nThis is 1^{$\\infty $} form.\n= ${e^{\\mathop {\\lim }\\limits_{x \\to 0} \\left[ {\\tan \\left( {{\\pi \\over 4} + x} \\right) - 1} \\right] \\times {1 \\over x}}}$\n= ${e^{\\mathop {\\lim }\\limits_{x \\to 0} \\left[ {{{1 + \\tan x} \\over {1 - \\tan x}} - 1} \\right] \\times {1 \\over x}}}$\n= ${e^{\\mathop {\\lim }\\limits_{x \\to 0} \\left[ {{{2\\tan x} \\over {x\\left( {1 - \\tan x} \\right)}}} \\right]}}$\n= ${e^{2\\mathop {\\lim }\\limits_{x \\to 0} \\left[ {{{\\tan x} \\over x} \\times {1 \\over {\\left( {1 - \\tan x} \\right)}}} \\right]}}$\n= ${e^{2\\mathop {\\lim }\\limits_{x \\to 0} \\left[ {1 \\times {1 \\over {\\left( {1 - 0} \\right)}}} \\right]}}$\n= e$^{2}$",
+      "solution_text": "$\\pmb{\\text{Step 1: Identify the limit form}}$\n\nAs $x \\to 0$, $\\tan(\\frac{\\pi}{4} + x) \\to \\tan(\\frac{\\pi}{4}) = 1$ and $\\frac{1}{x} \\to \\infty$. This is an indeterminate form of the type $1^{\\infty}$.\n\n$\\pmb{\\text{Step 2: Apply the standard formula for } 1^{\\infty}}$\n\nFor a limit of the form $\\lim_{x \\to a} [f(x)]^{g(x)}$ where $f(x) \\to 1$ and $g(x) \\to \\infty$, the result is:\n$$e^{\\lim_{x \\to a} [f(x) - 1]g(x)}$$\n\nApplying this here:\n$$L = e^{\\lim_{x \\to 0} \\left[ \\tan\\left( \\frac{\\pi}{4} + x \\right) - 1 \\right] \\frac{1}{x}}$$\n\n$\\pmb{\\text{Step 3: Simplify the trigonometric expression}}$\n\nUsing the identity $\\tan(A+B) = \\frac{\\tan A + \\tan B}{1 - \\tan A \\tan B}$:\n$$\\tan\\left( \\frac{\\pi}{4} + x \\right) = \\frac{1 + \\tan x}{1 - \\tan x}$$\nSubstituting this back into the limit:\n$$L = e^{\\lim_{x \\to 0} \\left[ \\frac{1 + \\tan x}{1 - \\tan x} - 1 \\right] \\frac{1}{x}} = e^{\\lim_{x \\to 0} \\left[ \\frac{1 + \\tan x - (1 - \\tan x)}{1 - \\tan x} \\right] \\frac{1}{x}}$$\n$$L = e^{\\lim_{x \\to 0} \\left[ \\frac{2 \\tan x}{x(1 - \\tan x)} \\right]}$$\n\n$\\pmb{\\text{Step 4: Evaluate the final limit}}$\n\nUsing the standard limit $\\lim_{x \\to 0} \\frac{\\tan x}{x} = 1$:\n$$L = e^{2 \\cdot \\lim_{x \\to 0} \\left( \\frac{\\tan x}{x} \\right) \\cdot \\lim_{x \\to 0} \\left( \\frac{1}{1 - \\tan x} \\right)}$$\n$$L = e^{2 \\cdot 1 \\cdot \\frac{1}{1 - 0}} = e^2$$\n\nTherefore, the correct answer is $\\boxed{e^2}$.",
       "solution_image_url": ""
     },
     {
@@ -59,9 +69,14 @@
       "solution_image_url": ""
     },
     {
-      "uuid": "6ac70857bd9c",
-      "solution_text": "Right answer is $d$ because after heating $(\\Delta)$, dcarboxylation occurs.",
-      "solution_image_url": ""
+      "uuid": "7de7384dad5a",
+      "solution_text": "$\\pmb{\\text{Step-by-step reaction analysis:}}$\n\n$\\pmb{\\text{1. Formation of P (Friedel-Crafts Alkylation):}}$\nWhen benzene reacts with n-propyl chloride ($CH_{3}CH_{2}CH_{2}Cl$) in the presence of anhydrous $AlCl_{3}$, a primary carbocation ($CH_{3}CH_{2}CH_{2}^{+}$) is initially formed. This primary carbocation undergoes a $\\pmb{1,2\\text{-hydride shift}}$ to form a more stable secondary carbocation, the isopropyl cation ($(CH_{3})_{2}CH^{+}$). \n\nThe isopropyl cation then acts as an electrophile and attacks the benzene ring via Electrophilic Substitution Reaction (ESR) to form $\\textbf{Cumene}$ (isopropylbenzene).\n$$\\text{Benzene} + CH_{3}CH_{2}CH_{2}Cl \\xrightarrow{AlCl_{3}} \\text{C}_{6}\\text{H}_{5}\\text{CH(CH}_{3})_{2} \\text{ (P)}$$\n\n$\\pmb{\\text{2. Formation of Q and R (Cumene Process):}}$\n$\\pmb{\\text{(i) Oxidation:}}$ Cumene (P) is oxidized by air ($O_{2}$) to form $\\textbf{Cumene hydroperoxide}$. The tertiary hydrogen at the benzylic position is particularly susceptible to radical oxidation.\n\n$\\pmb{\\text{(ii) Acid Hydrolysis:}}$ Treatment of cumene hydroperoxide with dilute acid ($H_{3}O^{+}$) and heat causes a rearrangement that yields $\\textbf{Phenol}$ and $\\textbf{Acetone}$.\n\n$$\\text{Cumene hydroperoxide} \\xrightarrow{H_{3}O^{+}/\\Delta} \\text{C}_{6}\\text{H}_{5}\\text{OH (Q)} + (CH_{3})_{2}CO \\text{ (R)}$$\n\n$\\pmb{\\text{Conclusion:}}$\n* $\\pmb{P}$ is $\\textbf{Cumene}$ (isopropylbenzene).\n* $\\pmb{Q}$ is $\\textbf{Phenol}$.\n* $\\pmb{R}$ is $\\textbf{Acetone}$.\n\nTherefore, the correct identification for P, Q, and R corresponds to option $\\boxed{\\text{D}}$.",
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1hKRtk51Uk7b2ajzGHeIqfv4v0bkIbpRm=w1173"
+    },
+    {
+      "uuid": "e1e435ced01e",
+      "solution_text": "$\\pmb{\\text{Step-by-step reaction analysis:}}$\n\n$\\pmb{\\text{1. Conversion of } C_{7}H_{8} \\text{ to A:}}$\nThe starting material $C_{7}H_{8}$ is $\\textbf{Toluene}$ ($C_{6}H_{5}CH_{3}$). Reaction with $3$ moles of $Cl_{2}$ under heating ($\\Delta$) favors free-radical side-chain chlorination over electrophilic aromatic substitution.\n$$C_{6}H_{5}CH_{3} \\xrightarrow[\\Delta]{3Cl_{2}} C_{6}H_{5}CCl_{3} + 3HCl$$\nProduct $\\pmb{\\text{A}}$ is $\\textbf{Benzotrichloride}$.\n\n$\\pmb{\\text{2. Conversion of A to B:}}$\nIn the presence of $Fe$ (which forms $FeBr_{3}$ in situ), electrophilic aromatic substitution occurs. The $-CCl_{3}$ group is a strongly deactivating group and is $\\textbf{meta-directing}$ because it withdraws electron density from the ring via the $-I$ effect and reverse hyperconjugation.\n$$C_{6}H_{5}CCl_{3} \\xrightarrow{Br_{2}/Fe} m\\text{-Br-}C_{6}H_{4}CCl_{3}$$\nProduct $\\pmb{\\text{B}}$ is $\\textbf{m-bromobenzotrichloride}$.\n\n$\\pmb{\\text{3. Conversion of B to C:}}$\nTreatment with $Zn/HCl$ (a reducing agent) reduces the trichloromethyl group ($-CCl_{3}$) back to a methyl group ($-CH_{3}$).\n$$m\\text{-Br-}C_{6}H_{4}CCl_{3} \\xrightarrow{Zn/HCl} m\\text{-Br-}C_{6}H_{4}CH_{3}$$\nProduct $\\pmb{\\text{C}}$ is $\\textbf{m-bromotoluene}$.\n\n\n\n$\\pmb{\\text{Conclusion:}}$\nThe sequence results in the formation of $\\textbf{m-bromotoluene}$.\n\nTherefore, the correct option is $\\boxed{\\text{A}}$.",
+      "solution_image_url": "https://lh3.googleusercontent.com/d/1HmvnmLpeiOZ03JN0wSuPFjAIZITIXuU_=w1128"
     },
     {
       "uuid": "0042b379-23df-4bc9-b1bc-6ec7d2a4bab4",
@@ -90,7 +105,7 @@
     },
     {
       "uuid": "12cd8d2d-0e8e-4fbe-a672-1e3bc8b34c1e",
-      "solution_text": "$\\pmb{\\text{Analysis of Inverse Trigonometric Range Constraints}}$\n\n$\\textbf{1. Analyzing the Equation Range:}$\nWe are given the equation:\n$$\\cos^{-1}(2x) - 2\\cos^{-1}\\left(\\sqrt{1-x^2}\\right) = \\pi$$\n\nRearranging the equation:\n$$\\cos^{-1}(2x) = \\pi + 2\\cos^{-1}\\left(\\sqrt{1-x^2}\\right)$$\n\n$\\textbf{2. Evaluating Possible Values:}$\nWe know that the range of the principal value of $\\cos^{-1}(\\theta)$ is $[0, \\pi]$. Therefore:\n- The left-hand side (LHS), $\\cos^{-1}(2x)$, must satisfy: $0 \\leq \\text{LHS} \\leq \\pi$.\n- On the right-hand side (RHS), since $\\cos^{-1}\\left(\\sqrt{1-x^2}\\right) \\geq 0$, we have:\n$$\\text{RHS} = \\pi + 2\\cos^{-1}\\left(\\sqrt{1-x^2}\\right) \\geq \\pi$$\n\n$\\textbf{3. Testing for Equality:}$\nFor the equation to hold, both LHS and RHS must be exactly $\\pi$:\n- For $\\text{RHS} = \\pi$, we need $2\\cos^{-1}\\left(\\sqrt{1-x^2}\\right) = 0$, which implies $\\sqrt{1-x^2} = 1 \\implies \\mathbf{x = 0}$.\n- However, we must check if $x=0$ satisfies the LHS:\n$$\\text{LHS} = \\cos^{-1}(2 \\cdot 0) = \\cos^{-1}(0) = \\frac{\\pi}{2}$$\n\nSince $\\frac{\\pi}{2} \\neq \\pi$, the value $x=0$ is not a solution.\n\n$\\textbf{4. Conclusion for Set S:}$\nThere are no values of $x$ in the interval $\\left[-\\frac{1}{2}, \\frac{1}{2}\\right]$ that satisfy the equation. Thus:\n$$S = \\phi \\quad (\\text{Empty set})$$\n\nThe sum over an empty set of elements is defined as $\\mathbf{0}$.\n\nTherefore, the correct option is $\\mathbf{A}$.",
+      "solution_text": "$\\pmb{\\text{Statistical Analysis of Variance Constraints}}$\n\n$\\textbf{1. Calculation of the Arithmetic Mean:}$\nGiven the five observations: $3, 7, 12, a, \\text{ and } 43 - a$. The mean $\\bar{x}$ is calculated as:\n$$\\bar{x} = \\frac{3 + 7 + 12 + a + (43 - a)}{5} = \\frac{65}{5} = 13$$\n\n$\\textbf{2. Formulation of the Variance:}$\nThe formula for variance $\\sigma^2$ is:\n$$\\sigma^2 = \\frac{\\sum x_i^2}{n} - (\\bar{x})^2$$\nSubstituting the values:\n$$\\sigma^2 = \\frac{3^2 + 7^2 + 12^2 + a^2 + (43 - a)^2}{5} - (13)^2$$\n$$\\sigma^2 = \\frac{9 + 49 + 144 + a^2 + (1849 + a^2 - 86a)}{5} - 169$$\n$$\\sigma^2 = \\frac{2a^2 - 86a + 2051}{5} - 169$$\n$$\\sigma^2 = \\frac{2a^2 - 86a + 2051 - 845}{5} = \\frac{2a^2 - 86a + 1206}{5}$$\n$$\\sigma^2 = \\frac{2}{5}(a^2 - 43a + 603)$$\n\n$\\textbf{3. Condition for Natural Number Variance:}$\nFor $\\sigma^2$ to be a natural number, the expression $(a^2 - 43a + 603)$ must be a multiple of $5$. Let:\n$$a^2 - 43a + 603 \\equiv 0 \\pmod{5}$$\nSubstituting $43 \\equiv 3 \\pmod{5}$ and $603 \\equiv 3 \\pmod{5}$:\n$$a^2 - 3a + 3 \\equiv 0 \\pmod{5}$$\n\nWe test possible values of $a \\pmod{5}$:\n- If $a \\equiv 0: 0^2 - 3(0) + 3 = 3 \\not\\equiv 0$\n- If $a \\equiv 1: 1^2 - 3(1) + 3 = 1 \\not\\equiv 0$\n- If $a \\equiv 2: 2^2 - 3(2) + 3 = 4 - 6 + 3 = 1 \\not\\equiv 0$\n- If $a \\equiv 3: 3^2 - 3(3) + 3 = 9 - 9 + 3 = 3 \\not\\equiv 0$\n- If $a \\equiv 4: 4^2 - 3(4) + 3 = 16 - 12 + 3 = 7 \\equiv 2 \\not\\equiv 0$\n\n$\\textbf{4. Alternative Discriminant Analysis:}$\nIf we set $a^2 - 43a + (603 - 5n) = 0$, for $a$ to be an integer, the discriminant $D$ must be a perfect square:\n$$D = (-43)^2 - 4(1)(603 - 5n) = 1849 - 2412 + 20n = 20n - 563$$\nThe last digit of $20n$ is always $0$. Thus, the last digit of $20n - 563$ is always $7$.\nSince no perfect square ends in $7$ (squares end in $0, 1, 4, 5, 6, 9$), $D$ can never be a perfect square.\n\n$\\textbf{Conclusion:}$\nThere are no natural numbers $a$ that satisfy the condition.\nTotal number of values = $\\mathbf{0}$.",
       "solution_image_url": ""
     },
     {
@@ -226,7 +241,7 @@
     {
       "uuid": "9b1f455b-fe1a-472c-b0c6-943ee9f05987",
       "solution_text": "$\\textbf{Step 1: Understanding the region boundaries}$\n\nThe region is bounded by:\n- Upper boundary: $y = 4\\sqrt{x}$\n- Lower boundary: $y = |x - 5|$\n\nWe need to find where these curves intersect and understand the behavior of $|x - 5|$.\n\n$\\textbf{Step 2: Analyzing the absolute value function}$\n\nThe function $y = |x - 5|$ can be written as:\n\n$$y = |x - 5| = \\begin{cases} 5 - x & \\text{if } x \\leq 5 \\\\ x - 5 & \\text{if } x > 5 \\end{cases}$$\n\n$\\textbf{Step 3: Finding intersection points}$\n\nFor $x \\leq 5$: Setting $5 - x = 4\\sqrt{x}$\n\nSquaring both sides: $(5 - x)^2 = 16x$\n\n$$25 - 10x + x^2 = 16x$$\n\n$$x^2 - 26x + 25 = 0$$\n\n$$(x - 1)(x - 25) = 0$$\n\nSince we need $x \\leq 5$, we have $x = 1$.\n\nFor $x > 5$: Setting $x - 5 = 4\\sqrt{x}$\n\nSquaring: $(x - 5)^2 = 16x$\n\n$$x^2 - 10x + 25 = 16x$$\n\n$$x^2 - 26x + 25 = 0$$\n\nThis gives $x = 25$ (since $x = 1$ doesn't satisfy $x > 5$).\n\n$\\textbf{Step 4: Computing the area}$\n\nThe region extends from $x = 1$ to $x = 25$. We split the integral at $x = 5$:\n\n$$A = \\int_1^5 [4\\sqrt{x} - (5-x)] dx + \\int_5^{25} [4\\sqrt{x} - (x-5)] dx$$\n\nAlternatively, we can compute:\n\n$$A = \\int_1^{25} 4\\sqrt{x} dx - \\text{(Area under } |x-5| \\text{)}$$\n\nThe area under $|x-5|$ from $x = 1$ to $x = 25$ consists of two triangles:\n- Triangle 1: base = $(5-1) = 4$, height = $4$, area = $\\frac{1}{2} \\times 4 \\times 4 = 8$\n- Triangle 2: base = $(25-5) = 20$, height = $20$, area = $\\frac{1}{2} \\times 20 \\times 20 = 200$\n\n$\\textbf{Step 5: Evaluating the integral}$\n\n$$\\int_1^{25} 4\\sqrt{x} dx = 4 \\cdot \\frac{2}{3}x^{3/2} \\bigg|_1^{25}$$\n\n$$= \\frac{8}{3}[25^{3/2} - 1^{3/2}]$$\n\n$$= \\frac{8}{3}[125 - 1]$$\n\n$$= \\frac{8}{3} \\times 124 = \\frac{992}{3}$$\n\n$\\textbf{Step 6: Computing the final area}$\n\n$$A = \\frac{992}{3} - 8 - 200$$\n\n$$= \\frac{992}{3} - 208$$\n\n$$= \\frac{992 - 624}{3}$$\n\n$$= \\frac{368}{3}$$\n\n$\\textbf{Step 7: Finding 3A}$\n\n$$3A = 3 \\times \\frac{368}{3} = 368$$\n\n$\\textbf{Conclusion:}$\n\nThe value of $3A$ is $\\textbf{368}$.",
-      "solution_image_url": ""
+      "solution_image_url": "https://lh3.googleusercontent.com/d/14LgzHFm4_2MrPn97en7MzmPlZyJTtZ9H=w1090"
     },
     {
       "uuid": "9b62f863-905a-4f91-b24d-5c8ffca22403",
