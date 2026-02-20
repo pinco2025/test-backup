@@ -1,7 +1,7 @@
 {
   "testId": "IPFT-2-03",
   "testCode": "IPFT-2-03",
-  "backupTimestamp": "2026-02-17T12:16:00.431Z",
+  "backupTimestamp": "2026-02-20T21:40:21.888Z",
   "solutions": [
     {
       "uuid": "22206c3675d7",
@@ -80,7 +80,7 @@
     },
     {
       "uuid": "ddb539a827c5",
-      "solution_text": "",
+      "solution_text": "$\\pmb{\\text{Step-by-step reaction analysis:}}$\n\n$\\begin{array}{|l|l|l|} \\hline \\textbf{Step} & \\textbf{Reagent} & \\textbf{Transformation} \\\\ \\hline 1 & PCC & \\text{Secondary alcohol } \\rightarrow \\text{ Ketone} \\\\ \\hline 2 & NaOI & \\text{Iodoform reaction (Methyl ketone } \\rightarrow \\text{ Carboxylate)} \\\\ \\hline 3 & \\text{NaOH + CaO} & \\text{Decarboxylation (Removal of } CO_{2}) \\\\ \\hline \\end{array}$\n\n$\\pmb{\\text{Detailed Explanation:}}$\n\n  - $\\pmb{\\text{1. Formation of A:}}$ Hex-4-ene-2-ol ($CH_{3}-CH=CH-CH_{2}-CH(OH)-CH_{3}$) is a secondary alcohol. Pyridinium chlorochromate ($PCC$) is a mild oxidizing agent that converts secondary alcohols into ketones without affecting the carbon-carbon double bond.\n    $$CH_{3}-CH=CH-CH_{2}-CH(OH)-CH_{3} \\xrightarrow{PCC} CH_{3}-CH=CH-CH_{2}-CO-CH_{3} \\text{ (A)}$$\n    Product $\\pmb{A}$ is $\\textbf{Hex-4-ene-2-one}$.\n\n  - $\\pmb{\\text{2. Formation of B:}}$ Reaction with sodium hypoiodite ($NaOI$, formed from $I_{2}/NaOH$) is the iodoform test. Since 'A' is a methyl ketone, it reacts to form a yellow precipitate of iodoform ($CHI_{3}$) and the sodium salt of a carboxylic acid with one less carbon atom.\n    $$CH_{3}-CH=CH-CH_{2}-CO-CH_{3} \\xrightarrow{NaOI} CH_{3}-CH=CH-CH_{2}-COONa \\text{ (B)} + CHI_{3}$$\n    Product $\\pmb{B}$ is $\\textbf{Sodium pent-3-enoate}$.\n\n  - $\\pmb{\\text{3. Formation of C:}}$ Heating the sodium salt of the carboxylic acid with soda lime ($NaOH + CaO$) results in decarboxylation, where the $-COONa$ group is replaced by a hydrogen atom.\n    $$CH_{3}-CH=CH-CH_{2}-COONa \\xrightarrow{NaOH/CaO, \\Delta} CH_{3}-CH=CH-CH_{3} \\text{ (C)} + Na_{2}CO_{3}$$\n    Product $\\pmb{C}$ is $\\textbf{2-pentene}$ (specifically, the double bond position remains at carbon 2 of the resulting 5-carbon chain).\n\n\n\n$\\pmb{\\text{Conclusion:}}$\n\n  The sequence of oxidation, iodoform reaction, and decarboxylation leads to the formation of $\\textbf{2-pentene}$.\n\nTherefore, the correct option is $\\boxed{\\text{A}}$.",
       "solution_image_url": ""
     },
     {
