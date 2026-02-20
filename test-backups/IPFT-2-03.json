@@ -1,6 +1,6 @@
 {
   "testCode": "IPFT-2-03",
-  "backupTimestamp": "2026-02-17T12:16:00.430Z",
+  "backupTimestamp": "2026-02-20T21:40:18.191Z",
   "status": "completed",
   "completionPercentage": 100,
   "currentStep": "test-review",
@@ -747,13 +747,13 @@
         },
         {
           "uuid": "ddb539a827c5",
-          "question": "Hex-4-ene-2-ol on treatment with PCC gives 'A' on reaction with sodium hypoiodite gives 'B', which on further heating with soda lime gives 'C'. The compound 'C' is",
+          "question": "Hex-4-ene-2-ol on treatment with $PCC$ gives 'A'. 'A' on reaction with sodium hypoiodite gives 'B', which on further heating with soda lime gives 'C'. The compound 'C' is:",
           "question_image_url": "",
           "option_a": "2-pentene",
           "option_a_image_url": "",
           "option_b": "proponaldehyde",
           "option_b_image_url": "",
-          "option_c": "2-butane",
+          "option_c": "2-butene",
           "option_c_image_url": "",
           "option_d": "4-methylpent-2-ene",
           "option_d_image_url": "",
@@ -1437,6 +1437,6 @@
     "testType": "Full",
     "description": "Full Syllabus Test 3",
     "createdAt": "2026-01-13T17:52:24.130Z",
-    "lastModified": "2026-02-17T12:16:00.430Z"
+    "lastModified": "2026-02-20T21:40:18.197Z"
   }
 }
