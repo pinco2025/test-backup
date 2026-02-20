@@ -1,6 +1,6 @@
 {
   "testCode": "IPFT-2-04",
-  "backupTimestamp": "2026-02-17T12:16:06.813Z",
+  "backupTimestamp": "2026-02-20T21:40:22.292Z",
   "status": "completed",
   "completionPercentage": 100,
   "currentStep": "test-review",
@@ -745,7 +745,7 @@
         },
         {
           "uuid": "710bfeb5fd27",
-          "question": "Identify the major product C formed in the following reaction sequence :\n$$\n\\mathrm{CH}_3-\\mathrm{CH}_2-\\mathrm{CH}_2-\\mathrm{I} \\xrightarrow{\\mathrm{NaCN}} \\mathrm{A}\n$$\n$$\\mathrm{\\mathrel{\\mathop{\\kern0pt\\longrightarrow}\n\\limits_{Partial\\,hydrolysis}^{O{H^ - }}} B\\mathrel{\\mathop{\\kern0pt\\longrightarrow}\n\\limits_{B{r_2}}^{NaOH}} \\mathop C\\limits_{(major)}}$$",
+          "question": "Identify the major product C formed in the following reaction sequence:\n\n$CH_3-CH_2-CH_2-I \\xrightarrow{NaCN} A \\xrightarrow[Partial\\,hydrolysis]{OH^{-}} B \\xrightarrow{Br_{2}/NaOH} C \\text{ (major)}$",
           "question_image_url": "",
           "option_a": "propylamine",
           "option_a_image_url": "",
@@ -753,7 +753,7 @@
           "option_b_image_url": "",
           "option_c": "butanamide",
           "option_c_image_url": "",
-          "option_d": "$$\\alpha$$-bromobutanoic acid",
+          "option_d": "$\\alpha$-bromobutanoic acid",
           "option_d_image_url": "",
           "answer": "A",
           "division": 1,
@@ -1430,6 +1430,6 @@
     "testType": "Full",
     "description": "Full Syllabus Test 4",
     "createdAt": "2026-01-13T17:52:24.130Z",
-    "lastModified": "2026-02-17T12:16:06.813Z"
+    "lastModified": "2026-02-20T21:40:22.292Z"
   }
 }
